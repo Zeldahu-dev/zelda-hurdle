@@ -1,10 +1,4 @@
 var musicListWithLinks = [
-    // Same music as 14: Until the Day You Rise Again [Game Over] - Etrian Odyssey 2: Heroes of Lagaard
-    //  {
-    //    url: "https://soundcloud.com/beignet1/until-the-next-adventure",
-    //    answer:
-    //      "Until the Next Adventure [Game Over] - Etrian Odyssey 3: The Drowned City",
-    //  },
     {
         url: "https://soundcloud.com/beignet1/the-tale-unfolds-opening",
         answer: 0,
