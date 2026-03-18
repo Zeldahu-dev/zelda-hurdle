@@ -9,7 +9,6 @@ var app = (function () {
     ["Phantom Hourglass", "Spirit Tracks"],
     ["A Link Between Worlds", "Tri Force Heroes"],
     ["Breath of the Wild", "Tears of the Kingdom"],
-    ["The Wind Waker", "The Wind Waker HD"],
     ["Hyrule Warriors: Age of Calamity", "Hyrule Warriors: Age of Imprisonment"],
     ["Link's Awakening (Remake)", "Echoes of Wisdom"],
     ["Hyrule Warriors", "Hyrule Warriors Legends"],
@@ -1861,7 +1860,7 @@ var app = (function () {
   }
 
   function Ze(e) {
-    let t, n, r, s, i;
+    let t, n, r, s, i, brokenSongInfo, brokenSongInfoText;
     return (
       (s = new ae({
         props: {
@@ -1876,6 +1875,8 @@ var app = (function () {
       s.$on("click", e[22]),
       {
         c() {
+          const brokenSong = musicNameList.find((m) => m.id == e[1].correctAnswer);
+          const brokenSongName = brokenSong ? brokenSong["name"] : "Unknown song";
           (t = w("p")),
             (t.textContent =
               "There was an error loading the player. Please reload and try\n                again."),
@@ -1884,9 +1885,13 @@ var app = (function () {
             Q(s.$$.fragment),
             M(t, "class", "mb-3"),
             M(r, "class", "flex justify-center");
+            (brokenSongInfo = w("p")),
+            (brokenSongInfoText = _("🔇 Broken track: " + brokenSongName)),
+            brokenSongInfo.appendChild(brokenSongInfoText),
+            M(brokenSongInfo, "class", "mt-3 text-xs opacity-60 italic");
         },
         m(e, o) {
-          g(e, t, o), g(e, n, o), g(e, r, o), ee(s, r, null), (i = !0);
+          g(e, t, o), g(e, n, o), g(e, r, o), ee(s, r, null), g(e, brokenSongInfo, o), (i = !0);
         },
         p(e, t) {
           const n = {};
@@ -1904,7 +1909,7 @@ var app = (function () {
           q(s.$$.fragment, e), (i = !1);
         },
         d(e) {
-          e && y(t), e && y(n), e && y(r), te(s);
+          e && y(t), e && y(n), e && y(r), te(s), e && y(brokenSongInfo);
         },
       }
     );
@@ -3271,7 +3276,7 @@ var app = (function () {
             } else l();
           }),
             n.filter && (s = n.filter(s));
-          var o = s.slice(0, t.resultsList.maxResults);
+          var o = isFinite(t.resultsList.maxResults) ? s.slice(0, t.resultsList.maxResults) : s;
           (t.feedback = {
             query: e,
             matches: s,
@@ -3936,7 +3941,11 @@ var app = (function () {
           threshold: 1,
           wrapper: !1,
           resultsList: {
-            maxResults: 10,
+            maxResults: Infinity,
+            element: (list) => {
+              list.style.maxHeight = "60vh";
+              list.style.overflowY = "auto";
+            },
           },
           diacritics: !0,
           noresults: !0,
@@ -4294,7 +4303,7 @@ var app = (function () {
             '\'s musics. Based on <a href="https://joywave-heardle.glitch.me/" title="Joywave Heardle">Joywave Heardle</a>.</p> \n\n<p class="mb-3">Each music is randomly chosen from ' +
             artist +
             '\'s soundtrack.</p> \n\n\n\n ' +
-            '</p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://github.com/">Github</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
+            '</p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://github.com/">Github</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. \n\n\n\n <p class="text-xs mb-3 text-custom-line">RIP Dank Dungeon, also, there is no Castlevania music in this game.👁👁'),
           M(n, "class", "text");
       },
       m(e, t) {

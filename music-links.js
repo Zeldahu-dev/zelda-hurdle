@@ -1247,528 +1247,531 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 307,
     },
+    // Four Swords
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 308,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 309,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 310,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/talus-cave-the-legend-of-zelda-four-swords-anniversary-edition",
         answer: 311,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-750893959/zelda-four-swords-gba-ost-sea",
         answer: 312,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 313,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/talus-cave-the-legend-of-zelda",
         answer: 314,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/quack-vgm/the-legend-of-zelda-four-swords-anniversary-edition",
         answer: 315,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 316,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 317,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/quack-vgm/four-swords-mashup-chamber-of-insight-the-legend-of-zelda",
         answer: 318,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 319,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 320,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/doktor-vgm/prologue-the-legend-of-zelda-four-swords-anniversary-edition",
         answer: 321,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 322,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 323,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
         answer: 324,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/quack-vgm/the-legend-of-zelda-four-swords-anniversary-edition-1",
         answer: 325,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/ct-356374179/the-legend-of-zelda-four-swords-anniversary-edition-title-theme",
         answer: 326,
     },
+    // The Wind Waker
+    // https://soundcloud.com/user-405995293/sets/the-legend-of-zelda-the-wind-1
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/file-select-the-legend-of-zelda-the-wind-waker-1?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 327,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/file-select-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 328,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-legendary-hero-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 329,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/outset-island-the-legend-of-zelda-the-wind-waker-1?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 330,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/outset-island-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 331,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/inside-a-house-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 332,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/grandpas-house-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 333,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/fencing-instruction-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 334,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/beedles-shop-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 335,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/a-mysterious-giant-bird-attacks-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 336,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-forest-of-outset-island-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 337,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/battle-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 338,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/encounter-with-tetra-the-legend-of-zeldathe-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 339,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/arylls-kidnapping-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 340,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/grandmas-theme-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 341,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/grandmas-theme-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 342,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/departure-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 343,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/pirates-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 344,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/pirates-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 345,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/inside-the-pirate-ship-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 346,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/forsaken-fortress-invasion-1-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 347,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/forsaken-fortress-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 348,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/forsaken-fortress-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 349,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/reunion-with-sister-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 350,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/rendezvous-with-the-ship-3-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 351,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/windfall-island-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 352,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/windfall-island-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 353,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/potion-shop-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 354,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/dawn-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 355,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-great-sea-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 356,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/maritime-battle-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 357,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-second-maritime-battle-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 358,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/sacred-shrine-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 359,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/to-hyrule-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 360,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/dragon-roost-island-in-game-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 361,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/dragon-roost-cavern-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 362,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/mini-boss-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 363,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/gohma-battle-first-half-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 364,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/gohma-battle-first-half-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 365,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/gohma-battle-second-half-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 366,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/gohma-battle-second-half-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 367,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/boss-clear-fanfare-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 368,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/forest-haven-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 369,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/inside-forest-haven-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 370,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-deku-tree-and-koroks-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 371,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/forbidden-woods-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 372,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/kalle-demos-appears-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 373,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/kalle-demos-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 374,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/ceremony-in-the-woods-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 375,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/song-of-the-new-years-ceremony-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 376,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-great-sea-is-cursed-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 377,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/jabun-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 378,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/tower-of-the-gods-appears-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 379,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/tower-of-the-gods-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 380,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/gohdan-appears-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 381,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/gohdan-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 382,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/sealed-hyrule-castle-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 383,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/hyrule-castle-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 384,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/phantom-ganon-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 385,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/phantom-ganon-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 386,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/arylls-rescue-1-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 387,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/arylls-rescue-4-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 388,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-tower-of-forsaken-fortress-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 389,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/helmaroc-king-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 390,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/helmaroc-king-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 391,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/ganondorf-on-forsaken-fortress-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 392,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/hyrule-king-appears-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 393,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/zeldas-awakening-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 394,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/princess-zeldas-theme-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 395,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/fairy-spring-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 396,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/fairy-spring-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 397,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-fairy-queen-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 398,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/sage-laruto-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 399,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/medlis-awakening-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 400,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/yacht-game-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 401,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/earth-temple-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 402,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/jalhalla-appears-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 403,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/jalhalla-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 404,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/medlis-prayer-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 405,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/sage-fado-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 406,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/makars-awakening-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 407,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/wind-temple-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 408,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/molgera-appears-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 409,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/molgera-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 410,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/molgera-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 411,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/makars-prayer-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 412,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/the-ghost-ship-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 413,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/hero-of-the-wind-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 414,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/ganons-castle-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 415,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/gohma-first-half-2nd-time-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 416,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/gohma-second-half-2nd-time-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 417,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/kalle-demos-2nd-time-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 418,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/jalhalla-2nd-time-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 419,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/illusionary-room-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 420,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/molgera-2nd-time-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 421,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/puppet-ganon-first-half-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 422,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/gohma-appears-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 423,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/puppet-ganon-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 424,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/puppet-ganon-puppet-mode-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 425,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/puppet-ganon-spider-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 426,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/puppet-ganon-spider-mode-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 427,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/puppet-ganon-snake-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 428,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-724848415/puppet-ganon-snake-mode-the-legend-of-zelda-the-wind-waker-hd?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 429,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/puppet-ganon-second-half-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 430,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/ganondorf-battle-first-half-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 431,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/ganondorf-battle-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 432,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/farewell-hyrule-king-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 433,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/staff-roll-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 434,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/arylls-theme-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 435,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/game-demo-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 436,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/user-405995293/demo-nintendo-spaceworld-2001-the-legend-of-zelda-the-wind-waker?in=user-405995293/sets/the-legend-of-zelda-the-wind-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 437,
     },
     {
-        url: "",
+        url: "https://soundcloud.com/anderouspi/title-theme-the-legend-of-1",
         answer: 438,
     },
     {
