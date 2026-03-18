@@ -15,6 +15,8 @@ var app = (function () {
     ["The Faces of Evil", "The Wand of Gamelon"],
     ["Zelda's Adventure", "The Wand of Gamelon"],
     ["The Faces of Evil", "Zelda's Adventure"],
+    ["The Wind Waker", "The Wind Waker HD"],
+    ["Four Swords Adventures", "Four Swords Adventures (Navi Trackers)"],
   ];
 
   function isCloseGame(gameA, gameB) {
