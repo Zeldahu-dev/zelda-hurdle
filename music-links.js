@@ -4006,4 +4006,414 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/vgmdr/ganons-theme-milk-bar-musicians?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 992,
     },
+    // Tri Force Heroes
+    // https://soundcloud.com/trilliby-510875556/sets/the-legend-of-zelda-tri-force
+    {
+        url: "https://soundcloud.com/trilliby-510875556/title-theme-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 993,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/our-story-begins-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 994,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/hytopia-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 995,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/madame-coutures-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 996,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/daily-riches-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 997,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/miiverse-gallery-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 998,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/sir-combslys-theme-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 999,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/king-tufts-theme-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1000,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/hytopia-castle-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1001,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/stage-selection-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1002,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/woodlands-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1003,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/enemy-battle-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1004,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/sub-boss-battle-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1005,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/treasure-room-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1006,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/riverside-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1007,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/boss-battle-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1008,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/volcano-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1009,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/hinox-bros-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1010,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/ice-cavern-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1011,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/fortress-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1012,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/lady-mauds-theme-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1013,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/the-ladys-pets-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1014,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/dunes-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1015,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/ruins-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1016,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/sky-realm-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1017,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/sky-temple-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1018,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/boss-battle-the-lady-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1019,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/boss-battle-lady-maud-phase-2-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1020,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/lifting-the-curse-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1021,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/staff-roll-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1022,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/den-of-trials-portal-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1023,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/den-of-trials-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1024,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/boss-battle-shadow-links-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1025,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/den-of-trials-treasure-room-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1026,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/coliseum-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1027,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/coliseum-battle-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1028,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/coliseum-results-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1029,
+    },
+    {
+        url: "https://soundcloud.com/trilliby-510875556/game-over-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1030,
+    },
+    {
+        url: "https://soundcloud.com/vgm-dr/overworld-a-link-to-the-past-zelda-tri-force-heroes-lucky-8-ball?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1031,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1032,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1033,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1034,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1035,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1036,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1037,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1038,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1039,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1040,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1041,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1042,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1043,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1044,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1045,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1046,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1047,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1048,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1049,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1050,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1051,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1052,
+    },
+    {
+        url: "",
+        answer: 1053,
+    },
+    {
+        url: "",
+        answer: 1054,
+    },
+    {
+        url: "",
+        answer: 1055,
+    },
+    {
+        url: "",
+        answer: 1056,
+    },
+    {
+        url: "",
+        answer: 1057,
+    },
+    {
+        url: "",
+        answer: 1058,
+    },
+    {
+        url: "",
+        answer: 1059,
+    },
+    {
+        url: "",
+        answer: 1060,
+    },
+    {
+        url: "",
+        answer: 1061,
+    },
+    {
+        url: "",
+        answer: 1062,
+    },
+    {
+        url: "",
+        answer: 1063,
+    },
+    {
+        url: "",
+        answer: 1064,
+    },
+    {
+        url: "",
+        answer: 1065,
+    },
+    {
+        url: "",
+        answer: 1066,
+    },
+    {
+        url: "",
+        answer: 1067,
+    },
+    {
+        url: "",
+        answer: 1068,
+    },
+    {
+        url: "",
+        answer: 1069,
+    },
+    {
+        url: "",
+        answer: 1070,
+    },
+    {
+        url: "",
+        answer: 1071,
+    },
+    {
+        url: "",
+        answer: 1072,
+    },
+    {
+        url: "",
+        answer: 1073,
+    },
+    {
+        url: "",
+        answer: 1074,
+    },
+    {
+        url: "",
+        answer: 1075,
+    },
+    {
+        url: "",
+        answer: 1076,
+    },
+    {
+        url: "",
+        answer: 1077,
+    },
+    {
+        url: "",
+        answer: 1078,
+    },
+    {
+        url: "",
+        answer: 1079,
+    },
+    {
+        url: "",
+        answer: 1080,
+    },
+    {
+        url: "",
+        answer: 1081,
+    },
+    {
+        url: "",
+        answer: 1082,
+    },
+    {
+        url: "",
+        answer: 1083,
+    },
+    {
+        url: "",
+        answer: 1084,
+    },
+    {
+        url: "",
+        answer: 1085,
+    },
+    {
+        url: "",
+        answer: 1086,
+    },
+    {
+        url: "",
+        answer: 1087,
+    },
+    {
+        url: "",
+        answer: 1088,
+    },
+    {
+        url: "",
+        answer: 1089,
+    },
+    {
+        url: "",
+        answer: 1090,
+    },
+    {
+        url: "",
+        answer: 1091,
+    },
+    {
+        url: "",
+        answer: 1092,
+    },
+    {
+        url: "",
+        answer: 1093,
+    },
+    {
+        url: "",
+        answer: 1094,
+    },
 ];

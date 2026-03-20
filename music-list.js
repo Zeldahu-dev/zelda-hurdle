@@ -5001,4 +5001,516 @@ var musicNameList = [
         name: "Milk Bar - Ganon Battle - A Link Between Worlds",
         tags: ["Event"],
     },
+    // Tri Force Heroes
+    // https://soundcloud.com/trilliby-510875556/sets/the-legend-of-zelda-tri-force
+    {
+        id: 993,
+        name: "Title Theme - Tri Force Heroes",
+        tags: ["Other"],
+    },
+    {
+        id: 994,
+        name: "Our Story Begins - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 995,
+        name: "Hytopia Village - Tri Force Heroes",
+        tags: ["Town"],
+    },
+    {
+        id: 996,
+        name: "Madame Couture - Tri Force Heroes",
+        tags: ["Character"],
+    },
+    {
+        id: 997,
+        name: "Daily Riches - Tri Force Heroes",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 998,
+        name: "Miiverse Gallery - Tri Force Heroes",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 999,
+        name: "Sir Combsly - Tri Force Heroes",
+        tags: ["Character"],
+    },
+    {
+        id: 1000,
+        name: "King Tuft - Tri Force Heroes",
+        tags: ["Character"],
+    },
+    {
+        id: 1001,
+        name: "Hytopia Castle - Tri Force Heroes",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1002,
+        name: "Stage Select - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1003,
+        name: "Woodlands - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1004,
+        name: "Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1005,
+        name: "Mini Boss Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1006,
+        name: "Treasure Room - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1007,
+        name: "Riverside - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1008,
+        name: "Boss Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1009,
+        name: "Volcano - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1010,
+        name: "Hinox Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1011,
+        name: "Ice Cavern - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1012,
+        name: "Fortress - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1013,
+        name: "Lady Maud - Tri Force Heroes",
+        tags: ["Character"],
+    },
+    {
+        id: 1014,
+        name: "Lady's Pets Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1015,
+        name: "Dunes - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1016,
+        name: "Ruins - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1017,
+        name: "Sky Realm - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1018,
+        name: "Sky Temple - Tri Force Heroes",
+        tags: ["Area", "Dungeon"],
+    },
+    {
+        id: 1019,
+        name: "Lady Maud Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1020,
+        name: "Lady Maud Battle - Second Phase - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1021,
+        name: "Lifting the Curse - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1022,
+        name: "Ending Theme - Tri Force Heroes",
+        tags: ["Other"],
+    },
+    {
+        id: 1023,
+        name: "Den of Trials - Entrance - Tri Force Heroes",
+        tags: ["Area", "Dungeon"],
+    },
+    {
+        id: 1024,
+        name: "Den of Trials - Tri Force Heroes",
+        tags: ["Area", "Dungeon"],
+    },
+    {
+        id: 1025,
+        name: "Dark Links Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1026,
+        name: "Treasure Room (Den of Trials) - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1027,
+        name: "Arena - Tri Force Heroes",
+        tags: ["Area"],
+    },
+    {
+        id: 1028,
+        name: "Arena Battle - Tri Force Heroes",
+        tags: ["Battle"],
+    },
+    {
+        id: 1029,
+        name: "Arena Results - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1030,
+        name: "Game Over - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1031,
+        name: "Lucky Ball: Overworld (A Link to the Past) - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1032,
+        name: "Lucky Ball: Ballad of the Goddess - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1033,
+        name: "Lucky Ball: Ballad of the Wind Fish - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1034,
+        name: "Lucky Ball: Clock Town - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1035,
+        name: "Lucky Ball: Dark World - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1036,
+        name: "Lucky Ball: Fairy's Fountain - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1037,
+        name: "Lucky Ball: Realm Overworld - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1038,
+        name: "Lucky Ball: Hyrule Field (Twilight Princess) - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1039,
+        name: "Lucky Ball: Lon Lon Ranch - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1040,
+        name: "Lucky Ball: Lorule Castle - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1041,
+        name: "Lucky Ball: Lost Woods - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1042,
+        name: "Lucky Ball: Skyloft - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1043,
+        name: "Lucky Ball: Song of Storms - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1044,
+        name: "Lucky Ball: The Great Sea - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1045,
+        name: "Lucky Ball: Title Theme (The Wind Waker) - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1046,
+        name: "Lucky Ball: Hilda - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1047,
+        name: "Lucky Ball: Linebeck - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1048,
+        name: "Lucky Ball: Madame Couture - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1049,
+        name: "Lucky Ball: Mother Maiamai - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1050,
+        name: "Lucky Ball: Title Theme (Tri Force Heroes) - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1051,
+        name: "Lucky Ball: Yuga Castle - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1052,
+        name: "Lucky Ball: Zelda's Lullaby - Tri Force Heroes",
+        tags: ["Event"],
+    },
+    {
+        id: 1053,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1054,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1055,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1056,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1057,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1058,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1059,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1060,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1061,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1062,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1063,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1064,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1065,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1066,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1067,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1068,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1069,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1070,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1071,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1072,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1073,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1074,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1075,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1076,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1077,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1078,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1079,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1080,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1081,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1082,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1083,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1084,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1085,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1086,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1087,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1088,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1089,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1090,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1091,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1092,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1093,
+        name: "",
+        tags: [],
+    },
+    {
+        id: 1094,
+        name: "",
+        tags: [],
+    },
 ];
