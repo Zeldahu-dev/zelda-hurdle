@@ -1481,7 +1481,8 @@ var app = (function () {
       tokens.forEach((token) => {
         const span = document.createElement("span");
         const word = token.toLowerCase().replace(/\W/g, "");
-        if (word && refWords.has(word)) {
+        const startsWithUppercase = /^[^A-Za-z]*[A-Z]/.test(token);
+        if (word && startsWithUppercase && refWords.has(word)) {
           span.style.color = "#d9d075";
         }
         span.textContent = token;
