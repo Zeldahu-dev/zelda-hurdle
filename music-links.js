@@ -2723,6 +2723,7 @@ var musicListWithLinks = [
         answer: 672,
     },
     // Phantom Hourglass
+    // https://soundcloud.com/oui-oui-baguette89
     {
         url: "https://soundcloud.com/vgm-dr/the-king-of-the-oceans-the-legend-of-zelda-phantom-hourglass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 673,
@@ -2752,7 +2753,7 @@ var musicListWithLinks = [
         answer: 679,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/theme-of-bellum-zelda-phantom-hourglass-26?si=b44b999b0a7e43e890ea6e01cedce6b7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 680,
     },
     {
@@ -2788,43 +2789,43 @@ var musicListWithLinks = [
         answer: 688,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/set-sail-for-adventure-zelda-phantom-hourglass-19?si=ba6d9052bc024b94b65ac2683f04d43c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 689,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/hero-of-the-winds-zelda-phantom-hourglass-13?si=2b1124d8b2514270893016bbdf2eb985&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 690,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/outset-island-the-storytellers-memories-zelda-phantom-hourglass-22?si=79b410db01ad48f0b39871749609b25f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 691,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/zeldas-lullaby-the-storytellers-memories-zelda-phantom-hourglass-23?si=921c8920bc784a6b910bb4271bec949c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 692,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/off-to-the-seas-the-storytellers-memories-zelda-phantom-hourglass-24?si=dd15864defcf49a0b9652fdaffced70a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 693,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/pirate-ship-zelda-phantom-hourglass-16?si=34e8d90f869a443dab0db46c6ee5de5e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 694,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/dungeon-zelda-phantom-hourglass-9?si=ab9f1582ec784781b722a8c4b307950f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 695,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/theme-of-linebeck-zelda-phantom-hourglass-27?si=fe6eb7647fad491986518302e288011c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 696,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/magic-in-the-air-zelda-phantom-hourglass-15?si=339f20bf3ce54791a92c335196c8e10e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 697,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/sands-of-time-zelda-phantom-hourglass-18?si=db4ec5110ea84905aa7f0108569daba7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 698,
     },
     {
@@ -2832,71 +2833,71 @@ var musicListWithLinks = [
         answer: 699,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/theme-of-the-ocean-king-2-zelda-phantom-hourglass-29?si=a9186c83cd1043f08b9a0dd63c86ebb0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 700,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/zeldas-lullaby-zelda-phantom-hourglass-31?si=4ad4fd80dc754b1c98108abdefa1c9a2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 701,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/dark-waters-zelda-phantom-hourglass-8?si=bee9d74af516434caa488d3e332797b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 702,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/fairys-fountain-zelda-phantom-hourglass-10?si=b414d8191fe3423681aecc1bbafe8eff&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 703,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/beedles-shop-zelda-phantom-hourglass-3?si=af28f600f8734bb399d66d961c4a5bd5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 704,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/big-monsters-of-the-sea-zelda-phantom-hourglass-5?si=9f4fbdd92aab4e8a8899cfcf69ad0ad0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 705,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/cave-zelda-phantom-hourglass-7?si=8f97325be74b4c6bb1a86ce85abd484c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 706,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/battle-zelda-phantom-hourglass-2?si=6a80fbacda2b4cfa951f142f176bd41b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 707,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/uncharted-territory-zelda-phantom-hourglass-30?si=876338088418414cb27348abc6614ab4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 708,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/goron-village?si=9b2f6a86dd8b4c949a9caca3c8cc9774&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 709,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/theme-of-the-ghost-ship-zelda-phantom-hourglass-28?si=dcfc6871773e4f2988a6bd05dd6732e6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 710,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/ghost-ship-battle-1-zelda-phantom-hourglass-11?si=6d01738678a549e3aa7c6065fefc47ec&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 711,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/sword-training-zelda-phantom-hourglass-21?si=7fd471b581c74fccae016f4b999f4df4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 712,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/jolene-battle-zelda-phantom-hourglass-14?si=0f6666756d4742ea8c6d08687ddfb709&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 713,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/tropical-slacking-zelda-phantom-hourglass-25?si=c5caee60ce6a42bfb160e7b8a428ff4d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 714,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/bellum-battle-zelda-phantom-hourglass-4?si=20a1f209124e4b7bb0dbc3f9ed51ea04&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 715,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/sorrow-zelda-phantom-hourglass-20?si=8bd631cc99b641e79a3315454a12b1d6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 716,
     },
     {
@@ -2904,23 +2905,24 @@ var musicListWithLinks = [
         answer: 717,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/ghost-ship-battle-2-zelda-phantom-hourglass-12?si=3b4b298a53b0400c9506859371abf75d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 718,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/boss-battle-zelda-phantom-hourglass-6?si=b9c02b243ad84280b35b5b8634ee81c7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 719,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/a-battle-across-the-world-zelda-phantom-hourglass-1?si=40cc455e0a4e44f6b56a8322ba790217&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 720,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/ranked-amongst-the-best-zelda-phantom-hourglass-17?si=fb038eb9e1eb4fb693351d593685a191&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 721,
     },
     // Spirit Tracks
     // https://soundcloud.com/haden-carter/sets/the-legend-of-zelda-spirit
+    // https://soundcloud.com/oui-oui-baguette89
     {
         url: "https://soundcloud.com/thethiccrat/zelda-spirit-tracks-ost-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 722,
@@ -3070,147 +3072,147 @@ var musicListWithLinks = [
         answer: 758,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/hyrule-castle-zelda-spirit-tracks-6?si=8d2e511aab1548eab59e15c8beeecf78&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 759,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/intro-zelda-spirit-tracks-10?si=71fb7cbdbf9540fc8d5ebe4303701960&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 760,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/zeldas-lullaby-1-zelda-spirit-tracks-8?si=2f6f95cad9a047128759d8efbb4d05bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 761,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/sneaking-zelda-zelda-spirit-tracks-11?si=7d3e66d944d041ff90443a57ce8be253&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 762,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/tower-of-spirits-destroyed-zelda-spirit-tracks-12?si=5a6ffef9b0e2408b9be3be93ac75083c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 763,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/theme-of-cole-zelda-spirit-tracks-6?si=4dc8323689e644dabefed1d2e9c805ce&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 764,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/alfonzo-vs-byrne-zelda-spirit-tracks-13?si=7b5950b30efd4be3962c3a6c5a953cfc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 765,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/zeldas-lullaby-2-zelda-spirit-tracks-9?si=a9a4baab7c194b3d8b2d91a89189261a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 766,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/the-spirit-flute-zelda-spirit-tracks-5?si=0aa791961cd84ce1afd7e3ce77b0878c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 767,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/zelda-in-a-panic-zelda-spirit-tracks-14?si=dd6eb9053b9645079015035be4def508&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 768,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/zelda-possesses-a-phantom-zelda-spirit-tracks-15?si=c33b389eca5a479a80bf3315d7ed1116&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 769,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/battle-on-tracks-zelda-spirit-tracks-2?si=e0c2ca4b438c41e9bc2a1d5db1c6a06d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 770,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/selecting-a-rail-route-zelda-spirit-tracks-16?si=1eae1cda4ce54d9ab8d643538250e384&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 771,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/whittleton-village-zelda-spirit-tracks-7?si=510083979c834b28979a82971c14bb5d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 772,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/battle-zelda-spirit-tracks-3?si=3201007f2e1647d6a23997a82d7c3512&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 773,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/key-masters-zelda-spirit-tracks-7?si=d288a246408c4ea2a07331d2dd82bb43&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 774,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/sword-training-zelda-spirit-tracks-9?si=581f90e754ec4495ac40953e457e9676&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 775,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/restoring-the-spirit-tracks-zelda-spirit-tracks-18?si=36cba682d97041e293bd574b6ead1516&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 776,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/great-eye-in-the-dark-zelda-spirit-tracks-5?si=46a19f27a19e4de29b3c8c0500483271&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 777,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/john-zelda/get-the-key-zelda-spirit-tracks-2?si=15c0cb4b9493486982425b865e91de0d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 778,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/john-zelda/resurrection-of-the-demon-king-zelda-spirit-tracks-3?si=26492a39f3e1421ab49cc65559906030&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 779,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/lokomo-song-gage-zelda-spirit-tracks-17?si=a7e0409e81544c3485a0c1f2dbb9635c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 780,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/lokomo-song-steem-zelda-spirit-tracks-19?si=d7e81a191dcc4ccab0efe5dedb2b1c24&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 781,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/lokomo-song-carben-zelda-spirit-tracks-1?si=9ccc99aeef544c06b934ab70a404e836&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 782,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/john-zelda/lokomo-song-embrose-zelda-spirit-tracks-1?si=3a36e653df524045af092df95d2eb142&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 783,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/john-zelda/lokomo-song-rael-zelda-spirit-tracks-4?si=213bfbe03f6341ef9e496a2899ab7613&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 784,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/john-zelda/zeldas-dashed-hopes-zelda-spirit-tracks-5?si=2621cfc1bcc24c519338dcfa5c43d3e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 785,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/confrontation-zelda-spirit-tracks-4?si=5324614c6969445f95b9504192489d5e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 786,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/phantom-battle-mode-zelda-spirit-tracks-8?si=5a59a651300d40c3be5c9c89affd8f80&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 787,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/john-zelda/the-revivals-completion-zelda-spirit-tracks-6?si=9c1f53588ef141868b7cc064e2397bf1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 788,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/byrne-sacrifice-zelda-spirit-tracks-1?si=5e03bfc8a36b482d868e0ee995659172&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 789,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/malladuss-transformation-zelda-spirit-tracks-2?si=61fd59a96ff040d1908592db70e5420b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 790,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/saying-goodbye-zelda-spirit-tracks-1?si=41046f5660b64a8b9080290854863032&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 791,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/the-final-scene-zelda-spirit-tracks-2?si=5ce8a6a5d2ea467d92499ca028f39cd0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 792,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/battle-mode-results-zelda-spirit-tracks-4?si=47388cf79f9c4ba0ade2092ebf98bfdf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 793,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/battle-mode-linebeck-remix-zelda-spirit-tracks-3?si=1ba9d7e01d2140c49aa38ddfc7e99afb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 794,
     },
     // Skyward Sword
@@ -4017,6 +4019,8 @@ var musicListWithLinks = [
     },
     // Tri Force Heroes
     // https://soundcloud.com/trilliby-510875556/sets/the-legend-of-zelda-tri-force
+    // https://soundcloud.com/oraclo-gazpacho
+    // https://soundcloud.com/oui-oui-baguette89
     {
         url: "https://soundcloud.com/trilliby-510875556/title-theme-the-legend-of-zelda-tri-force-heroes-ost?in=trilliby-510875556/sets/the-legend-of-zelda-tri-force&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 994,
@@ -4174,1413 +4178,1417 @@ var musicListWithLinks = [
         answer: 1032,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/ballad-of-the-goddess-8-bit-zelda-tri-force-heroes-1?si=9dc458206d4a48b1a0d37fa114567554&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1033,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/ballad-of-the-wind-fish-8-bit-zelda-tri-force-heroes-2?si=05cfd383bf8f49d7b908e4895ce91940&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1034,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/clock-town-8-bit-zelda-tri-force-heroes-3?si=25f9892f40a44b0e9c320bb17dfd5ad3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1035,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/dark-world-field-8-bit-zelda-tri-force-heroes-4?si=63c02c1b6a934b608bbe59cedfff2909&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1036,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/fairys-fountain-8-bit-zelda-tri-force-heroes-5?si=02caaef82cb54b88a935b0df4e067e8b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1037,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/realm-overworld-8-bit-zelda-tri-force-heroes-6?si=67119cffa982453fbcd5a8c8a3cab9bc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1038,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/hyrule-field-day-8-bit-zelda-tri-force-heroes-7?si=32c39a875c784c38ac6270f7724c7f51&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1039,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/lon-lon-ranch-8-bit-zelda-tri-force-heroes-8?si=97550401cc25452e9e1bc3adbf8388d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1040,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oui-oui-baguette89/lorule-castle-8-bit-zelda-tri-force-heroes-9?si=34dead2c5c08455486cbcbc51ff870ea&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1041,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/lost-woods-8-bit-zelda-tri-force-heroes-1?si=0db5f9e3e0014c16b7cdc5e6ae8ee148&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1042,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/skyloft-8-bit-zelda-tri-force-heroes-2?si=5e3de57c1fcd4076bfcf8ec46d877459&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1043,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/song-of-storms-8-bit-zelda-tri-force-heroes-3?si=c58071b5d41548439a9da34f0c7bf195&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1044,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/the-great-sea-8-bit-zelda-tri-force-heroes-4?si=24469b25db1b43a6a5c3bca2a423f299&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1045,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/the-wind-waker-main-theme-8-bit-zelda-tri-force-heroes-5?si=9b5b6508cfd44bfe8a1a8e3ff38cfe37&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1046,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/theme-of-hilda-8-bit-zelda-tri-force-heroes-7?si=b6ee20cbea0b45fdb9b41019aed00b76&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1047,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/theme-of-linebeck-8-bit-zelda-tri-force-heroes-8?si=9c3271b6e04c454388a6f7c19b3eb834&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1048,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/theme-of-madame-couture-8-bit-zelda-tri-force-heroes-9?si=3e4a5c1de8ce465980385aebf35d1c5c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1049,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/theme-of-mother-maimai-8-bit-zelda-tri-force-heroes-10?si=904a8de2a395465c969bfc6d8e2a3778&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1050,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/tri-force-heroes-main-theme-8-bit-zelda-tri-force-heroes-11?si=612b962d852e46839bf60a6c56a0d8bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1051,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/yuga-battle-2-8-bit-zelda-tri-force-heroes-12?si=d849a0c39597461f9518a81da2d6224d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1052,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/zeldas-lullaby-8-bit-zelda-tri-force-heroes-13?si=209e833feb064bb98b8a3d1368e7ea63&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1053,
+    },
+    {
+        url: "https://soundcloud.com/oraclo-gazpacho/theme-of-fi-8-bit-zelda-tri-force-heroes-6?si=28f256f527e54a87a78dae89f103a293&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1054,
     },
     // Breath of the Wild
     // https://soundcloud.com/infiniteshadow23/sets/the-legend-of-zelda-breath-of
     {
         url: "https://soundcloud.com/infiniteshadow-nintendo/main-theme",
-        answer: 1054,
-    },
-    {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-towers-rise",
         answer: 1055,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/shrine",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-towers-rise",
         answer: 1056,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-shrine-original",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/shrine",
         answer: 1057,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/highlands",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-shrine-original",
         answer: 1058,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/stationary-guardian-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/highlands",
         answer: 1059,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-temple-of-time",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/stationary-guardian-battle",
         answer: 1060,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-last-king-of-hyrule",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-temple-of-time",
         answer: 1061,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/a-kings-request",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-last-king-of-hyrule",
         answer: 1062,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-field-original",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/a-kings-request",
         answer: 1063,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/shiekah-tower-activated",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-field-original",
         answer: 1064,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/talus-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/shiekah-tower-activated",
         answer: 1065,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kakariko-village",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/talus-battle",
         answer: 1066,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/impas-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/kakariko-village",
         answer: 1067,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-10-000-year-old-legend",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/impas-theme",
         answer: 1068,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/hateno-ancient-tech-lab",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-10-000-year-old-legend",
         answer: 1069,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/great-fairys-fountain",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/hateno-ancient-tech-lab",
         answer: 1070,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/field-night",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/great-fairys-fountain",
         answer: 1071,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kasss-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/field-night",
         answer: 1072,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/kass-main-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/kasss-theme",
         answer: 1073,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/stables",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/kass-main-theme",
         answer: 1074,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/riding-night",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/stables",
         answer: 1075,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/blessing-shrine",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/riding-night",
         answer: 1076,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/hinox-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/blessing-shrine",
         answer: 1077,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/wetlands",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/hinox-battle",
         answer: 1078,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-crazy-flower-lady",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/wetlands",
         answer: 1079,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-theme",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-crazy-flower-lady",
         answer: 1080,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/zoras-domain",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-theme",
         answer: 1081,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-lake",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/zoras-domain",
         answer: 1082,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-ruta-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-lake",
         answer: 1083,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-promise",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-ruta-battle",
         answer: 1084,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-ruta",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/sidons-promise",
         answer: 1085,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-divine-beast",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-ruta",
         answer: 1086,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/blight-ganon-appearance",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/battle-divine-beast",
         answer: 1087,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/waterblight-ganon-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/blight-ganon-appearance",
         answer: 1088,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/heart-container-appearance",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/waterblight-ganon-battle",
         answer: 1089,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-mipha",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/heart-container-appearance",
         answer: 1090,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-champions-power",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-mipha",
         answer: 1091,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-aims",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-champions-power",
         answer: 1092,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/field-snow",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-aims",
         answer: 1093,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/cave",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/field-snow",
         answer: 1094,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-sky",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/cave",
         answer: 1095,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-village",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/the-divine-beast-of-the-sky",
         answer: 1096,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/meeting-teba",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-village",
         answer: 1097,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-flight-range",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/meeting-teba",
         answer: 1098,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/flight-training",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-flight-range",
         answer: 1099,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-medoh-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/flight-training",
         answer: 1100,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/tebas-encouragement",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/vah-medoh-battle",
         answer: 1101,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-medoh",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/tebas-encouragement",
         answer: 1102,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/windblight-ganon-battle",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/divine-beast-vah-medoh",
         answer: 1103,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-revali",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/windblight-ganon-battle",
         answer: 1104,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/house",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/reunion-with-revali",
         answer: 1105,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/snowball-minigame",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/house",
         answer: 1106,
     },
     {
-        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-sisters",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/snowball-minigame",
         answer: 1107,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/field-volcano",
+        url: "https://soundcloud.com/infiniteshadow-nintendo/rito-sisters",
         answer: 1108,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/death-mountain",
+        url: "https://soundcloud.com/nintendomusic-infinite/field-volcano",
         answer: 1109,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/goron-humming",
+        url: "https://soundcloud.com/nintendomusic-infinite/death-mountain",
         answer: 1110,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the",
+        url: "https://soundcloud.com/nintendomusic-infinite/goron-humming",
         answer: 1111,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/goron-city",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the",
         answer: 1112,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/abandoned-north-mine",
+        url: "https://soundcloud.com/nintendomusic-infinite/goron-city",
         answer: 1113,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/meeting-yunobo",
+        url: "https://soundcloud.com/nintendomusic-infinite/abandoned-north-mine",
         answer: 1114,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/vah-rudania-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/meeting-yunobo",
         answer: 1115,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/yunobos-opportunity",
+        url: "https://soundcloud.com/nintendomusic-infinite/vah-rudania-battle",
         answer: 1116,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-rudania",
+        url: "https://soundcloud.com/nintendomusic-infinite/yunobos-opportunity",
         answer: 1117,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/fireblight-ganon-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-rudania",
         answer: 1118,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-daruk",
+        url: "https://soundcloud.com/nintendomusic-infinite/fireblight-ganon-battle",
         answer: 1119,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/field-desert",
+        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-daruk",
         answer: 1120,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the-desert",
+        url: "https://soundcloud.com/nintendomusic-infinite/field-desert",
         answer: 1121,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/kara-kara-bazaar",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beast-of-the-desert",
         answer: 1122,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-town",
+        url: "https://soundcloud.com/nintendomusic-infinite/kara-kara-bazaar",
         answer: 1123,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/meeting-riju",
+        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-town",
         answer: 1124,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/yiga-hideout",
+        url: "https://soundcloud.com/nintendomusic-infinite/meeting-riju",
         answer: 1125,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/kohgas-theme",
+        url: "https://soundcloud.com/nintendomusic-infinite/yiga-hideout",
         answer: 1126,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/master-kohga-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/kohgas-theme",
         answer: 1127,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/observation-post",
+        url: "https://soundcloud.com/nintendomusic-infinite/master-kohga-battle",
         answer: 1128,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/vah-naboris-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/observation-post",
         answer: 1129,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/rijus-trust",
+        url: "https://soundcloud.com/nintendomusic-infinite/vah-naboris-battle",
         answer: 1130,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-naboris",
+        url: "https://soundcloud.com/nintendomusic-infinite/rijus-trust",
         answer: 1131,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/thunderblight-ganon-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/divine-beast-vah-naboris",
         answer: 1132,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-urbosa",
+        url: "https://soundcloud.com/nintendomusic-infinite/thunderblight-ganon-battle",
         answer: 1133,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/race-minigame",
+        url: "https://soundcloud.com/nintendomusic-infinite/reunion-with-urbosa",
         answer: 1134,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-race-award-ceremony",
+        url: "https://soundcloud.com/nintendomusic-infinite/race-minigame",
         answer: 1135,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/goron-challenge-minigame",
+        url: "https://soundcloud.com/nintendomusic-infinite/gerudo-race-award-ceremony",
         answer: 1136,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/molduga-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/goron-challenge-minigame",
         answer: 1137,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/ruins",
+        url: "https://soundcloud.com/nintendomusic-infinite/molduga-battle",
         answer: 1138,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/lost-woods",
+        url: "https://soundcloud.com/nintendomusic-infinite/ruins",
         answer: 1139,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/korok-forest",
+        url: "https://soundcloud.com/nintendomusic-infinite/lost-woods",
         answer: 1140,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/encounter-with-the-deku-tree",
+        url: "https://soundcloud.com/nintendomusic-infinite/korok-forest",
         answer: 1141,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/master-sword",
+        url: "https://soundcloud.com/nintendomusic-infinite/encounter-with-the-deku-tree",
         answer: 1142,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/akkala-ancient-tech-lab",
+        url: "https://soundcloud.com/nintendomusic-infinite/master-sword",
         answer: 1143,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/naydra-possessed",
+        url: "https://soundcloud.com/nintendomusic-infinite/akkala-ancient-tech-lab",
         answer: 1144,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-dragons-of-hyrule",
+        url: "https://soundcloud.com/nintendomusic-infinite/naydra-possessed",
         answer: 1145,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/omen-of-the-blood-moon",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-dragons-of-hyrule",
         answer: 1146,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/resurrecting-memory",
+        url: "https://soundcloud.com/nintendomusic-infinite/omen-of-the-blood-moon",
         answer: 1147,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-silent-princess",
+        url: "https://soundcloud.com/nintendomusic-infinite/resurrecting-memory",
         answer: 1148,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-father-and",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-silent-princess",
         answer: 1149,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-despair",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-father-and",
         answer: 1150,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-zeldas",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-despair",
         answer: 1151,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/zeldas-wish",
+        url: "https://soundcloud.com/nintendomusic-infinite/links-memories-zeldas",
         answer: 1152,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle-town-ruins",
+        url: "https://soundcloud.com/nintendomusic-infinite/zeldas-wish",
         answer: 1153,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/guardian-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle-town-ruins",
         answer: 1154,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/ganons-roar",
+        url: "https://soundcloud.com/nintendomusic-infinite/guardian-battle",
         answer: 1155,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle",
+        url: "https://soundcloud.com/nintendomusic-infinite/ganons-roar",
         answer: 1156,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-appears",
+        url: "https://soundcloud.com/nintendomusic-infinite/hyrule-castle",
         answer: 1157,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beasts-strike",
+        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-appears",
         answer: 1158,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-1",
+        url: "https://soundcloud.com/nintendomusic-infinite/the-divine-beasts-strike",
         answer: 1159,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-2",
+        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-1",
         answer: 1160,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-appears",
+        url: "https://soundcloud.com/nintendomusic-infinite/calamity-ganon-battle-phase-2",
         answer: 1161,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-battle",
+        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-appears",
         answer: 1162,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/do-you-remember",
+        url: "https://soundcloud.com/nintendomusic-infinite/dark-beast-ganon-battle",
         answer: 1163,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/staff-roll",
+        url: "https://soundcloud.com/nintendomusic-infinite/do-you-remember",
         answer: 1164,
     },
     {
-        url: "https://soundcloud.com/nintendomusic-infinite/epilogue",
+        url: "https://soundcloud.com/nintendomusic-infinite/staff-roll",
         answer: 1165,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/lurelin-village",
+        url: "https://soundcloud.com/nintendomusic-infinite/epilogue",
         answer: 1166,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/kilton",
+        url: "https://soundcloud.com/nintendo-infinite3/lurelin-village",
         answer: 1167,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/wedding-at-tarrey-town",
+        url: "https://soundcloud.com/nintendo-infinite3/kilton",
         answer: 1168,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/tarrey-town",
+        url: "https://soundcloud.com/nintendo-infinite3/wedding-at-tarrey-town",
         answer: 1169,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/wasteland",
+        url: "https://soundcloud.com/nintendo-infinite3/tarrey-town",
         answer: 1170,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/horse-riding-minigame",
+        url: "https://soundcloud.com/nintendo-infinite3/wasteland",
         answer: 1171,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/malanyas-fountain",
+        url: "https://soundcloud.com/nintendo-infinite3/horse-riding-minigame",
         answer: 1172,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/lord-of-satori-mountain",
+        url: "https://soundcloud.com/nintendo-infinite3/malanyas-fountain",
         answer: 1173,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/parasail-minigame",
+        url: "https://soundcloud.com/nintendo-infinite3/lord-of-satori-mountain",
         answer: 1174,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/trial-of-the-sword-completed",
+        url: "https://soundcloud.com/nintendo-infinite3/parasail-minigame",
         answer: 1175,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/the-monuments-arise",
+        url: "https://soundcloud.com/nintendo-infinite3/trial-of-the-sword-completed",
         answer: 1176,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/monument",
+        url: "https://soundcloud.com/nintendo-infinite3/the-monuments-arise",
         answer: 1177,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-miphas-song",
+        url: "https://soundcloud.com/nintendo-infinite3/monument",
         answer: 1178,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-revalis-song",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-miphas-song",
         answer: 1179,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-daruks-song",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-revalis-song",
         answer: 1180,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/champion-urbosas-song",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-daruks-song",
         answer: 1181,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/final-trial",
+        url: "https://soundcloud.com/nintendo-infinite3/champion-urbosas-song",
         answer: 1182,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/monk-maz-koshia-battle",
+        url: "https://soundcloud.com/nintendo-infinite3/final-trial",
         answer: 1183,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/princess-zelda-and-the",
+        url: "https://soundcloud.com/nintendo-infinite3/monk-maz-koshia-battle",
         answer: 1184,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/framed-picture",
+        url: "https://soundcloud.com/nintendo-infinite3/princess-zelda-and-the",
         answer: 1185,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/the-champions-ballad",
+        url: "https://soundcloud.com/nintendo-infinite3/framed-picture",
         answer: 1186,
     },
     {
-        url: "https://soundcloud.com/nintendo-infinite3/nintendo-switch-presentation",
+        url: "https://soundcloud.com/nintendo-infinite3/the-champions-ballad",
         answer: 1187,
     },
     {
-        url: "https://soundcloud.com/user-909983984/hyrule-field-day-tloz-breath-of-the-wild-ost?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/nintendo-infinite3/nintendo-switch-presentation",
         answer: 1188,
     },
     {
-        url: "https://soundcloud.com/alvaro-iradi-de-andres/riding-night-zelda-breath-of-the-wild?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/user-909983984/hyrule-field-day-tloz-breath-of-the-wild-ost?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1189,
     },
     {
-        url: "https://soundcloud.com/silver565/the-legend-of-zelda-breath-of-the-wild-zoras-domain-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/alvaro-iradi-de-andres/riding-night-zelda-breath-of-the-wild?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1190,
     },
     {
-        url: "https://soundcloud.com/marcus-anderson-86/zelda-breath-of-the-wild-ost-gerudo-town-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/silver565/the-legend-of-zelda-breath-of-the-wild-zoras-domain-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1191,
     },
     {
-        url: "https://soundcloud.com/mega-diglett/rito-village-night-the-legend?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/marcus-anderson-86/zelda-breath-of-the-wild-ost-gerudo-town-night?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1192,
     },
     {
-        url: "https://soundcloud.com/marcus-anderson-86/hateno-village-night-zelda-breath-of-the-wild-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/mega-diglett/rito-village-night-the-legend?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1193,
     },
     {
-        url: "https://soundcloud.com/kaiandzero/battle-theme-breath-of-the?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/marcus-anderson-86/hateno-village-night-zelda-breath-of-the-wild-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1194,
+    },
+    {
+        url: "https://soundcloud.com/kaiandzero/battle-theme-breath-of-the?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1195,
     },
     // Tears of the Kingdom
     // https://soundcloud.com/infiniteshadow23/sets/legend-of-zelda-tears-of-the
     {
         url: "https://soundcloud.com/infiniteshadowx992/prologue-first-half",
-        answer: 1195,
-    },
-    {
-        url: "https://soundcloud.com/infiniteshadowx992/field-high-sky",
         answer: 1196,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/temple-of-time",
+        url: "https://soundcloud.com/infiniteshadowx992/field-high-sky",
         answer: 1197,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/encounter-with-rauru-source-of",
+        url: "https://soundcloud.com/infiniteshadowx992/temple-of-time",
         answer: 1198,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/shrine-of-light",
+        url: "https://soundcloud.com/infiniteshadowx992/encounter-with-rauru-source-of",
         answer: 1199,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/raurus-guidance",
+        url: "https://soundcloud.com/infiniteshadowx992/shrine-of-light",
         answer: 1200,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/battle-field",
+        url: "https://soundcloud.com/infiniteshadowx992/raurus-guidance",
         answer: 1201,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/raurus-farewell",
+        url: "https://soundcloud.com/infiniteshadowx992/battle-field",
         answer: 1202,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/you-must-find-me",
+        url: "https://soundcloud.com/infiniteshadowx992/raurus-farewell",
         answer: 1203,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/diving",
+        url: "https://soundcloud.com/infiniteshadowx992/you-must-find-me",
         answer: 1204,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/field-surface-day",
+        url: "https://soundcloud.com/infiniteshadowx992/diving",
         answer: 1205,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/reunion-with-purah",
+        url: "https://soundcloud.com/infiniteshadowx992/field-surface-day",
         answer: 1206,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/switch-on",
+        url: "https://soundcloud.com/infiniteshadowx992/reunion-with-purah",
         answer: 1207,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/launch-from-the-skyview-tower",
+        url: "https://soundcloud.com/infiniteshadowx992/switch-on",
         answer: 1208,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/expanding-world",
+        url: "https://soundcloud.com/infiniteshadowx992/launch-from-the-skyview-tower",
         answer: 1209,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/diving-depths",
+        url: "https://soundcloud.com/infiniteshadowx992/expanding-world",
         answer: 1210,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/field-depths",
+        url: "https://soundcloud.com/infiniteshadowx992/diving-depths",
         answer: 1211,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/lightroot",
+        url: "https://soundcloud.com/infiniteshadowx992/field-depths",
         answer: 1212,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/the-dragons-tears-introduction",
+        url: "https://soundcloud.com/infiniteshadowx992/lightroot",
         answer: 1213,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/skyview-tower",
+        url: "https://soundcloud.com/infiniteshadowx992/the-dragons-tears-introduction",
         answer: 1214,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/flux-construct-battle",
+        url: "https://soundcloud.com/infiniteshadowx992/skyview-tower",
         answer: 1215,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/gloom-spawn-battle",
+        url: "https://soundcloud.com/infiniteshadowx992/flux-construct-battle",
         answer: 1216,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/lucky-clover-gazette",
+        url: "https://soundcloud.com/infiniteshadowx992/gloom-spawn-battle",
         answer: 1217,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/rito-village-during-the",
+        url: "https://soundcloud.com/infiniteshadowx992/lucky-clover-gazette",
         answer: 1218,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/tulins-bow-taken",
+        url: "https://soundcloud.com/infiniteshadowx992/rito-village-during-the",
         answer: 1219,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/investigation-to-the-clouds",
+        url: "https://soundcloud.com/infiniteshadowx992/tulins-bow-taken",
         answer: 1220,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/cumulonimbus-cloud",
+        url: "https://soundcloud.com/infiniteshadowx992/investigation-to-the-clouds",
         answer: 1221,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/wind-temple-5th-stage",
+        url: "https://soundcloud.com/infiniteshadowx992/cumulonimbus-cloud",
         answer: 1222,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/colgera-appears",
+        url: "https://soundcloud.com/infiniteshadowx992/wind-temple-5th-stage",
         answer: 1223,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/colgera-battle-first-half",
+        url: "https://soundcloud.com/infiniteshadowx992/colgera-appears",
         answer: 1224,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/tulin-sage-of-wind",
+        url: "https://soundcloud.com/infiniteshadowx992/colgera-battle-first-half",
         answer: 1225,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/the-phenomenon-disappears",
+        url: "https://soundcloud.com/infiniteshadowx992/tulin-sage-of-wind",
         answer: 1226,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx992/gleeok-battle",
+        url: "https://soundcloud.com/infiniteshadowx992/the-phenomenon-disappears",
         answer: 1227,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/goron-city-during-the",
+        url: "https://soundcloud.com/infiniteshadowx992/gleeok-battle",
         answer: 1228,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/yunoboco-hq",
+        url: "https://soundcloud.com/infiniteshado-ds/goron-city-during-the",
         answer: 1229,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/yunobo-clearly-not-himself",
+        url: "https://soundcloud.com/infiniteshado-ds/yunoboco-hq",
         answer: 1230,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/moragia-battle",
+        url: "https://soundcloud.com/infiniteshado-ds/yunobo-clearly-not-himself",
         answer: 1231,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/fire-temple-5th-stage",
+        url: "https://soundcloud.com/infiniteshado-ds/moragia-battle",
         answer: 1232,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/marbled-gohma-appears",
+        url: "https://soundcloud.com/infiniteshado-ds/fire-temple-5th-stage",
         answer: 1233,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/marbled-gohma-battle-first",
+        url: "https://soundcloud.com/infiniteshado-ds/marbled-gohma-appears",
         answer: 1234,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/yunobo-sage-of-fire",
+        url: "https://soundcloud.com/infiniteshado-ds/marbled-gohma-battle-first",
         answer: 1235,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/mini-game-mine-cart-land",
+        url: "https://soundcloud.com/infiniteshado-ds/yunobo-sage-of-fire",
         answer: 1236,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/battle-field-joint-fight-with",
+        url: "https://soundcloud.com/infiniteshado-ds/mini-game-mine-cart-land",
         answer: 1237,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/field-surface-night",
+        url: "https://soundcloud.com/infiniteshado-ds/battle-field-joint-fight-with",
         answer: 1238,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/mini-game-ball-toss",
+        url: "https://soundcloud.com/infiniteshado-ds/field-surface-night",
         answer: 1239,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/battle-field-depths-cave",
+        url: "https://soundcloud.com/infiniteshado-ds/mini-game-ball-toss",
         answer: 1240,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/depths-abandoned-mine",
+        url: "https://soundcloud.com/infiniteshado-ds/battle-field-depths-cave",
         answer: 1241,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/furious-master-kohga",
+        url: "https://soundcloud.com/infiniteshado-ds/depths-abandoned-mine",
         answer: 1242,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/frox-battle",
+        url: "https://soundcloud.com/infiniteshado-ds/furious-master-kohga",
         answer: 1243,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-blessing",
+        url: "https://soundcloud.com/infiniteshado-ds/frox-battle",
         answer: 1244,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/battle-field-boss-bokoblin",
+        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-blessing",
         answer: 1245,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/zoras-domain-during-the",
+        url: "https://soundcloud.com/infiniteshado-ds/battle-field-boss-bokoblin",
         answer: 1246,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/purify-the-sludge-covered",
+        url: "https://soundcloud.com/infiniteshado-ds/zoras-domain-during-the",
         answer: 1247,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/encounter-with-yona",
+        url: "https://soundcloud.com/infiniteshado-ds/purify-the-sludge-covered",
         answer: 1248,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/mipha-court",
+        url: "https://soundcloud.com/infiniteshado-ds/encounter-with-yona",
         answer: 1249,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/reunion-with-sidon",
+        url: "https://soundcloud.com/infiniteshado-ds/mipha-court",
         answer: 1250,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/pristine-sanctum",
+        url: "https://soundcloud.com/infiniteshado-ds/reunion-with-sidon",
         answer: 1251,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/sludge-like-battle",
+        url: "https://soundcloud.com/infiniteshado-ds/pristine-sanctum",
         answer: 1252,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/ancient-zora-waterworks",
+        url: "https://soundcloud.com/infiniteshado-ds/sludge-like-battle",
         answer: 1253,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/the-zora-temple-in-the-sky",
+        url: "https://soundcloud.com/infiniteshado-ds/ancient-zora-waterworks",
         answer: 1254,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/water-temple-4th-stage",
+        url: "https://soundcloud.com/infiniteshado-ds/the-zora-temple-in-the-sky",
         answer: 1255,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/mucktorok-appears",
+        url: "https://soundcloud.com/infiniteshado-ds/water-temple-4th-stage",
         answer: 1256,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/mucktorok-battle-first-half",
+        url: "https://soundcloud.com/infiniteshado-ds/mucktorok-appears",
         answer: 1257,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/sidon-sage-of-water",
+        url: "https://soundcloud.com/infiniteshado-ds/mucktorok-battle-first-half",
         answer: 1258,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/mini-game-dive-ceremony",
+        url: "https://soundcloud.com/infiniteshado-ds/sidon-sage-of-water",
         answer: 1259,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-before-the",
+        url: "https://soundcloud.com/infiniteshado-ds/mini-game-dive-ceremony",
         answer: 1260,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-battle",
+        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-before-the",
         answer: 1261,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/memories-the-gerudo-assault",
+        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-battle",
         answer: 1262,
     },
     {
-        url: "https://soundcloud.com/infiniteshado-ds/the-return-of-master-kohga",
+        url: "https://soundcloud.com/infiniteshado-ds/memories-the-gerudo-assault",
         answer: 1263,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/gerudo-town-during-the",
+        url: "https://soundcloud.com/infiniteshado-ds/the-return-of-master-kohga",
         answer: 1264,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/gerudo-shelter",
+        url: "https://soundcloud.com/infinitexxdsewew/gerudo-town-during-the",
         answer: 1265,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/desert-ruins",
+        url: "https://soundcloud.com/infinitexxdsewew/gerudo-shelter",
         answer: 1266,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/kara-kara-bazaar-defense",
+        url: "https://soundcloud.com/infinitexxdsewew/desert-ruins",
         answer: 1267,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/gerudo-town-defense-battle",
+        url: "https://soundcloud.com/infinitexxdsewew/kara-kara-bazaar-defense",
         answer: 1268,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-introduction",
+        url: "https://soundcloud.com/infinitexxdsewew/gerudo-town-defense-battle",
         answer: 1269,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-battle-first",
+        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-introduction",
         answer: 1270,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/battle-temple",
+        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-battle-first",
         answer: 1271,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/lightning-temple-4th-stage",
+        url: "https://soundcloud.com/infinitexxdsewew/battle-temple",
         answer: 1272,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-battle-first-half",
+        url: "https://soundcloud.com/infinitexxdsewew/lightning-temple-4th-stage",
         answer: 1273,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/riju-sage-of-lightning",
+        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-battle-first-half",
         answer: 1274,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/lurelin-village-restoration",
+        url: "https://soundcloud.com/infinitexxdsewew/riju-sage-of-lightning",
         answer: 1275,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/lookout-landing-shrouded-in",
+        url: "https://soundcloud.com/infinitexxdsewew/lurelin-village-restoration",
         answer: 1276,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/hyrule-castle-sky",
+        url: "https://soundcloud.com/infinitexxdsewew/lookout-landing-shrouded-in",
         answer: 1277,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/phantom-ganon-battle-second",
+        url: "https://soundcloud.com/infinitexxdsewew/hyrule-castle-sky",
         answer: 1278,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/lookout-landing-four-sages",
+        url: "https://soundcloud.com/infinitexxdsewew/phantom-ganon-battle-second",
         answer: 1279,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/the-world-renowned-cece",
+        url: "https://soundcloud.com/infinitexxdsewew/lookout-landing-four-sages",
         answer: 1280,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/the-cece-hat",
+        url: "https://soundcloud.com/infinitexxdsewew/the-world-renowned-cece",
         answer: 1281,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/the-mayoral-election",
+        url: "https://soundcloud.com/infinitexxdsewew/the-cece-hat",
         answer: 1282,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/hateno-school",
+        url: "https://soundcloud.com/infinitexxdsewew/the-mayoral-election",
         answer: 1283,
     },
     {
-        url: "https://soundcloud.com/infinitexxdsewew/hateno-ancient-tech-lab",
+        url: "https://soundcloud.com/infinitexxdsewew/hateno-school",
         answer: 1284,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/thunderhead-isles",
+        url: "https://soundcloud.com/infinitexxdsewew/hateno-ancient-tech-lab",
         answer: 1285,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/dragonhead-island",
+        url: "https://soundcloud.com/infiniteshadowx99998/thunderhead-isles",
         answer: 1286,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/construct-factory-5th-stage",
+        url: "https://soundcloud.com/infiniteshadowx99998/dragonhead-island",
         answer: 1287,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/zonai-pedestal",
+        url: "https://soundcloud.com/infiniteshadowx99998/construct-factory-5th-stage",
         answer: 1288,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/spirit-temple",
+        url: "https://soundcloud.com/infiniteshadowx99998/zonai-pedestal",
         answer: 1289,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/seized-construct-appears",
+        url: "https://soundcloud.com/infiniteshadowx99998/spirit-temple",
         answer: 1290,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/seized-construct-battle-first",
+        url: "https://soundcloud.com/infiniteshadowx99998/seized-construct-appears",
         answer: 1291,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/mineru-sage-of-spirit",
+        url: "https://soundcloud.com/infiniteshadowx99998/seized-construct-battle-first",
         answer: 1292,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/memories-the-imprisoning-war",
+        url: "https://soundcloud.com/infiniteshadowx99998/mineru-sage-of-spirit",
         answer: 1293,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/korok-forest-during-the",
+        url: "https://soundcloud.com/infiniteshadowx99998/memories-the-imprisoning-war",
         answer: 1294,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/geoglyph-final-dragons-tear",
+        url: "https://soundcloud.com/infiniteshadowx99998/korok-forest-during-the",
         answer: 1295,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/memories-tears-of-the-dragon",
+        url: "https://soundcloud.com/infiniteshadowx99998/geoglyph-final-dragons-tear",
         answer: 1296,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/the-sword-held-by-the-dragon",
+        url: "https://soundcloud.com/infiniteshadowx99998/memories-tears-of-the-dragon",
         answer: 1297,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/zeldas-wishes-in-my-hands",
+        url: "https://soundcloud.com/infiniteshadowx99998/the-sword-held-by-the-dragon",
         answer: 1298,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/hyrule-castle-chasm",
+        url: "https://soundcloud.com/infiniteshadowx99998/zeldas-wishes-in-my-hands",
         answer: 1299,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/hyrule-castle-chasm-battle",
+        url: "https://soundcloud.com/infiniteshadowx99998/hyrule-castle-chasm",
         answer: 1300,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/glooms-lair",
+        url: "https://soundcloud.com/infiniteshadowx99998/hyrule-castle-chasm-battle",
         answer: 1301,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-kings-army",
+        url: "https://soundcloud.com/infiniteshadowx99998/glooms-lair",
         answer: 1302,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle-2",
+        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-kings-army",
         answer: 1303,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle-1",
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle-2",
         answer: 1304,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle",
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle-1",
         answer: 1305,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-dragon-and-the-light",
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle",
         answer: 1306,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/demon-dragon-battle",
+        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-dragon-and-the-light",
         answer: 1307,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-dragon-is-destroyed",
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-dragon-battle",
         answer: 1308,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/to-her-hand",
+        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-dragon-is-destroyed",
         answer: 1309,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowx99998/oh-link-im-home",
+        url: "https://soundcloud.com/infiniteshadowx99998/to-her-hand",
         answer: 1310,
     },
     {
-        url: "https://soundcloud.com/yell0wsuit2/main-theme-full-the-legend-of-zelda-tears-of-the-kingdom-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/infiniteshadowx99998/oh-link-im-home",
         answer: 1311,
     },
     {
-        url: "https://soundcloud.com/yakumoiv/the-legend-of-zelda-tears-of-the-kingdom-end-credits-staff-roll?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/yell0wsuit2/main-theme-full-the-legend-of-zelda-tears-of-the-kingdom-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1312,
+    },
+    {
+        url: "https://soundcloud.com/yakumoiv/the-legend-of-zelda-tears-of-the-kingdom-end-credits-staff-roll?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1313,
     },
     // Echoes of Wisdom
     // https://soundcloud.com/infiniteshadow23/sets/the-legend-of-zelda-echoes-of
     {
         url: "https://soundcloud.com/infiniteshadowxd36/02-mysterious-dungeon-13",
-        answer: 1313,
-    },
-    {
-        url: "https://soundcloud.com/infiniteshadowxd36/04-escape-the-rift-15",
         answer: 1314,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/05-opening-title-16",
+        url: "https://soundcloud.com/infiniteshadowxd36/04-escape-the-rift-15",
         answer: 1315,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/06-hyrule-castle-town-17",
+        url: "https://soundcloud.com/infiniteshadowxd36/05-opening-title-16",
         answer: 1316,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/07-hyrule-castle-18",
+        url: "https://soundcloud.com/infiniteshadowxd36/06-hyrule-castle-town-17",
         answer: 1317,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/08-unsettling-phenomenon-19",
+        url: "https://soundcloud.com/infiniteshadowxd36/07-hyrule-castle-18",
         answer: 1318,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/09-a-rift-appears-20",
+        url: "https://soundcloud.com/infiniteshadowxd36/08-unsettling-phenomenon-19",
         answer: 1319,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/10-tris-theme-1",
+        url: "https://soundcloud.com/infiniteshadowxd36/09-a-rift-appears-20",
         answer: 1320,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/11-hyrule-casle-underground-the-mysterious-rifts-2",
+        url: "https://soundcloud.com/infiniteshadowxd36/10-tris-theme-1",
         answer: 1321,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/12-suthorn-beach-3",
+        url: "https://soundcloud.com/infiniteshadowxd36/11-hyrule-casle-underground-the-mysterious-rifts-2",
         answer: 1322,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/13-overworld-4",
+        url: "https://soundcloud.com/infiniteshadowxd36/12-suthorn-beach-3",
         answer: 1323,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/14-suthorn-village-5",
+        url: "https://soundcloud.com/infiniteshadowxd36/13-overworld-4",
         answer: 1324,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/15-cave-6",
+        url: "https://soundcloud.com/infiniteshadowxd36/14-suthorn-village-5",
         answer: 1325,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/16-lueburrys-house-7",
+        url: "https://soundcloud.com/infiniteshadowxd36/15-cave-6",
         answer: 1326,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/17-still-world-8",
+        url: "https://soundcloud.com/infiniteshadowxd36/16-lueburrys-house-7",
         answer: 1327,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/18-trap-room-9",
+        url: "https://soundcloud.com/infiniteshadowxd36/17-still-world-8",
         answer: 1328,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/20-suthorn-ruins-11",
+        url: "https://soundcloud.com/infiniteshadowxd36/18-trap-room-9",
         answer: 1329,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/22-boss-battle-link-7",
+        url: "https://soundcloud.com/infiniteshadowxd36/20-suthorn-ruins-11",
         answer: 1330,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/26-swordfighter-form-11",
+        url: "https://soundcloud.com/infiniteshadowxd36/22-boss-battle-link-7",
         answer: 1331,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/28-boss-battle-seismic-talus-13",
+        url: "https://soundcloud.com/infiniteshadowxd36/26-swordfighter-form-11",
         answer: 1332,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/32-stamp-guy-17",
+        url: "https://soundcloud.com/infiniteshadowxd36/28-boss-battle-seismic-talus-13",
         answer: 1333,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/33-mango-rush-18",
+        url: "https://soundcloud.com/infiniteshadowxd36/32-stamp-guy-17",
         answer: 1334,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/34-gerudo-town-19",
+        url: "https://soundcloud.com/infiniteshadowxd36/33-mango-rush-18",
         answer: 1335,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/35-celebration-20",
+        url: "https://soundcloud.com/infiniteshadowxd36/34-gerudo-town-19",
         answer: 1336,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/36-gerudo-desert-1",
+        url: "https://soundcloud.com/infiniteshadowxd36/35-celebration-20",
         answer: 1337,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/37-gerudo-sanctum-2",
+        url: "https://soundcloud.com/infiniteshadowxd36/36-gerudo-desert-1",
         answer: 1338,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/40-boss-battle-mogryph-5",
+        url: "https://soundcloud.com/infiniteshadowxd36/37-gerudo-sanctum-2",
         answer: 1339,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/45-smoothie-shop-5",
+        url: "https://soundcloud.com/infiniteshadowxd36/40-boss-battle-mogryph-5",
         answer: 1340,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/46-eastern-temple-hidden-ruins-6",
+        url: "https://soundcloud.com/infiniteshadowxd36/45-smoothie-shop-5",
         answer: 1341,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/47-jabul-waters-zora-river-7",
+        url: "https://soundcloud.com/infiniteshadowxd36/46-eastern-temple-hidden-ruins-6",
         answer: 1342,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/48-river-zora-village-8",
+        url: "https://soundcloud.com/infiniteshadowxd36/47-jabul-waters-zora-river-7",
         answer: 1343,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/49-acorn-gathering-9",
+        url: "https://soundcloud.com/infiniteshadowxd36/48-river-zora-village-8",
         answer: 1344,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/50-sea-zora-village-10",
+        url: "https://soundcloud.com/infiniteshadowxd36/49-acorn-gathering-9",
         answer: 1345,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/52-danger-12",
+        url: "https://soundcloud.com/infiniteshadowxd36/50-sea-zora-village-10",
         answer: 1346,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/54-boss-battle-lord-jabu-jabu-12",
+        url: "https://soundcloud.com/infiniteshadowxd36/52-danger-12",
         answer: 1347,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/55-jabul-ruins-13",
+        url: "https://soundcloud.com/infiniteshadowxd367/54-boss-battle-lord-jabu-jabu-12",
         answer: 1348,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/58-boss-battle-vocavor-16",
+        url: "https://soundcloud.com/infiniteshadowxd367/55-jabul-ruins-13",
         answer: 1349,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/62-zoras-harmony-2",
+        url: "https://soundcloud.com/infiniteshadowxd367/58-boss-battle-vocavor-16",
         answer: 1350,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/63-flag-race-3",
+        url: "https://soundcloud.com/infiniteshadowxd367/62-zoras-harmony-2",
         answer: 1351,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/65-great-fairy-5",
+        url: "https://soundcloud.com/infiniteshadowxd367/63-flag-race-3",
         answer: 1352,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/66-still-hyrule-castle-6",
+        url: "https://soundcloud.com/infiniteshadowxd367/65-great-fairy-5",
         answer: 1353,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/69-boss-battle-ganon-9",
+        url: "https://soundcloud.com/infiniteshadowxd367/66-still-hyrule-castle-6",
         answer: 1354,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/93-faron-wetlands-1",
+        url: "https://soundcloud.com/infiniteshadowxd367/69-boss-battle-ganon-9",
         answer: 1355,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/94-deku-scrub-lockup-2",
+        url: "https://soundcloud.com/infiniteshadowxd367/93-faron-wetlands-1",
         answer: 1356,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/95-faron-temple-3",
+        url: "https://soundcloud.com/infiniteshadowxd367/94-deku-scrub-lockup-2",
         answer: 1357,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/97-boss-battle-gohma-5",
+        url: "https://soundcloud.com/infiniteshadowxd367/95-faron-temple-3",
         answer: 1358,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/73-null-attacks-11",
+        url: "https://soundcloud.com/infiniteshadowxd367/97-boss-battle-gohma-5",
         answer: 1359,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/74-king-of-hyrule-12",
+        url: "https://soundcloud.com/infiniteshadowxd367/73-null-attacks-11",
         answer: 1360,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/76-kakariko-village-14",
+        url: "https://soundcloud.com/infiniteshadowxd367/74-king-of-hyrule-12",
         answer: 1361,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/77-slumber-dojo-15",
+        url: "https://soundcloud.com/infiniteshadowxd367/76-kakariko-village-14",
         answer: 1362,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/78-eldin-volcano-16",
+        url: "https://soundcloud.com/infiniteshadowxd367/77-slumber-dojo-15",
         answer: 1363,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/79-eldin-volcano-cave-17",
+        url: "https://soundcloud.com/infiniteshadowxd367/78-eldin-volcano-16",
         answer: 1364,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/80-goron-city-18",
+        url: "https://soundcloud.com/infiniteshadowxd367/79-eldin-volcano-cave-17",
         answer: 1365,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/81-hyrule-ranch-19",
+        url: "https://soundcloud.com/infiniteshadowxd367/80-goron-city-18",
         answer: 1366,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/82-eldin-temple-20",
+        url: "https://soundcloud.com/infiniteshadowxd367/81-hyrule-ranch-19",
         answer: 1367,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/83-lava-escape-21",
+        url: "https://soundcloud.com/infiniteshadowxd367/82-eldin-temple-20",
         answer: 1368,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/85-boss-battle-volvagia-23",
+        url: "https://soundcloud.com/infiniteshadowxd367/83-lava-escape-21",
         answer: 1369,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd367/89-toride-27",
+        url: "https://soundcloud.com/infiniteshadowxd367/85-boss-battle-volvagia-23",
         answer: 1370,
     },
     {
-        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-overworld-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/infiniteshadowxd367/89-toride-27",
         answer: 1371,
     },
     {
-        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-boss-battle-evil-zelda-phase-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-overworld-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1372,
     },
     {
-        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-boss-battle-null?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-boss-battle-evil-zelda-phase-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1373,
     },
     {
-        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-null-phase-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-boss-battle-null?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1374,
     },
     {
-        url: "https://soundcloud.com/que-tie-141910712/lanayru-temple-the-legend-of?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-null-phase-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1375,
     },
     {
-        url: "https://soundcloud.com/rucker-tannar/ost-final-boss-null-phase3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/que-tie-141910712/lanayru-temple-the-legend-of?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1376,
     },
     {
-        url: "https://soundcloud.com/infiniteshadowxd36/39-mogryph-appears-4?in=infiniteshadow23/sets/the-legend-of-zelda-echoes-of&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/rucker-tannar/ost-final-boss-null-phase3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1377,
     },
     {
-        url: "https://soundcloud.com/mrz-474347263/dampes-theme-zelda-echoes-of-wisdom-1?si=01925993dc34456690d533dafedcfe37&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/infiniteshadowxd36/39-mogryph-appears-4?in=infiniteshadow23/sets/the-legend-of-zelda-echoes-of&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1378,
     },
     {
-        url: "https://soundcloud.com/mrz-474347263/hebra-mountain-zelda-echoes-of-wisdom-2?si=4ac9d8b5fc334ced843e00a1751cabc6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/mrz-474347263/dampes-theme-zelda-echoes-of-wisdom-1?si=01925993dc34456690d533dafedcfe37&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1379,
     },
     {
-        url: "https://soundcloud.com/mrz-474347263/mount-lanayru-cave-zelda-echoes-of-wisdom-3?si=91f27668597d4c8783779497a1c8bdd7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/mrz-474347263/hebra-mountain-zelda-echoes-of-wisdom-2?si=4ac9d8b5fc334ced843e00a1751cabc6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1380,
     },
     {
-        url: "https://soundcloud.com/mrz-474347263/boss-battle-skorchill-zelda-echoes-of-wisdom-4?si=368a621bb6a14865be1a60ea926a977a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/mrz-474347263/mount-lanayru-cave-zelda-echoes-of-wisdom-3?si=91f27668597d4c8783779497a1c8bdd7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1381,
     },
     {
-        url: "https://soundcloud.com/mrz-474347263/eternal-forest-zelda-echoes-of-wisdom-5?si=9d87cd588b8e4651922aaf26dd9c6731&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/mrz-474347263/boss-battle-skorchill-zelda-echoes-of-wisdom-4?si=368a621bb6a14865be1a60ea926a977a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1382,
     },
     {
-        url: "https://soundcloud.com/mrz-474347263/staff-roll-zelda-echoes-of-wisdom-6?si=737e7902b37f4e97bb7f8ee37dc9dad3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        url: "https://soundcloud.com/mrz-474347263/eternal-forest-zelda-echoes-of-wisdom-5?si=9d87cd588b8e4651922aaf26dd9c6731&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1383,
+    },
+    {
+        url: "https://soundcloud.com/mrz-474347263/staff-roll-zelda-echoes-of-wisdom-6?si=737e7902b37f4e97bb7f8ee37dc9dad3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1384,
     },
 ];
