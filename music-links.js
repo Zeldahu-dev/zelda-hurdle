@@ -5288,4 +5288,290 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/yakumoiv/the-legend-of-zelda-tears-of-the-kingdom-end-credits-staff-roll?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1311,
     },
+    // Echoes of Wisdom
+    // https://soundcloud.com/infiniteshadow23/sets/the-legend-of-zelda-echoes-of
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/02-mysterious-dungeon-13",
+        answer: 1312,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/04-escape-the-rift-15",
+        answer: 1313,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/05-opening-title-16",
+        answer: 1314,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/06-hyrule-castle-town-17",
+        answer: 1315,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/07-hyrule-castle-18",
+        answer: 1316,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/08-unsettling-phenomenon-19",
+        answer: 1317,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/09-a-rift-appears-20",
+        answer: 1318,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/10-tris-theme-1",
+        answer: 1319,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/11-hyrule-casle-underground-the-mysterious-rifts-2",
+        answer: 1320,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/12-suthorn-beach-3",
+        answer: 1321,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/13-overworld-4",
+        answer: 1322,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/14-suthorn-village-5",
+        answer: 1323,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/15-cave-6",
+        answer: 1324,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/16-lueburrys-house-7",
+        answer: 1325,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/17-still-world-8",
+        answer: 1326,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/18-trap-room-9",
+        answer: 1327,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/20-suthorn-ruins-11",
+        answer: 1328,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/22-boss-battle-link-7",
+        answer: 1329,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/26-swordfighter-form-11",
+        answer: 1330,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/28-boss-battle-seismic-talus-13",
+        answer: 1331,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/32-stamp-guy-17",
+        answer: 1332,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/33-mango-rush-18",
+        answer: 1333,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/34-gerudo-town-19",
+        answer: 1334,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/35-celebration-20",
+        answer: 1335,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/36-gerudo-desert-1",
+        answer: 1336,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/37-gerudo-sanctum-2",
+        answer: 1337,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/40-boss-battle-mogryph-5",
+        answer: 1338,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/45-smoothie-shop-5",
+        answer: 1339,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/46-eastern-temple-hidden-ruins-6",
+        answer: 1340,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/47-jabul-waters-zora-river-7",
+        answer: 1341,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/48-river-zora-village-8",
+        answer: 1342,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/49-acorn-gathering-9",
+        answer: 1343,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/50-sea-zora-village-10",
+        answer: 1344,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/52-danger-12",
+        answer: 1345,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/54-boss-battle-lord-jabu-jabu-12",
+        answer: 1346,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/55-jabul-ruins-13",
+        answer: 1347,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/58-boss-battle-vocavor-16",
+        answer: 1348,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/62-zoras-harmony-2",
+        answer: 1349,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/63-flag-race-3",
+        answer: 1350,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/65-great-fairy-5",
+        answer: 1351,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/66-still-hyrule-castle-6",
+        answer: 1352,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/69-boss-battle-ganon-9",
+        answer: 1353,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/93-faron-wetlands-1",
+        answer: 1354,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/94-deku-scrub-lockup-2",
+        answer: 1355,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/95-faron-temple-3",
+        answer: 1356,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/97-boss-battle-gohma-5",
+        answer: 1357,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/73-null-attacks-11",
+        answer: 1358,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/74-king-of-hyrule-12",
+        answer: 1359,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/76-kakariko-village-14",
+        answer: 1360,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/77-slumber-dojo-15",
+        answer: 1361,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/78-eldin-volcano-16",
+        answer: 1362,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/79-eldin-volcano-cave-17",
+        answer: 1363,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/80-goron-city-18",
+        answer: 1364,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/81-hyrule-ranch-19",
+        answer: 1365,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/82-eldin-temple-20",
+        answer: 1366,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/83-lava-escape-21",
+        answer: 1367,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/85-boss-battle-volvagia-23",
+        answer: 1368,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd367/89-toride-27",
+        answer: 1369,
+    },
+    {
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-overworld-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1370,
+    },
+    {
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-boss-battle-evil-zelda-phase-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1371,
+    },
+    {
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-boss-battle-null?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1372,
+    },
+    {
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-echoes-of-wisdom-ost-null-phase-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1373,
+    },
+    {
+        url: "https://soundcloud.com/que-tie-141910712/lanayru-temple-the-legend-of?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1374,
+    },
+    {
+        url: "https://soundcloud.com/rucker-tannar/ost-final-boss-null-phase3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1375,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowxd36/39-mogryph-appears-4?in=infiniteshadow23/sets/the-legend-of-zelda-echoes-of&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1376,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1377,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1378,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1379,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1380,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1381,
+    },
+    {
+        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        answer: 1382,
+    },
 ];

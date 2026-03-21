@@ -6602,4 +6602,361 @@ var musicNameList = [
         name: "Ending Theme - Tears of the Kingdom",
         tags: ["Other"],
     },
+    // Echoes of Wisdom
+    // https://soundcloud.com/infiniteshadow23/sets/the-legend-of-zelda-echoes-of
+    {
+        id: 1312,
+        name: "Mysterious Dungeon - Echoes of Wisdom",
+        tags: ["Dungeon", "Event"],
+    },
+    {
+        id: 1313,
+        name: "Escape the Rift - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1314,
+        name: "Opening Title - Echoes of Wisdom",
+        tags: ["Other", "Event"],
+    },
+    {
+        id: 1315,
+        name: "Hyrule Castle Town - Echoes of Wisdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1316,
+        name: "Hyrule Castle - Echoes of Wisdom",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1317,
+        name: "Unsettling Phenomenon - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1318,
+        name: "A Rift Appears - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1319,
+        name: "Tri - Echoes of Wisdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1320,
+        name: "Hyrule Castle Underground - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1321,
+        name: "Suthorn Beach - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1322,
+        name: "Overworld - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1323,
+        name: "Suthorn Village - Echoes of Wisdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1324,
+        name: "Cave - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1325,
+        name: "Lueburry's House - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1326,
+        name: "Still World - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1327,
+        name: "Battle - Echoes of Wisdom",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1328,
+        name: "Suthorn Ruins - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1329,
+        name: "Echo Link Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1330,
+        name: "Swordfighter Form - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1331,
+        name: "Seismic Talus Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1332,
+        name: "Stamp Guy - Echoes of Wisdom",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1333,
+        name: "Mango Rush - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1334,
+        name: "Gerudo Town - Echoes of Wisdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1335,
+        name: "Celebration - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1336,
+        name: "Gerudo Desert - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1337,
+        name: "Gerudo Sanctum - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1338,
+        name: "Mogryph Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1339,
+        name: "Smoothie Shop - Echoes of Wisdom",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1340,
+        name: "Eastern Temple / Hidden Ruins - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1341,
+        name: "Jabul Waters / Zora River - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1342,
+        name: "River Zora Village - Echoes of Wisdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1343,
+        name: "Acorn Gathering - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1344,
+        name: "Sea Zora Village - Echoes of Wisdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1345,
+        name: "Danger! - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1346,
+        name: "Boss Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1347,
+        name: "Jabul Ruins - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1348,
+        name: "Vocavor Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1349,
+        name: "Zora's Harmony - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1350,
+        name: "Horse Race - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1351,
+        name: "Fairy's Fountain - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1352,
+        name: "Still Hyrule Castle - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1353,
+        name: "Echo Ganon Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1354,
+        name: "Faron Wetlands - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1355,
+        name: "Deku Scrub Lockup - Echoes of Wisdom",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1356,
+        name: "Faron Temple - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1357,
+        name: "Gohma Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1358,
+        name: "Null Attacks - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1359,
+        name: "King of Hyrule - Echoes of Wisdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1360,
+        name: "Kakariko Village - Echoes of Wisdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1361,
+        name: "Slumber Dojo - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1362,
+        name: "Eldin Volcano - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1363,
+        name: "Eldin Volcano Cave - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1364,
+        name: "Goron City - Echoes of Wisdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1365,
+        name: "Hyrule Ranch - Echoes of Wisdom",
+        tags: ["Town", "Area"],
+    },
+    {
+        id: 1366,
+        name: "Eldin Temple - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1367,
+        name: "Lava Escape - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1368,
+        name: "Volvagia Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1369,
+        name: "Battle - Toride - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1370,
+        name: "Overworld 2 - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1371,
+        name: "Echo Zelda Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1372,
+        name: "Null Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1373,
+        name: "Null Battle - Second Phase - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1374,
+        name: "Lanayru Temple - Echoes of Wisdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1375,
+        name: "Null Battle - Final Third Phase - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1376,
+        name: "Boss Appears - Echoes of Wisdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1377,
+        name: "Dampé - Echoes of Wisdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1378,
+        name: "Hebra Mountain - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1379,
+        name: "Mount Lanayru Cave - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1380,
+        name: "Skorchill Battle - Echoes of Wisdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1381,
+        name: "Eternal Forest - Echoes of Wisdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1382,
+        name: "Ending Theme - Echoes of Wisdom",
+        tags: ["Other"],
+    },
 ];
