@@ -5417,7 +5417,7 @@ var musicNameList = [
     },
     {
         id: 1075,
-        name: "Blessing Shrine - Breath of the Wild",
+        name: "Shrine: Blessing - Breath of the Wild",
         tags: ["Dungeon"],
     },
     {
@@ -6004,5 +6004,602 @@ var musicNameList = [
         id: 1192,
         name: "Hateno Village (Night) - Breath of the Wild",
         tags: ["Town"],
+    },
+    {
+        id: 1193,
+        name: "Battle - Breath of the Wild",
+        tags: ["Battle"],
+    },
+    // Tears of the Kingdom
+    // https://soundcloud.com/infiniteshadow23/sets/legend-of-zelda-tears-of-the
+    {
+        id: 1194,
+        name: "Prologue: Beneath Hyrule Castle - Tears of the Kingdom",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1195,
+        name: "Sky Island - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1196,
+        name: "Temple of Time - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1197,
+        name: "Encounter With Rauru - Tears of the Kingdom",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1198,
+        name: "Shrine of Light - Tears of the Kingdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1199,
+        name: "Rauru's Guidance - Tears of the Kingdom",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1200,
+        name: "Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1201,
+        name: "Rauru's Farewell - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1202,
+        name: "You Must Find Me - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1203,
+        name: "Skydiving - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1204,
+        name: "Field - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1205,
+        name: "Reunion With Purah - Tears of the Kingdom",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1206,
+        name: "Switch On - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1207,
+        name: "Launch from the Tower - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1208,
+        name: "Scanning Region - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1209,
+        name: "Skydiving to the Depths - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1210,
+        name: "Depths - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1211,
+        name: "Lightroot - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1212,
+        name: "Memories - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1213,
+        name: "Skyview Tower - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1214,
+        name: "Flux Construct Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1215,
+        name: "Gloom Hands Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1216,
+        name: "Lucky Clover Gazette - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1217,
+        name: "Rito Village (During the Phenomenon) - Tears of the Kingdom",
+        tags: ["Town", "Event"],
+    },
+    {
+        id: 1218,
+        name: "Tulin's Bow Taken - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1219,
+        name: "Investigation to the Clouds - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1220,
+        name: "Cumulonimbus Cloud - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1221,
+        name: "Wind Temple - Tears of the Kingdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1222,
+        name: "Colgera Appears - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1223,
+        name: "Colgera Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1224,
+        name: "Tulin - Tears of the Kingdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1225,
+        name: "The Phenomenon Disappears - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1226,
+        name: "Gleeok Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1227,
+        name: "Goron City (During the Phenomenon) - Tears of the Kingdom",
+        tags: ["Town", "Event"],
+    },
+    {
+        id: 1228,
+        name: "YunoboCo HQ - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1229,
+        name: "Yunobo (Clearly Not Himself) Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1230,
+        name: "Moragia Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1231,
+        name: "Fire Temple - Tears of the Kingdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1232,
+        name: "Marbled Gohma Appears - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1233,
+        name: "Marbled Gohma Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1234,
+        name: "Yunobo - Tears of the Kingdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1235,
+        name: "Minecart Land Minigame - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1236,
+        name: "Battle (Monster Campment) - Tears of the Kingdom",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1237,
+        name: "Field (Night) - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1238,
+        name: "Ball Toss Minigame - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1239,
+        name: "Battle (Depths/Cave) - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1240,
+        name: "Depths Abandoned Mine - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1241,
+        name: "Furious Master Kohga - Tears of the Kingdom",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1242,
+        name: "Frox Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1243,
+        name: "Shrine of Light: Blessing - Tears of the Kingdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1244,
+        name: "Battle (Boss Bokoblin) - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1245,
+        name: "Zora's Domain (During the Phenomenon) - Tears of the Kingdom",
+        tags: ["Event", "Town"],
+    },
+    {
+        id: 1246,
+        name: "Purify the Sludge-Covered Statue - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1247,
+        name: "Yona - Tears of the Kingdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1248,
+        name: "Mipha Court - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1249,
+        name: "Reunion With Sidon - Tears of the Kingdom",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1250,
+        name: "Pristine Sanctum - Tears of the Kingdom",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1251,
+        name: "Sludge Like Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1252,
+        name: "Ancient Zora Waterworks - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1253,
+        name: "Approaching the Temple in the Sky - Tears of the Kingdom",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1254,
+        name: "Water Temple - Tears of the Kingdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1255,
+        name: "Mucktorok Appears - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1256,
+        name: "Mucktorok Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1257,
+        name: "Sidon - Tears of the Kingdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1258,
+        name: "Dive Ceremony Minigame - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1259,
+        name: "Shrine of Light: Before the Trial - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1260,
+        name: "Battle (Shrine of Light) - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1261,
+        name: "The Gerudo Assault - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1262,
+        name: "Master Kohga Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1263,
+        name: "Gerudo Town (During the Phenomenon) - Tears of the Kingdom",
+        tags: ["Town", "Event"],
+    },
+    {
+        id: 1264,
+        name: "Gerudo Shelter - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1265,
+        name: "Desert Ruins - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1266,
+        name: "Kara Kara Bazaar Defense Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1267,
+        name: "Gerudo Town Defense Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1268,
+        name: "Queen Gibdo Appears - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1269,
+        name: "Queen Gibdo Battle First - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1270,
+        name: "Battle (Temple) - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1271,
+        name: "Lightning Temple - Tears of the Kingdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1272,
+        name: "Queen Gibdo Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1273,
+        name: "Riju - Tears of the Kingdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1274,
+        name: "Lurelin Village (Restoration Feast) - Tears of the Kingdom",
+        tags: ["Town", "Event"],
+    },
+    {
+        id: 1275,
+        name: "Lookout Landing (Shrouded in Dark Clouds) - Tears of the Kingdom",
+        tags: ["Event", "Town"],
+    },
+    {
+        id: 1276,
+        name: "Hyrule Castle (Sky) - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1277,
+        name: "Phantom Ganon Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1278,
+        name: "Lookout Landing - Tears of the Kingdom",
+        tags: ["Town"],
+    },
+    {
+        id: 1279,
+        name: "The World-Renowned Cece - Tears of the Kingdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1280,
+        name: "The Cece Hat - Tears of the Kingdom",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1281,
+        name: "The Mayoral Election - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1282,
+        name: "Hateno School - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1283,
+        name: "Hateno Ancient Tech Lab - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1284,
+        name: "Thunderhead Isles - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1285,
+        name: "Dragonhead Island - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1286,
+        name: "Construct Factory - Tears of the Kingdom",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1287,
+        name: "Zonai Pedestal - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1288,
+        name: "Spirit Temple - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1289,
+        name: "Seized Construct Appears - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1290,
+        name: "Seized Construct Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1291,
+        name: "Mineru - Tears of the Kingdom",
+        tags: ["Character"],
+    },
+    {
+        id: 1292,
+        name: "Memories of The Imprisoning War - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1293,
+        name: "Korok Forest (During the Phenomenon) - Tears of the Kingdom",
+        tags: ["Town", "Event"],
+    },
+    {
+        id: 1294,
+        name: "Geoglyph - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1295,
+        name: "Tears of the Dragon - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1296,
+        name: "The Sword Held by the Dragon - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1297,
+        name: "Got Master Sword - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1298,
+        name: "Hyrule Castle Chasm - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1299,
+        name: "Battle (Forgotten Foundation) - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1300,
+        name: "Gloom's Lair - Tears of the Kingdom",
+        tags: ["Area"],
+    },
+    {
+        id: 1301,
+        name: "The Demon King's Army - Tears of the Kingdom",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1302,
+        name: "Demon King Ganondorf - Tears of the Kingdom",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1303,
+        name: "Demon King Ganondorf Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1304,
+        name: "Demon King Ganondorf Battle - Tears of the Kingdom",
+        tags: ["Battle", "Character"],
+    },
+    {
+        id: 1305,
+        name: "The Demon Dragon Appears - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1306,
+        name: "Demon Dragon Battle - Tears of the Kingdom",
+        tags: ["Battle"],
+    },
+    {
+        id: 1307,
+        name: "The Demon Dragon is Destroyed - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1308,
+        name: "To Her Hand - Tears of the Kingdom",
+        tags: ["Event"],
+    },
+    {
+        id: 1309,
+        name: "Oh, Link... I'm Home! (Zelda's Return) - Tears of the Kingdom",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1310,
+        name: "Main Theme - Tears of the Kingdom",
+        tags: ["Other"],
+    },
+    {
+        id: 1311,
+        name: "Ending Theme - Tears of the Kingdom",
+        tags: ["Other"],
     },
 ];

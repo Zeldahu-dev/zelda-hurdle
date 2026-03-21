@@ -4810,4 +4810,482 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/marcus-anderson-86/hateno-village-night-zelda-breath-of-the-wild-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1192,
     },
+    {
+        url: "https://soundcloud.com/kaiandzero/battle-theme-breath-of-the?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1193,
+    },
+    // Tears of the Kingdom
+    // https://soundcloud.com/infiniteshadow23/sets/legend-of-zelda-tears-of-the
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/prologue-first-half",
+        answer: 1194,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/field-high-sky",
+        answer: 1195,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/temple-of-time",
+        answer: 1196,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/encounter-with-rauru-source-of",
+        answer: 1197,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/shrine-of-light",
+        answer: 1198,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/raurus-guidance",
+        answer: 1199,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/battle-field",
+        answer: 1200,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/raurus-farewell",
+        answer: 1201,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/you-must-find-me",
+        answer: 1202,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/diving",
+        answer: 1203,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/field-surface-day",
+        answer: 1204,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/reunion-with-purah",
+        answer: 1205,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/switch-on",
+        answer: 1206,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/launch-from-the-skyview-tower",
+        answer: 1207,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/expanding-world",
+        answer: 1208,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/diving-depths",
+        answer: 1209,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/field-depths",
+        answer: 1210,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/lightroot",
+        answer: 1211,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/the-dragons-tears-introduction",
+        answer: 1212,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/skyview-tower",
+        answer: 1213,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/flux-construct-battle",
+        answer: 1214,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/gloom-spawn-battle",
+        answer: 1215,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/lucky-clover-gazette",
+        answer: 1216,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/rito-village-during-the",
+        answer: 1217,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/tulins-bow-taken",
+        answer: 1218,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/investigation-to-the-clouds",
+        answer: 1219,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/cumulonimbus-cloud",
+        answer: 1220,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/wind-temple-5th-stage",
+        answer: 1221,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/colgera-appears",
+        answer: 1222,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/colgera-battle-first-half",
+        answer: 1223,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/tulin-sage-of-wind",
+        answer: 1224,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/the-phenomenon-disappears",
+        answer: 1225,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx992/gleeok-battle",
+        answer: 1226,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/goron-city-during-the",
+        answer: 1227,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/yunoboco-hq",
+        answer: 1228,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/yunobo-clearly-not-himself",
+        answer: 1229,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/moragia-battle",
+        answer: 1230,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/fire-temple-5th-stage",
+        answer: 1231,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/marbled-gohma-appears",
+        answer: 1232,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/marbled-gohma-battle-first",
+        answer: 1233,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/yunobo-sage-of-fire",
+        answer: 1234,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/mini-game-mine-cart-land",
+        answer: 1235,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/battle-field-joint-fight-with",
+        answer: 1236,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/field-surface-night",
+        answer: 1237,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/mini-game-ball-toss",
+        answer: 1238,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/battle-field-depths-cave",
+        answer: 1239,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/depths-abandoned-mine",
+        answer: 1240,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/furious-master-kohga",
+        answer: 1241,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/frox-battle",
+        answer: 1242,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-blessing",
+        answer: 1243,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/battle-field-boss-bokoblin",
+        answer: 1244,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/zoras-domain-during-the",
+        answer: 1245,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/purify-the-sludge-covered",
+        answer: 1246,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/encounter-with-yona",
+        answer: 1247,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/mipha-court",
+        answer: 1248,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/reunion-with-sidon",
+        answer: 1249,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/pristine-sanctum",
+        answer: 1250,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/sludge-like-battle",
+        answer: 1251,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/ancient-zora-waterworks",
+        answer: 1252,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/the-zora-temple-in-the-sky",
+        answer: 1253,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/water-temple-4th-stage",
+        answer: 1254,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/mucktorok-appears",
+        answer: 1255,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/mucktorok-battle-first-half",
+        answer: 1256,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/sidon-sage-of-water",
+        answer: 1257,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/mini-game-dive-ceremony",
+        answer: 1258,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-before-the",
+        answer: 1259,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/shrine-of-light-battle",
+        answer: 1260,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/memories-the-gerudo-assault",
+        answer: 1261,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshado-ds/the-return-of-master-kohga",
+        answer: 1262,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/gerudo-town-during-the",
+        answer: 1263,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/gerudo-shelter",
+        answer: 1264,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/desert-ruins",
+        answer: 1265,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/kara-kara-bazaar-defense",
+        answer: 1266,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/gerudo-town-defense-battle",
+        answer: 1267,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-introduction",
+        answer: 1268,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-battle-first",
+        answer: 1269,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/battle-temple",
+        answer: 1270,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/lightning-temple-4th-stage",
+        answer: 1271,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/queen-gibdo-battle-first-half",
+        answer: 1272,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/riju-sage-of-lightning",
+        answer: 1273,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/lurelin-village-restoration",
+        answer: 1274,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/lookout-landing-shrouded-in",
+        answer: 1275,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/hyrule-castle-sky",
+        answer: 1276,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/phantom-ganon-battle-second",
+        answer: 1277,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/lookout-landing-four-sages",
+        answer: 1278,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/the-world-renowned-cece",
+        answer: 1279,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/the-cece-hat",
+        answer: 1280,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/the-mayoral-election",
+        answer: 1281,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/hateno-school",
+        answer: 1282,
+    },
+    {
+        url: "https://soundcloud.com/infinitexxdsewew/hateno-ancient-tech-lab",
+        answer: 1283,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/thunderhead-isles",
+        answer: 1284,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/dragonhead-island",
+        answer: 1285,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/construct-factory-5th-stage",
+        answer: 1286,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/zonai-pedestal",
+        answer: 1287,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/spirit-temple",
+        answer: 1288,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/seized-construct-appears",
+        answer: 1289,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/seized-construct-battle-first",
+        answer: 1290,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/mineru-sage-of-spirit",
+        answer: 1291,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/memories-the-imprisoning-war",
+        answer: 1292,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/korok-forest-during-the",
+        answer: 1293,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/geoglyph-final-dragons-tear",
+        answer: 1294,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/memories-tears-of-the-dragon",
+        answer: 1295,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/the-sword-held-by-the-dragon",
+        answer: 1296,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/zeldas-wishes-in-my-hands",
+        answer: 1297,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/hyrule-castle-chasm",
+        answer: 1298,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/hyrule-castle-chasm-battle",
+        answer: 1299,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/glooms-lair",
+        answer: 1300,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-kings-army",
+        answer: 1301,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle-2",
+        answer: 1302,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle-1",
+        answer: 1303,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-king-ganondorf-battle",
+        answer: 1304,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-dragon-and-the-light",
+        answer: 1305,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/demon-dragon-battle",
+        answer: 1306,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/the-demon-dragon-is-destroyed",
+        answer: 1307,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/to-her-hand",
+        answer: 1308,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadowx99998/oh-link-im-home",
+        answer: 1309,
+    },
+    {
+        url: "https://soundcloud.com/yell0wsuit2/main-theme-full-the-legend-of-zelda-tears-of-the-kingdom-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1310,
+    },
+    {
+        url: "https://soundcloud.com/yakumoiv/the-legend-of-zelda-tears-of-the-kingdom-end-credits-staff-roll?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1311,
+    },
 ];
