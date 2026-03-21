@@ -965,6 +965,7 @@ var musicListWithLinks = [
         answer: 236,
     },
     // Oracle of Ages/Seasons
+    // https://soundcloud.com/oraclo-gazpacho/sets/the-legend-of-zelda-oracle-of
     {
         url: "https://soundcloud.com/treeman02/secrets-of-the-oracles-zelda-oracle-of-agesseasons-2?si=dfc4c719a2504aaea2fa9048d6caa972&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 237,
@@ -1130,39 +1131,39 @@ var musicListWithLinks = [
         answer: 277,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-0-maku-road-zelda-oracle-of-agesseasons-1?si=c87dc170ea524fa1b4e77b63c93b2f0c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 278,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-1-spirits-grave-zelda-oracle-of-agesseasons-2?si=65ce14c9eaa244f989c33717ae16c5d1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 279,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-2-wing-dungeon-zelda-oracle-of-agesseasons-3?si=4dc030182480453c8adad640f83f33a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 280,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-3-moonlit-grotto-zelda-oracle-of-agesseasons-4?si=0d96c16f68314168975deb5f0daaf10a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 281,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-4-skull-dungeon-zelda-oracle-of-agesseasons-5?si=1fabef6f001a40f380fa7c5e99a9bbec&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 282,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-5-crown-dungeon-zelda-oracle-of-agesseasons-6?si=b990cecaaa384f9d9d045f71782fb0bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 283,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-6-mermaid-cave-zelda-oracle-of-agesseasons-7?si=42253446dd184344a29ef042d5938d2c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 284,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-7-jabu-jabus-belly-zelda-oracle-of-agesseasons-8?si=885de8a4b60b46ca80bd20fb0d18670a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 285,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-8-ancient-tomb-zelda-oracle-of-agesseasons-17?si=f5cc469a64084b0999cb1db185a1961d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 286,
     },
     {
@@ -1170,51 +1171,51 @@ var musicListWithLinks = [
         answer: 287,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-1-gnarled-root-dungeon-zelda-oracle-of-agesseasons-9?si=36d1a6dad7a04a8d8c0092c962921530&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 288,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-2-snakes-remains-zelda-oracle-of-agesseasons-10?si=3d04c23a57e648f3ba999903cecba1f4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 289,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-3-poison-moths-lair-zelda-oracle-of-agesseasons-11?si=70f528bd5ddf4429be50803724a8015f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 290,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-4-dancing-dragon-dungeon-zelda-oracle-of-agesseasons-12?si=2c557f18e54d4929b53c31a078a8557e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 291,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-5-unicorns-cave-zelda-oracle-of-agesseasons-13?si=e3ad8b35d2b148f69a7e8f99e1240897&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 292,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-6-ancient-ruins-zelda-oracle-of-agesseasons-14?si=9d8ac9bdc21b4f938328ca001cc7a1d6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 293,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-7-explorers-crypt-zelda-oracle-of-agesseasons-15?si=f171aea898ae419aa84dbb8fe71a4a57&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 294,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/level-8-sword-shield-maze-zelda-oracle-of-agesseasons-16?si=6ca08e3dbab54a63a03f5e754530c0e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 295,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/under-the-sea-zelda-oracle-of-agesseasons-18?si=9f5df16dc9994e4b94e5d8f91cb39ffa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 296,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/that-popular-subrosian-dance-zelda-oracle-of-agesseasons-19?si=eb7d0b5122e24f61b375b941ed7d904b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 297,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/symmetry-city-present-zelda-oracle-of-agesseasons-20?si=22779a6e3c244e26b102f0d2fe1380c0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 298,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/symmetry-city-past-zelda-oracle-of-agesseasons-21?si=93867f460ff549c18757f8588984dc1f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 299,
     },
     {
@@ -1222,15 +1223,15 @@ var musicListWithLinks = [
         answer: 300,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/subrosian-living-home-and-market-zelda-oracle-of-agesseasons-23?si=6a681d954b84490bae2c9cb2bc284a84&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 301,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/tokays-house-zelda-oracle-of-agesseasons-24?si=fa30f6c7fd1147ef9c062759cc301182&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 302,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/black-tower-zelda-oracle-of-agesseasons-25?si=9da95886f4174666b6238a9f592195f3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 303,
     },
     {
@@ -1246,7 +1247,7 @@ var musicListWithLinks = [
         answer: 306,
     },
     {
-        url: "https://soundcloud.com/zelda-soundtracks/nes-legend-of-zelda-secret",
+        url: "https://soundcloud.com/oraclo-gazpacho/the-pirates-game-zelda-oracle-of-agesseasons-22?si=ffbfd1b025c2426cb17d7d636ddd7caa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 307,
     },
     {

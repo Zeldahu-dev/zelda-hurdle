@@ -1204,6 +1204,7 @@ var musicNameList = [
         tags: ["Other"],
     },
     // Oracle of Ages/Seasons
+    // https://soundcloud.com/oraclo-gazpacho/sets/the-legend-of-zelda-oracle-of
     {
         id: 237,
         name: "Temple of Seasons - Oracle of Ages/Seasons",
@@ -1386,7 +1387,7 @@ var musicNameList = [
     },
     {
         id: 273,
-        name: "Lynna Village - Oracle of Ages/Seasons",
+        name: "Lynna Village (Past) - Oracle of Ages/Seasons",
         tags: ["Town"],
     },
     {
@@ -1506,7 +1507,7 @@ var musicNameList = [
     },
     {
         id: 297,
-        name: "Subrosian Dance - Oracle of Ages/Seasons",
+        name: "That PopularSubrosian Dance - Oracle of Ages/Seasons",
         tags: ["Event"],
     },
     {
@@ -1536,7 +1537,7 @@ var musicNameList = [
     },
     {
         id: 303,
-        name: "Black Tower - Oracle of Ages/Seasons",
+        name: "The Black Tower - Oracle of Ages/Seasons",
         tags: ["Dungeon", "Area"],
     },
     {
