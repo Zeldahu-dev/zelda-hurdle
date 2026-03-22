@@ -6950,7 +6950,7 @@ var musicNameList = [
     },
     {
         id: 1379,
-        name: "Dampé - Echoes of Wisdom",
+        name: "DampÃ© - Echoes of Wisdom",
         tags: ["Character"],
     },
     {
@@ -7303,7 +7303,7 @@ var musicNameList = [
     },
     {
         id: 1449,
-        name: "Dampé's House - Link's Awakening (Remake)",
+        name: "DampÃ©'s House - Link's Awakening (Remake)",
         tags: ["Area"],
     },
     {
@@ -8438,5 +8438,235 @@ var musicNameList = [
         id: 1674,
         name: "Game Over - Cadence of Hyrule",
         tags: ["Area", "Event"],
+    },
+    // Four Swords Adventures (Navi Trackers)
+    // https://soundcloud.com/search?q=navi%20trackers
+    {
+        id: 1675,
+        name: "Results - Four Swords Adventures (Navi Trackers)",
+        tags: ["Event"],
+    },
+    {
+        id: 1676,
+        name: "Revamp: Ending Theme (The Legend of Zelda) - Four Swords Adventures (Navi Trackers)",
+        tags: ["Other"],
+    },
+    {
+        id: 1677,
+        name: "Time Event - Four Swords Adventures (Navi Trackers)",
+        tags: ["Event"],
+    },
+    {
+        id: 1678,
+        name: "Name Entry - Four Swords Adventures (Navi Trackers)",
+        tags: ["Event"],
+    },
+    {
+        id: 1679,
+        name: "Staff Credits - Four Swords Adventures (Navi Trackers)",
+        tags: ["Other"],
+    },
+    {
+        id: 1680,
+        name: "Course 9 - Quicksand Cave - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1681,
+        name: "Course 11 - Flame Altar - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1682,
+        name: "Course 2 - Four-Eye Square - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1683,
+        name: "Course 12 - Athletic Park - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1684,
+        name: "Lucky Time of Complete Visibility - Four Swords Adventures (Navi Trackers)",
+        tags: ["Event"],
+    },
+    {
+        id: 1685,
+        name: "Course 5 - Log Bridge Fountain - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1686,
+        name: "Course 4 - The Three Triangles - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1687,
+        name: "Course 7 - Animal Trails - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1688,
+        name: "Course 1 - The Hill Where the Castle Was - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1689,
+        name: "Sue-Belle - Four Swords Adventures (Navi Trackers)",
+        tags: ["Event"],
+    },
+    {
+        id: 1690,
+        name: "Course 10 - Round and Round Maze - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1691,
+        name: "King of Red Lions - Four Swords Adventures (Navi Trackers)",
+        tags: ["Event"],
+    },
+    {
+        id: 1692,
+        name: "Course 8 - The Terrace of the Two People - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1693,
+        name: "Course 3 - A Vacation in the Shallows - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    {
+        id: 1694,
+        name: "Course 6 - The Cruciform Floating Island - Four Swords Adventures (Navi Trackers)",
+        tags: ["Area"],
+    },
+    // Link's Crossbow Training
+    // https://soundcloud.com/agent_m12/sets/tloz-links-crossbow-training
+    {
+        id: 1695,
+        name: "Title Theme - Link's Crossbow Training",
+        tags: ["Other"],
+    },
+    {
+        id: 1696,
+        name: "Stage Select - Link's Crossbow Training",
+        tags: ["Other", "Event"],
+    },
+    {
+        id: 1697,
+        name: "Results - Link's Crossbow Training",
+        tags: ["Event"],
+    },
+    // My Nintendo Picross: Twilight Princess
+    {
+        id: 1698,
+        name: "Hyrule Field - My Nintendo Picross: Twilight Princess",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1699,
+        name: "Fairy's Fountain - My Nintendo Picross: Twilight Princess",
+        tags: ["Event"],
+    }, 
+    // BS Zelda: Ancient Stone Tablets
+    // https://soundcloud.com/search?q=bs%20zelda
+    {
+        id: 1700,
+        name: "Overworld - BS Zelda: Ancient Stone Tablets",
+        tags: ["Area"],
+    },
+    {
+        id: 1701,
+        name: "Guessing-Game House - BS Zelda: Ancient Stone Tablets",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1702,
+        name: "Sanctuary Dungeon - BS Zelda: Ancient Stone Tablets",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1703,
+        name: "Hyrule Castle - BS Zelda: Ancient Stone Tablets",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1704,
+        name: "Forest Theme - BS Zelda: Ancient Stone Tablets",
+        tags: ["Area"],
+    },
+    {
+        id: 1705,
+        name: "Dark World - BS Zelda: Ancient Stone Tablets",
+        tags: ["Area"],
+    },
+    {
+        id: 1706,
+        name: "The Goddess Appears - BS Zelda: Ancient Stone Tablets",
+        tags: ["Event"],
+    },
+    {
+        id: 1707,
+        name: "The Legend of Zelda - BS Zelda: Ancient Stone Tablets",
+        tags: ["Other"],
+    },
+    {
+        id: 1708,
+        name: "Overworld (Rearranged) - BS Zelda: Ancient Stone Tablets",
+        tags: ["Area"],
+    },
+    {
+        id: 1709,
+        name: "Dark World (Rearranged) - BS Zelda: Ancient Stone Tablets",
+        tags: ["Area"],
+    },
+    {
+        id: 1710,
+        name: "Legend of Zelda - BS Zelda: Ancient Stone Tablets",
+        tags: ["Other"],
+    },
+    {
+        id: 1711,
+        name: "Kakariko Village - BS Zelda: Ancient Stone Tablets",
+        tags: ["Town"],
+    },
+    // BS The Legend of Zelda
+    // https://soundcloud.com/search?q=bs%20zelda
+    // https://soundcloud.com/john-zelda
+    {
+        id: 1712,
+        name: "Title Theme - BS The Legend of Zelda",
+        tags: ["Other"],
+    },
+    {
+        id: 1713,
+        name: "Overworld - BS The Legend of Zelda",
+        tags: ["Area"],
+    },
+    {
+        id: 1714,
+        name: "Dungeon - BS The Legend of Zelda",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1715,
+        name: "Hyrule is Restored - BS The Legend of Zelda",
+        tags: ["Event", "Other"],
+    },
+    {
+        id: 1716,
+        name: "Wait and Listen - BS The Legend of Zelda",
+        tags: ["Event"],
+    },
+    {
+        id: 1717,
+        name: "Death Mountain - BS The Legend of Zelda",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1718,
+        name: "Ending Theme - BS The Legend of Zelda",
+        tags: ["Other"],
     },
 ];

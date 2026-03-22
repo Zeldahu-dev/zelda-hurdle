@@ -8,6 +8,9 @@ var app = (function () {
     ["The Faces of Evil", "Zelda's Adventure"],
     ["The Wind Waker", "The Wind Waker HD"],
     ["Four Swords Adventures", "Four Swords Adventures (Navi Trackers)"],
+    ["My Nintendo Picross: Twilight Princess", "Twilight Princess"],
+    ["Link's Crossbow Training", "Twilight Princess"],
+    ["BS Zelda: Ancient Stone Tablets", "BS The Legend of Zelda"],
   ];
 
   function isCloseGame(gameA, gameB) {

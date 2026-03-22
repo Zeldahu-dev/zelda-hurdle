@@ -6762,4 +6762,190 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/luikas2/game-over-cadence-of-hyrule",
         answer: 1674,
     },
+    // Four Swords Adventures (Navi Trackers)
+    // https://soundcloud.com/search?q=navi%20trackers
+    {
+        url: "https://soundcloud.com/vgmdoc/results?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1675,
+    },
+    {
+        url: "https://soundcloud.com/vgmdr/revamp-ending-theme-from-the-legend-of-zelda-nes-four-swords-adventures-navi-trackers?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1676,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/time-event-zelda-navi-trackers?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1677,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/nickname-entry?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1678,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/staff-roll?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1679,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-9-quicksand-cave?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1680,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-11-flame-altar?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1681,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-2-four-eye-square?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1682,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-12-athletic-park?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1683,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/lucky-time-of-complete-visibility?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1684,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-5-log-bridge-fountain?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1685,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-4-the-three-triangles?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1686,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-7-animal-trails?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1687,
+    },
+    {
+        url: "https://soundcloud.com/vgm-dr/the-hill-where-the-castle-was-zelda-four-swords-adventures-navi-trackers?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1688,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/navigator-select-sue-belle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1689,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-10-round-and-round-maze?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1690,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/navigator-select-king-of-red-lions-zelda-four-swords-adventures-navi-trackers?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1691,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-8-the-terrace-of-the-two-people?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1692,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-3-a-vacation-in-the-shallows?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1693,
+    },
+    {
+        url: "https://soundcloud.com/vgmdoc/course-6-the-cruciform-floating-island?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1694,
+    },
+    // Link's Crossbow Training
+    // https://soundcloud.com/agent_m12/sets/tloz-links-crossbow-training
+    {
+        url: "https://soundcloud.com/vgmdoc/crossbow-training?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1695,
+    },
+    {
+        url: "https://soundcloud.com/agent_m12/the-legend-of-zelda-links-crossbow-training-music-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1696,
+    },
+    {
+        url: "https://soundcloud.com/agent_m12/the-legend-of-zelda-links-crossbow-training-music-results?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1697,
+    },
+    // My Nintendo Picross: Twilight Princess
+    {
+        url: "https://soundcloud.com/windwerehogs-backroom/hyrulefield-mynintendopicross-zelda-twilightprincess",
+        answer: 1698,
+    },
+    {
+        url: "https://soundcloud.com/user-368061052/fairy-fountain-tlos-twilight?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1699,
+    },
+    // BS Zelda: Ancient Stone Tablets
+    // https://soundcloud.com/search?q=bs%20zelda
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/01-overworld?in=thebszeldahomepage/sets/music-used-in-bs-zelda-no&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1700,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/02-theme-of-the-guessing-game?in=thebszeldahomepage/sets/music-used-in-bs-zelda-no&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1701,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/03-sanctuary-dungeon?in=thebszeldahomepage/sets/music-used-in-bs-zelda-no&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1702,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/04-hyrule-castle?in=thebszeldahomepage/sets/music-used-in-bs-zelda-no&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1703,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/05-forest-theme?in=thebszeldahomepage/sets/music-used-in-bs-zelda-no&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1704,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/06-dark-overworld?in=thebszeldahomepage/sets/music-used-in-bs-zelda-no&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1705,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/07-the-goddess-appears?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1706,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/11-the-legend-of-zelda?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1707,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/06-rearrange-version-zelda-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1708,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/07-rearrange-version-zelda-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1709,
+    },
+    {
+        url: "https://soundcloud.com/thebszeldahomepage/09-legend-of-zelda?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1710,
+    },
+    {
+        url: "https://soundcloud.com/doc-vgm/kakariko-village-bs-zelda-ancient-stone-tablets-broadcast-satellaview?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1711,
+    },
+    // BS The Legend of Zelda
+    // https://soundcloud.com/search?q=bs%20zelda
+    // https://soundcloud.com/john-zelda
+    {
+        url: "https://soundcloud.com/vgmdoc/title-theme-bs-the-legend-of-zelda-snessfc-broadcast-satellaview?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1712,
+    },
+    {
+        url: "https://soundcloud.com/mrcogu2/zelda-no-densetsu-bs-overworld?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1713,
+    },
+    {
+        url: "https://soundcloud.com/doktor-vgm/dungeon-bs-the-legend-of-zelda?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1714,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/hyrule-is-restored-bs-the-legend-of-zelda-remaster?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1715,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/wait-and-listen-bs-the-legend-of-zelda-firebrandx?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1716,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/bs-zelda-death-mountain-2?si=862ca01dcfdc4575969b8273e417600e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1717,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/bs-zelda-ending-1?si=7beb1621154244c38f827574c47d3c68&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1718,
+    },
 ];
