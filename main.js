@@ -11,6 +11,16 @@ var app = (function () {
     ["My Nintendo Picross: Twilight Princess", "Twilight Princess"],
     ["Link's Crossbow Training", "Twilight Princess"],
     ["BS Zelda: Ancient Stone Tablets", "BS The Legend of Zelda"],
+    ["Super Smash Bros.", "Super Smash Bros. Melee"],
+    ["Super Smash Bros.", "Super Smash Bros. Brawl"],
+    ["Super Smash Bros.", "Super Smash Bros. for 3DS & Wii U"],
+    ["Super Smash Bros.", "Super Smash Bros. Ultimate"],
+    ["Super Smash Bros. Melee", "Super Smash Bros. Brawl"],
+    ["Super Smash Bros. Melee", "Super Smash Bros. for 3DS & Wii U"],
+    ["Super Smash Bros. Melee", "Super Smash Bros. Ultimate"],
+    ["Super Smash Bros. Brawl", "Super Smash Bros. for 3DS & Wii U"],
+    ["Super Smash Bros. Brawl", "Super Smash Bros. Ultimate"],
+    ["Super Smash Bros. for 3DS & Wii U", "Super Smash Bros. Ultimate"],
   ];
 
   function isCloseGame(gameA, gameB) {

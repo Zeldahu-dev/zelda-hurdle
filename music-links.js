@@ -6948,4 +6948,384 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/john-zelda/bs-zelda-ending-1?si=7beb1621154244c38f827574c47d3c68&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1718,
     },
+    // The Faces of Evil
+    // https://soundcloud.com/micro-wavo-gazpacho/sets/the-faces-of-evil
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/spearfish-falls-the-faces-of-evil-1",
+        answer: 1719,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/crater-cove-the-faces-of-evil-2",
+        answer: 1720,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/dragons-cave-the-faces-of-evil-3",
+        answer: 1721,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/firestone-lake-the-faces-of-evil-4",
+        answer: 1722,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/fortress-centrum-the-faces-of-evil-5",
+        answer: 1723,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/ganons-lair-the-faces-of-evil-6",
+        answer: 1724,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/glutko-the-faces-of-evil-7",
+        answer: 1725,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/goodee-mashed-link-for-the-main-course-the-faces-of-evil-8",
+        answer: 1726,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/goronu-the-faces-of-evil-9",
+        answer: 1727,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/harden-with-fire-the-faces-of-evil-10",
+        answer: 1728,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/harlequin-bazaar-the-faces-of-evil-11",
+        answer: 1729,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/hermit-flat-the-faces-of-evil-12",
+        answer: 1730,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/i-spy-with-my-little-eye-the-faces-of-evil-13",
+        answer: 1731,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/lets-have-fun-anyway-the-faces-of-evil-14",
+        answer: 1732,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/main-theme-the-faces-of-evil-15",
+        answer: 1733,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/lost-house-the-faces-of-evil-16",
+        answer: 1734,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/lost-igloo-the-faces-of-evil-17",
+        answer: 1735,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/lupay-the-faces-of-evil-18",
+        answer: 1736,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/militron-the-faces-of-evil-19",
+        answer: 1737,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/mysterious-house-the-faces-of-evil-20",
+        answer: 1738,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/nortinka-the-faces-of-evil-21",
+        answer: 1739,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/or-else-you-will-die-the-faces-of-evil-22",
+        answer: 1740,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/secret-cave-of-the-falls-the-faces-of-evil-23",
+        answer: 1741,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/serigon-cave-the-faces-of-evil-24",
+        answer: 1742,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/serigon-water-cave-the-faces-of-evil-25",
+        answer: 1743,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/shipwreck-cliff-the-faces-of-evil-26",
+        answer: 1744,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/shrine-of-koridai-the-faces-of-evil-27",
+        answer: 1745,
+    },
+    {
+        url: "https://soundcloud.com/cringe-fest-378730558/link-the-faces-of-evil-music-toyku-lighthouse?si=1a884cb1ff614e6abee8ea68ad57e27b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1746,
+    },
+    // The Wand of Gamelon
+    // https://soundcloud.com/micro-wavo-gazpacho/sets/the-wand-of-gamelon
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/washubi-swamp-the-wand-of-gamelon-1",
+        answer: 1747,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/aru-ainu-the-wand-of-gamelon-2",
+        answer: 1748,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/boarding-party-inside-the-gobiyan-ship-the-wand-of-gamelon-3",
+        answer: 1749,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/dodomai-palace-the-wand-of-gamelon-4",
+        answer: 1750,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/dordung-cave-the-wand-of-gamelon-5",
+        answer: 1751,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/down-the-well-the-wand-of-gamelon-6",
+        answer: 1752,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/gorias-welcome-the-wand-of-gamelon-7",
+        answer: 1753,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/hanyu-forest-the-wand-of-gamelon-8",
+        answer: 1754,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/hectans-stand-the-wand-of-gamelon-9",
+        answer: 1755,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/hut-of-washubi-swamp-the-wand-of-gamelon-10",
+        answer: 1756,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/kobitan-the-wand-of-gamelon-11",
+        answer: 1757,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/masters-of-the-hall-the-wand-of-gamelon-12",
+        answer: 1758,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/nokani-forest-the-wand-of-gamelon-13",
+        answer: 1759,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/reesong-palace-the-wand-of-gamelon-14",
+        answer: 1760,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/sakado-the-wand-of-gamelon-15",
+        answer: 1761,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/showdown-with-ganon-the-wand-of-gamelon-16",
+        answer: 1762,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/shrine-of-gamelon-the-wand-of-gamelon-17",
+        answer: 1763,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/shutoy-lake-the-wand-of-gamelon-18",
+        answer: 1764,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/the-red-tower-the-wand-of-gamelon-19",
+        answer: 1765,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/theme-of-the-gobiyan-ship-the-wand-of-gamelon-20",
+        answer: 1766,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/tykogi-tower-into-the-dark-the-wand-of-gamelon-21",
+        answer: 1767,
+    },
+    {
+        url: "https://soundcloud.com/user-tennisforthewii/zelda-wand-of-gamelon-overworld-map-theme?si=343ac8fc0da64cf3b227fe2f83d6a8a4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1768,
+    },
+    {
+        url: "https://soundcloud.com/gg-shorts/zelda-the-wand-of-gamelon-ost?si=43d9dd5a9e24471ca2715f7874b3e957&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1769,
+    },
+    {
+        url: "https://soundcloud.com/savage-bichon/zelda-the-wand-of-gamelon?si=0dfb0647f2b5473aa922507382ae5d88&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1770,
+    },
+    // Zelda's Adventure
+    // https://soundcloud.com/micro-wavo-gazpacho/sets/zeldas-adventure
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-molblin-inn-1",
+        answer: 1771,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-ending-theme-2",
+        answer: 1772,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-dungeon-1-shrine-of-earth-3",
+        answer: 1773,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-dungeon-2-shrine-of-illusion-4",
+        answer: 1774,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-dungeon-3-shrine-of-air-5",
+        answer: 1775,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-dungeon-4-shrine-of-destiny-6",
+        answer: 1776,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-dungeon-5-shrine-of-water-7",
+        answer: 1777,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-dungeon-6-shrine-of-strength-8",
+        answer: 1778,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-dungeon-7-shrine-of-fire-9",
+        answer: 1779,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-final-boss-ganon-10",
+        answer: 1780,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-great-fairy-11",
+        answer: 1781,
+    },
+    {
+        url: "https://soundcloud.com/micro-wavo-gazpacho/zeldas-adventure-main-theme-12",
+        answer: 1782,
+    },
+    // Super Smash Bros.
+    // https://soundcloud.com/super-smash-bros-anthology-769829437/sets/super-smash-bros-anthology-vol
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/03-overworld-theme-the-legend",
+        answer: 1783,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/01-title-theme-the-legend-of",
+        answer: 1784,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/05-overworld-theme-the-legend",
+        answer: 1785,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/10-great-temple-temple",
+        answer: 1786,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/12-dark-world-brawl",
+        answer: 1787,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/14-hidden-mountain-forest",
+        answer: 1788,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/15-tal-tal-heights",
+        answer: 1789,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/16-ocarina-of-time-medley",
+        answer: 1790,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/17-hyrule-field-theme",
+        answer: 1791,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/21-song-of-storms",
+        answer: 1792,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/04-overworld-theme-the-legend",
+        answer: 1793,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/09-temple-theme",
+        answer: 1794,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/19-sarias-theme",
+        answer: 1795,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/06-overworld-underworld-the",
+        answer: 1796,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/07-the-legend-of-zelda-medley",
+        answer: 1797,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/13-dark-world-for-3ds-wii-u",
+        answer: 1798,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/20-sarias-song-middle-boss",
+        answer: 1799,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/22-gerudo-valley",
+        answer: 1800,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/26-the-great-sea-menu-select",
+        answer: 1801,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/36-full-steam-ahead",
+        answer: 1802,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/37-ballad-of-the-goddess",
+        answer: 1803,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/08-death-mountain",
+        answer: 1804,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/24-termina-field",
+        answer: 1805,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/29-molgera",
+        answer: 1806,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/33-midnas-lament",
+        answer: 1807,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/42-main-theme-the-legend-of",
+        answer: 1808,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/44-nintendo-switch",
+        answer: 1809,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/45-main-theme-the-legend-of",
+        answer: 1810,
+    },
+    {
+        url: "https://soundcloud.com/super-smash-bros-anthology-769829437/46-kasss-theme",
+        answer: 1811,
+    },
 ];

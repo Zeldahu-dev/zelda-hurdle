@@ -8669,4 +8669,477 @@ var musicNameList = [
         name: "Ending Theme - BS The Legend of Zelda",
         tags: ["Other"],
     },
+    // The Faces of Evil
+    // https://soundcloud.com/micro-wavo-gazpacho/sets/the-faces-of-evil
+    {
+        id: 1719,
+        name: "Spearfish Falls - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1720,
+        name: "Crater Cove - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1721,
+        name: "Dragon's Cave - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1722,
+        name: "Firestone Lake - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1723,
+        name: "Fortress Centrum - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1724,
+        name: "Ganon's Lair - The Faces of Evil",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1725,
+        name: "Glutko - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1726,
+        name: "Goodee Mashed Link for the Main Course! - The Faces of Evil",
+        tags: ["Event"],
+    },
+    {
+        id: 1727,
+        name: "Goronu - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1728,
+        name: "Harden With Fire! - The Faces of Evil",
+        tags: ["Event"],
+    },
+    {
+        id: 1729,
+        name: "Harlequin Bazaar - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1730,
+        name: "Hermit Flat - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1731,
+        name: "I Spy With My Little Eye! - The Faces of Evil",
+        tags: ["Event"],
+    },
+    {
+        id: 1732,
+        name: "Let's Have Fun Anyway! - The Faces of Evil",
+        tags: ["Event"],
+    },
+    {
+        id: 1733,
+        name: "Main Theme - The Faces of Evil",
+        tags: ["Other"],
+    },
+    {
+        id: 1734,
+        name: "Lost House - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1735,
+        name: "Lost Igloo - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1736,
+        name: "Lupay - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1737,
+        name: "Militron - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1738,
+        name: "Mysterious House - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1739,
+        name: "Nortinka - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1740,
+        name: "Or Else You Will Die! - The Faces of Evil",
+        tags: ["Event"],
+    },
+    {
+        id: 1741,
+        name: "Secret Cave of the Falls - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1742,
+        name: "Serigon Cave - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1743,
+        name: "Serigon Water Cave - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1744,
+        name: "Shipwreck Cliff - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1745,
+        name: "Shrine of Koridai - The Faces of Evil",
+        tags: ["Area"],
+    },
+    {
+        id: 1746,
+        name: "Toyku Lighthouse - The Faces of Evil",
+        tags: ["Dungeon"],
+    },
+    // The Wand of Gamelon
+    // https://soundcloud.com/micro-wavo-gazpacho/sets/the-wand-of-gamelon
+    {
+        id: 1747,
+        name: "Washubi Swamp - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1748,
+        name: "Aru Ainu - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1749,
+        name: "Boarding Party Inside the Gobiyan Ship - The Wand of Gamelon",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1750,
+        name: "Dodomai Palace - The Wand of Gamelon",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1751,
+        name: "Dordung Cave - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1752,
+        name: "Down the Well - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1753,
+        name: "Goria's Welcome - The Wand of Gamelon",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1754,
+        name: "Hanyu Forest - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1755,
+        name: "Hectan's Stand - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1756,
+        name: "Hut of Washubi Swamp - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1757,
+        name: "Kobitan - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1758,
+        name: "Masters of the Hall - The Wand of Gamelon",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1759,
+        name: "Nokani Forest - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1760,
+        name: "Reesong Palace - The Wand of Gamelon",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1761,
+        name: "Sakado - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1762,
+        name: "Showdown With Ganon - The Wand of Gamelon",
+        tags: ["Battle"],
+    },
+    {
+        id: 1763,
+        name: "Shrine of Gamelon - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1764,
+        name: "Shutoy Lake - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1765,
+        name: "The Red Tower - The Wand of Gamelon",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1766,
+        name: "The Gobiyan Ship - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    {
+        id: 1767,
+        name: "Tykogi Tower Into the Dark - The Wand of Gamelon",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1768,
+        name: "Main Theme - The Wand of Gamelon",
+        tags: ["Other"],
+    },
+    {
+        id: 1769,
+        name: "Gibdo's Cathedral - The Wand of Gamelon",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1770,
+        name: "The Fairy Pool - The Wand of Gamelon",
+        tags: ["Area"],
+    },
+    // Zelda's Adventure
+    // https://soundcloud.com/micro-wavo-gazpacho/sets/zeldas-adventure
+    {
+        id: 1771,
+        name: "Molblin Inn - Zelda's Adventure",
+        tags: ["Town"],
+    },
+    {
+        id: 1772,
+        name: "Ending Theme - Zelda's Adventure",
+        tags: ["Other"],
+    },
+    {
+        id: 1773,
+        name: "Dungeon 1 - Shrine of Earth - Zelda's Adventure",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1774,
+        name: "Dungeon 2 - Shrine of Illusion - Zelda's Adventure",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1775,
+        name: "Dungeon 3 - Shrine of Air - Zelda's Adventure",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1776,
+        name: "Dungeon 4 - Shrine of Destiny - Zelda's Adventure",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1777,
+        name: "Dungeon 5 - Shrine of Water - Zelda's Adventure",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1778,
+        name: "Dungeon 6 - Shrine of Strength - Zelda's Adventure",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1779,
+        name: "Dungeon 7 - Shrine of Fire - Zelda's Adventure",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1780,
+        name: "Ganon Final Battle - Zelda's Adventure",
+        tags: ["Battle"],
+    },
+    {
+        id: 1781,
+        name: "Great Fairy - Zelda's Adventure",
+        tags: ["Event"],
+    },
+    {
+        id: 1782,
+        name: "Main Theme - Zelda's Adventure",
+        tags: ["Other"],
+    },
+    // Super Smash Bros.
+    // https://soundcloud.com/super-smash-bros-anthology-769829437/sets/super-smash-bros-anthology-vol
+    {
+        id: 1783,
+        name: "Overworld Theme - The Legend of Zelda - Super Smash Bros.",
+        tags: ["Area"],
+    },
+    {
+        id: 1784,
+        name: "Title Theme - The Legend of Zelda - Super Smash Bros. Brawl",
+        tags: ["Other"],
+    },
+    {
+        id: 1785,
+        name: "Overworld Theme - The Legend of Zelda - Super Smash Bros. Brawl",
+        tags: ["Area"],
+    },
+    {
+        id: 1786,
+        name: "Great Temple & Temple - Super Smash Bros. Brawl",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1787,
+        name: "Dark World - Super Smash Bros. Brawl",
+        tags: ["Area"],
+    },
+    {
+        id: 1788,
+        name: "Hidden Mountain & Forest - Super Smash Bros. Brawl",
+        tags: ["Area"],
+    },
+    {
+        id: 1789,
+        name: "Tal Tal Heights - Super Smash Bros. Brawl",
+        tags: ["Area"],
+    },
+    {
+        id: 1790,
+        name: "Ocarina of Time Medley - Super Smash Bros. Brawl",
+        tags: ["Other"],
+    },
+    {
+        id: 1791,
+        name: "Hyrule Field Theme - Super Smash Bros. Brawl",
+        tags: ["Area"],
+    },
+    {
+        id: 1792,
+        name: "Song of Storms - Super Smash Bros. Brawl",
+        tags: ["Event"],
+    },
+    {
+        id: 1793,
+        name: "Overworld Theme - The Legend of Zelda - Super Smash Bros. Melee",
+        tags: ["Area"],
+    },
+    {
+        id: 1794,
+        name: "Temple Theme - Super Smash Bros. Melee",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1795,
+        name: "Saria's Theme - Super Smash Bros. Melee",
+        tags: ["Character"],
+    },
+    {
+        id: 1796,
+        name: "Overworld & Underworld - The Legend of Zelda - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Area"],
+    },
+    {
+        id: 1797,
+        name: "The Legend of Zelda Medley - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Other"],
+    },
+    {
+        id: 1798,
+        name: "Dark World - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Area"],
+    },
+    {
+        id: 1799,
+        name: "Saria's Song & Middle Boss Battle - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Battle", "Character"],
+    },
+    {
+        id: 1800,
+        name: "Gerudo Valley - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Area"],
+    },
+    {
+        id: 1801,
+        name: "The Great Sea & Menu Select - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Area", "Other"],
+    },
+    {
+        id: 1802,
+        name: "Full Steam Ahead - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Area"],
+    },
+    {
+        id: 1803,
+        name: "Ballad of the Goddess - Super Smash Bros. for 3DS & Wii U",
+        tags: ["Event"],
+    },
+    {
+        id: 1804,
+        name: "Death Mountain - Super Smash Bros. Ultimate",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1805,
+        name: "Termina Field - Super Smash Bros. Ultimate",
+        tags: ["Area"],
+    },
+    {
+        id: 1806,
+        name: "Molgera - Super Smash Bros. Ultimate",
+        tags: ["Battle"],
+    },
+    {
+        id: 1807,
+        name: "Midna's Lament - Super Smash Bros. Ultimate",
+        tags: ["Event"],
+    },
+    {
+        id: 1808,
+        name: "Main Theme - Tri Force Heroes - Super Smash Bros. Ultimate",
+        tags: ["Other"],
+    },
+    {
+        id: 1809,
+        name: "Nintendo Switch Presentation 2017 Trailer BGM - Super Smash Bros. Ultimate",
+        tags: ["Other"],
+    },
+    {
+        id: 1810,
+        name: "Main Theme - Breath of the Wild - Super Smash Bros. Ultimate",
+        tags: ["Other"],
+    },
+    {
+        id: 1811,
+        name: "Kass's Theme - Super Smash Bros. Ultimate",
+        tags: ["Character"],
+    },
 ];
