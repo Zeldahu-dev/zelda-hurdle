@@ -1663,7 +1663,7 @@ var musicNameList = [
     },
     {
         id: 328,
-        name: "Title Theme (Anniversary) - Four Swords",
+        name: "Game Select/Ending Theme (Anniversary) - Four Swords",
         tags: ["Other"],
     },
     // The Wind Waker
