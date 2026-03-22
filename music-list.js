@@ -57,7 +57,7 @@ var musicNameList = [
     },
     {
         id: 10,
-        name: "Ending Theme - Part 2 - The Adventure of Link",
+        name: "Staff Credits - The Adventure of Link",
         tags: ["Other"],
     },
     {
@@ -221,7 +221,7 @@ var musicNameList = [
     },
     {
         id: 42,
-        name: "Staff Credits (Ending Theme - Part 2) - A Link to the Past",
+        name: "Staff Credits - A Link to the Past",
         tags: ["Other"],
     },
     // Link's Awakening
@@ -239,7 +239,7 @@ var musicNameList = [
     },
     {
         id: 45,
-        name: "Menu - Link's Awakening",
+        name: "Name Entry - Link's Awakening",
         tags: ["Other"],
     },
     {
@@ -354,7 +354,7 @@ var musicNameList = [
     },
     {
         id: 68,
-        name: "Kiki's Bridge - Link's Awakening",
+        name: "Kiki's Gratitude - Link's Awakening",
         tags: ["Event", "Character"],
     },
     {
@@ -429,7 +429,7 @@ var musicNameList = [
     },
     {
         id: 83,
-        name: "Frog's Song of Soul - Link's Awakening",
+        name: "The Frog's Song of Soul - Link's Awakening",
         tags: ["Event", "Character"],
     },
     {
@@ -469,7 +469,7 @@ var musicNameList = [
     },
     {
         id: 91,
-        name: "Rapids Ride - Link's Awakening",
+        name: "Rapid's Ride - Link's Awakening",
         tags: ["Event", "Area"],
     },
     {
@@ -485,7 +485,7 @@ var musicNameList = [
     {
         id: 94,
         name: "Shadow Nightmare - Link's Awakening",
-        tags: ["Character", "Event"],
+        tags: ["Event"],
     },
     {
         id: 95,
@@ -504,7 +504,7 @@ var musicNameList = [
     },
     {
         id: 98,
-        name: "Ending Theme - Link's Awakening",
+        name: "Staff Credits - Link's Awakening",
         tags: ["Other"],
     },
     {
@@ -514,12 +514,12 @@ var musicNameList = [
     },
     {
         id: 100,
-        name: "Menu (Totakeke) - Link's Awakening",
+        name: "Name Entry (Totakeke) - Link's Awakening",
         tags: ["Other"],
     },
     {
         id: 101,
-        name: "Menu (Zelda) - Link's Awakening",
+        name: "Name Entry (Zelda) - Link's Awakening",
         tags: ["Other"],
     },
     {
@@ -529,17 +529,17 @@ var musicNameList = [
     },
     {
         id: 103,
-        name: "The Wind Fish - Link's Awakening",
-        tags: ["Event", "Character"],
+        name: "Ascent / The Wind Fish - Link's Awakening",
+        tags: ["Event"],
     },
     {
         id: 104,
-        name: "Menu (Lolo) - Link's Awakening",
+        name: "Name Entry (Lolo) - Link's Awakening",
         tags: ["Other"],
     },
     {
         id: 105,
-        name: "Menu (Moyse) - Link's Awakening",
+        name: "Name Entry (Moyse) - Link's Awakening",
         tags: ["Other"],
     },
     // Ocarina of Time
@@ -832,7 +832,7 @@ var musicNameList = [
     },
     {
         id: 163,
-        name: "Ending Theme - Ocarina of Time",
+        name: "End Credits - Ocarina of Time",
         tags: ["Other"],
     },
     {
@@ -847,7 +847,7 @@ var musicNameList = [
     },
     {
         id: 166,
-        name: "Ending Theme/Staff Credits - Ocarina of Time",
+        name: "End Credits (3DS) - Ocarina of Time",
         tags: ["Other"],
     },
     {
@@ -1150,7 +1150,7 @@ var musicNameList = [
     },
     {
         id: 226,
-        name: "Ending Theme - Majora's Mask",
+        name: "End Credits - Majora's Mask",
         tags: ["Other"],
     },
     {
@@ -1277,7 +1277,7 @@ var musicNameList = [
     },
     {
         id: 251,
-        name: "Ending Theme - Part 2 - Oracle of Ages/Seasons",
+        name: "Staff Credits - Oracle of Ages/Seasons",
         tags: ["Other"],
     },
     {
@@ -2125,7 +2125,7 @@ var musicNameList = [
     },
     {
         id: 420,
-        name: "Ending Theme - The Wind Waker",
+        name: "Staff Credits - The Wind Waker",
         tags: ["Other"],
     },
     {
@@ -2409,7 +2409,7 @@ var musicNameList = [
     },
     {
         id: 476,
-        name: "Ending Theme - Four Swords Adventures",
+        name: "Staff Credits - Four Swords Adventures",
         tags: ["Other"],
     },
     {
@@ -2672,7 +2672,7 @@ var musicNameList = [
     },
     {
         id: 528,
-        name: "Ending Theme - The Minish Cap",
+        name: "Staff Credits - The Minish Cap",
         tags: ["Other"],
     },
     // Twilight Princess
@@ -3384,7 +3384,7 @@ var musicNameList = [
     },
     {
         id: 670,
-        name: "Ending Theme - Twilight Princess",
+        name: "Staff Credits - Twilight Princess",
         tags: ["Other"],
     },
     {
@@ -3764,7 +3764,7 @@ var musicNameList = [
     },
     {
         id: 745,
-        name: "Ending Theme - Spirit Tracks",
+        name: "Staff Credits - Spirit Tracks",
         tags: ["Other"],
     },
     {
@@ -4597,7 +4597,7 @@ var musicNameList = [
     },
     {
         id: 911,
-        name: "Staff Credits (Ending Theme) - Skyward Sword",
+        name: "Staff Credits - Skyward Sword",
         tags: ["Other"],
     },
     {
@@ -4895,7 +4895,7 @@ var musicNameList = [
     },
     {
         id: 970,
-        name: "Ending Theme - A Link Between Worlds",
+        name: "Staff Credits - A Link Between Worlds",
         tags: ["Other"],
     },
     {
@@ -5876,7 +5876,7 @@ var musicNameList = [
     },
     {
         id: 1165,
-        name: "Ending Theme - Breath of the Wild",
+        name: "Staff Credits - Breath of the Wild",
         tags: ["Other"],
     },
     {
@@ -6618,7 +6618,7 @@ var musicNameList = [
     },
     {
         id: 1313,
-        name: "Ending Theme - Tears of the Kingdom",
+        name: "Staff Credits - Tears of the Kingdom",
         tags: ["Other"],
     },
     // Echoes of Wisdom
@@ -6975,7 +6975,944 @@ var musicNameList = [
     },
     {
         id: 1384,
-        name: "Ending Theme - Echoes of Wisdom",
+        name: "Staff Credits - Echoes of Wisdom",
         tags: ["Other"],
+    },
+    // Link's Awakening (Remake)
+    // https://soundcloud.com/kevhann/sets/disc-1-switch-the-legend-of-zelda-links-awakening-ost-rare-4-disc-switchgb
+    // https://soundcloud.com/kevhann/sets/disc-2-switch-the-legend-of-zelda-links-awakening-ost-rare-4-disc-switchgb
+    {
+        id: 1385,
+        name: "Name Entry - Link's Awakening (Remake)",
+        tags: ["Other"],
+    },
+    {
+        id: 1386,
+        name: "Waking Up at Tarin's House - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1387,
+        name: "Owl - Link's Awakening (Remake)",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1388,
+        name: "Overworld - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1389,
+        name: "Mabe Village - Link's Awakening (Remake)",
+        tags: ["Town"],
+    },
+    {
+        id: 1390,
+        name: "Mysterious Forest - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1391,
+        name: "Guardian Acorn - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1392,
+        name: "Shop - Link's Awakening (Remake)",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1393,
+        name: "Fairy's Fountain - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1394,
+        name: "Trendy Game - Link's Awakening (Remake)",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1395,
+        name: "Fishing Game - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1396,
+        name: "Fishing Hit! - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1397,
+        name: "Inside a House - Link's Awakening (Remake)",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1398,
+        name: "Ballad of the Wind Fish (Marin) - Link's Awakening (Remake)",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1399,
+        name: "Cave - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1400,
+        name: "Level 1 - Tail Cave - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1401,
+        name: "Underground Passage - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1402,
+        name: "Mini Boss Battle - Link's Awakening (Remake)",
+        tags: ["Battle"],
+    },
+    {
+        id: 1403,
+        name: "Boss Battle - Link's Awakening (Remake)",
+        tags: ["Battle"],
+    },
+    {
+        id: 1404,
+        name: "Victory Fanfare - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1405,
+        name: "Rescue Bow Wow Mission - Link's Awakening (Remake)",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1406,
+        name: "Mr. Write's House - Link's Awakening (Remake)",
+        tags: ["Town", "Area"],
+    },
+    {
+        id: 1407,
+        name: "Telephone Booth - Link's Awakening (Remake)",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1408,
+        name: "Level 2 - Bottle Grotto - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1409,
+        name: "Mad Batter's Lair - Link's Awakening (Remake)",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1410,
+        name: "Richard's Villa - Link's Awakening (Remake)",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1411,
+        name: "Kiki's Gratitude - Link's Awakening (Remake)",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1412,
+        name: "Kanalet Castle - Link's Awakening (Remake)",
+        tags: ["Dungeon", "Area"],
+    },
+    {
+        id: 1413,
+        name: "Seashell Mansion - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1414,
+        name: "Level 3 - Key Cavern - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1415,
+        name: "Chased by Bees - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1416,
+        name: "Animal Village - Link's Awakening (Remake)",
+        tags: ["Town"],
+    },
+    {
+        id: 1417,
+        name: "Christine's House - Link's Awakening (Remake)",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1418,
+        name: "Dream Shrine - Link's Awakening (Remake)",
+        tags: ["Dungeon", "Area"],
+    },
+    {
+        id: 1419,
+        name: "Overworld (With Marin) - Link's Awakening (Remake)",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1420,
+        name: "Mysterious Forest (With Marin) - Link's Awakening (Remake)",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1421,
+        name: "Ballad of the Wind Fish (Shore) - Link's Awakening (Remake)",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1422,
+        name: "Ballad of the Wind Fish - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1423,
+        name: "Level 4 - Angler's Tunnel - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1424,
+        name: "Manbo's Mambo - Link's Awakening (Remake)",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1425,
+        name: "House by the Cove - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1426,
+        name: "Under the Bridge - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1427,
+        name: "Level 5 - Catfish's Maw - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1428,
+        name: "The Frog's Song of Soul - Link's Awakening (Remake)",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1429,
+        name: "Southern Face Shrine - Link's Awakening (Remake)",
+        tags: ["Dungeon", "Area"],
+    },
+    {
+        id: 1430,
+        name: "Level 6 - Face Shrine - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1431,
+        name: "Color Dungeon - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1432,
+        name: "Cucco House - Link's Awakening (Remake)",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1433,
+        name: "Level 7 - Eagle's Tower - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1434,
+        name: "Turtle Rock Battle - Link's Awakening (Remake)",
+        tags: ["Battle"],
+    },
+    {
+        id: 1435,
+        name: "Level 8 - Turtle Rock - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1436,
+        name: "Rapid's Ride - Link's Awakening (Remake)",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1437,
+        name: "Rapid's Ride (Time Attack) - Link's Awakening (Remake)",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1438,
+        name: "Ballad of the Wind Fish (Instruments) - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1439,
+        name: "Owl (Wind Fish's Egg) - Link's Awakening (Remake)",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1440,
+        name: "Wind Fish's Egg - Link's Awakening (Remake)",
+        tags: ["Area", "Dungeon"],
+    },
+    {
+        id: 1441,
+        name: "Shadow Nightmare - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1442,
+        name: "Shadow Nightmare Battle - Link's Awakening (Remake)",
+        tags: ["Battle"],
+    },
+    {
+        id: 1443,
+        name: "Shadow Nightmare Battle - Final Form - Link's Awakening (Remake)",
+        tags: ["Battle"],
+    },
+    {
+        id: 1444,
+        name: "Victory Fanfare (Shadow Nightmare) - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1445,
+        name: "Ascent / The Wind Fish - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1446,
+        name: "Epilogue Theme (Koholint Island Disappears) - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1447,
+        name: "Staff Credits - Link's Awakening (Remake)",
+        tags: ["Other"],
+    },
+    {
+        id: 1448,
+        name: "Game Over - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1449,
+        name: "Dampé's House - Link's Awakening (Remake)",
+        tags: ["Area"],
+    },
+    {
+        id: 1450,
+        name: "Chamber Dungeon - Edit Mode - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1451,
+        name: "Chamber Dungeon - Beginner - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1452,
+        name: "Chamber Dungeon - Intermediate - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1453,
+        name: "Chamber Dungeon - Advanced - Link's Awakening (Remake)",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1454,
+        name: "Shadow Link Battle - Link's Awakening (Remake)",
+        tags: ["Battle"],
+    },
+    {
+        id: 1455,
+        name: "Chamber Dungeon - Results - Link's Awakening (Remake)",
+        tags: ["Event"],
+    },
+    {
+        id: 1456,
+        name: "Name Entry (Totakeke) - Link's Awakening (Remake)",
+        tags: ["Other"],
+    },
+    {
+        id: 1457,
+        name: "Name Entry (Marin) - Link's Awakening (Remake)",
+        tags: ["Other"],
+    },
+    {
+        id: 1458,
+        name: "Name Entry (Zelda) - Link's Awakening (Remake)",
+        tags: ["Other"],
+    },
+    {
+        id: 1459,
+        name: "Title Theme - Link's Awakening (Remake)",
+        tags: ["Other"],
+    },
+    {
+        id: 1460,
+        name: "Ballad of the Wind Fish (TV Commercial) - Link's Awakening (Remake)",
+        tags: ["Other"],
+    },
+    {
+        id: 1461,
+        name: "Sword Search on the Beach - Link's Awakening (Remake)",
+        tags: ["Area", "Event"],
+    },
+    // Hyrule Warriors
+    // https://soundcloud.com/axelxion-733657012/sets/hyrule-warriors-legends-ost
+    {
+        id: 1462,
+        name: "Main Theme - Hyrule Warriors",
+        tags: ["Other"],
+    },
+    {
+        id: 1463,
+        name: "Inside a House - Battle Preparation - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1464,
+        name: "Hidden Skill Training - Chapter Intro - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1465,
+        name: "Hyrule Field 1 - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1466,
+        name: "Fairy's Fountain - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1467,
+        name: "Dodongo Boss Battle - Hyrule Warriors",
+        tags: ["Battle"],
+    },
+    {
+        id: 1468,
+        name: "Zelda's Lullaby - Hyrule Warriors",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1469,
+        name: "Solidus Cave - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1470,
+        name: "Mysterious - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1471,
+        name: "In the Greenwood - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1472,
+        name: "Boss Battle - Hyrule Warriors",
+        tags: ["Battle"],
+    },
+    {
+        id: 1473,
+        name: "Guilty Feeling - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1474,
+        name: "Eclipse of the Sun - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1475,
+        name: "Hammer of Stones - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1476,
+        name: "Sequence of Drops - Hyrule Warriors",
+        tags: ["Area", "Dungeon"],
+    },
+    {
+        id: 1477,
+        name: "Twilight Field - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1478,
+        name: "Kakariko Village - Hyrule Warriors",
+        tags: ["Town", "Area"],
+    },
+    {
+        id: 1479,
+        name: "Remnant of Twilight - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1480,
+        name: "Skyloft - Hyrule Warriors",
+        tags: ["Area", "Town"],
+    },
+    {
+        id: 1481,
+        name: "Heart of the End - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1482,
+        name: "A Great Evil - Hyrule Warriors",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1483,
+        name: "Kumite - Hyrule Warriors",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1484,
+        name: "Face a Crisis - Hyrule Warriors",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1485,
+        name: "Have a Talk - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1486,
+        name: "Under Siege - Hyrule Warriors",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1487,
+        name: "Bazaar - Hyrule Warriors",
+        tags: ["Town", "Area"],
+    },
+    {
+        id: 1488,
+        name: "Psychostorm - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1489,
+        name: "Silent Guardians - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1490,
+        name: "Sandstream - Hyrule Warriors",
+        tags: ["Area"],
+    },
+    {
+        id: 1491,
+        name: "Focal Line - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1492,
+        name: "Eclipse of the Moon - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1493,
+        name: "Eclipse of the Moon - Battle - Hyrule Warriors",
+        tags: ["Event", "Area", "Battle"],
+    },
+    {
+        id: 1494,
+        name: "Eclipse of the World - Hyrule Warriors",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1495,
+        name: "Eclipse of the World - Battle - Hyrule Warriors",
+        tags: ["Event", "Area", "Battle"],
+    },
+    {
+        id: 1496,
+        name: "Denouement - Hyrule Warriors",
+        tags: ["Event"],
+    },
+    {
+        id: 1497,
+        name: "Hard Linked - Ending Theme - Hyrule Warriors",
+        tags: ["Other"],
+    },
+    {
+        id: 1498,
+        name: "Adventure Map - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1499,
+        name: "Linkle - Hyrule Warriors",
+        tags: ["Character", "Event"],
+    },
+    {
+        id: 1500,
+        name: "Title & Dragon Roost Remix - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1501,
+        name: "Molgera - Hyrule Warriors",
+        tags: ["Area", "Dungeon", "Battle"],
+    },
+    {
+        id: 1502,
+        name: "Adventure Map - Tal Tal Heights - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1503,
+        name: "Adventure Map - Clock Town - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1504,
+        name: "Adventure Map - Lorule Field - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1505,
+        name: "Adventure Map - Realm Overworld - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1506,
+        name: "Adventure Map - The Cursed Sea - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1507,
+        name: "Adventure Map - The Great Sea - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1508,
+        name: "Adventure Map - Twilight Hyrule Field - Hyrule Warriors",
+        tags: ["Area", "Event"],
+    },
+    // Hyrule Warriors: Age of Calamity
+    // https://soundcloud.com/user-777918113/sets/hyrule-warriors-age-of
+    {
+        id: 1509,
+        name: "Opening - Hyrule Warriors: Age of Calamity",
+        tags: ["Other", "Event"],
+    },
+    {
+        id: 1510,
+        name: "Main Theme - Hyrule Warriors: Age of Calamity",
+        tags: ["Other"],
+    },
+    {
+        id: 1511,
+        name: "Overlooking Hyrule - Prelude to Calamity - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Other"],
+    },
+    {
+        id: 1512,
+        name: "War Chronicles - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1513,
+        name: "The Battle of Hyrule Field - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1514,
+        name: "Guardian Menace - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1515,
+        name: "Hold the Line - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1516,
+        name: "Battle of Liberation - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1517,
+        name: "Powerful Foe - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1518,
+        name: "Imminent Threat - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1519,
+        name: "Warriors of Hyrule - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1520,
+        name: "A Battle's Conclusion - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1521,
+        name: "Whimsical - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1522,
+        name: "Royal Research Lab - Hyrule Warriors: Age of Calamity",
+        tags: ["Area"],
+    },
+    {
+        id: 1523,
+        name: "An Uneasy Heart - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1524,
+        name: "Overlooking Hyrule - Prelude to Calamity (Map) - Hyrule Warriors: Age of Calamity",
+        tags: ["Area"],
+    },
+    {
+        id: 1525,
+        name: "Gallery / Records of War - Hyrule Warriors: Age of Calamity",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1526,
+        name: "The Calamity's Revival - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1527,
+        name: "Mipha, the Zora Princess - Hyrule Warriors: Age of Calamity",
+        tags: ["Character", "Battle"],
+    },
+    {
+        id: 1528,
+        name: "Daruk, the Goron Hero - Hyrule Warriors: Age of Calamity",
+        tags: ["Character", "Battle"],
+    },
+    {
+        id: 1529,
+        name: "Revali, the Rito Warrior - Hyrule Warriors: Age of Calamity",
+        tags: ["Character", "Battle"],
+    },
+    {
+        id: 1530,
+        name: "Urbosa, the Gerudo Chief - Hyrule Warriors: Age of Calamity",
+        tags: ["Character", "Battle"],
+    },
+    {
+        id: 1531,
+        name: "Revali, Ace Archer & Aviator - Hyrule Warriors: Age of Calamity",
+        tags: ["Character", "Battle"],
+    },
+    {
+        id: 1532,
+        name: "A Single Wish - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1533,
+        name: "Astor, Prophet of Doom Battle - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1534,
+        name: "Astor - Hyrule Warriors: Age of Calamity",
+        tags: ["Character"],
+    },
+    {
+        id: 1535,
+        name: "A Quiet Moment - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1536,
+        name: "Blades of the Yiga - Hyrule Warriors: Age of Calamity",
+        tags: ["Area", "Battle", "Event"],
+    },
+    {
+        id: 1537,
+        name: "Crescendo - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1538,
+        name: "Crescendo - Phase 2 - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1539,
+        name: "Decisive Fight Against Calamity Ganon - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1540,
+        name: "Desperate Situation - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1541,
+        name: "Determination - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1542,
+        name: "Disquiet - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1543,
+        name: "Divine Beast Vah Medoh Looms - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1544,
+        name: "Divine Beast Vah Naboris Looms - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1545,
+        name: "Divine Beast Vah Rudania Looms - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1546,
+        name: "Divine Beast Vah Ruta Looms - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1547,
+        name: "Growing Sorrow - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1548,
+        name: "Harbinger Ganon, Hatred and Malice Incarnate - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1549,
+        name: "In Dire Need - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1550,
+        name: "Intense Battle Against the Hinox - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1551,
+        name: "Intense Battle Against the Molduga - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1552,
+        name: "Intense Battle Against The Talus - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle"],
+    },
+    {
+        id: 1553,
+        name: "Master Kohga, Top Banana of The Yiga Clan - Hyrule Warriors: Age of Calamity",
+        tags: ["Battle", "Character"],
+    },
+    {
+        id: 1554,
+        name: "Meditative Training - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1555,
+        name: "Messenger from the Future - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1556,
+        name: "Mortal Struggle Beneath a Blood Moon - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1557,
+        name: "Overlooking Hyrule - After the Calamity - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Other"],
+    },
+    {
+        id: 1558,
+        name: "Overlooking Hyrule - Amid the Calamity - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Other"],
+    },
+    {
+        id: 1559,
+        name: "Push Forward - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1560,
+        name: "Rescue Operation - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1561,
+        name: "Romp Across the Battlefield - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1562,
+        name: "End Credits - Hyrule Warriors: Age of Calamity",
+        tags: ["Other"],
+    },
+    {
+        id: 1563,
+        name: "Searching the Lost Woods - Hyrule Warriors: Age of Calamity",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1564,
+        name: "Sooga, Right Hand of the Inverted Eye - Hyrule Warriors: Age of Calamity",
+        tags: ["Character", "Battle"],
+    },
+    {
+        id: 1565,
+        name: "Terrako - Hyrule Warriors: Age of Calamity",
+        tags: ["Character"],
+    },
+    {
+        id: 1566,
+        name: "The Knight Who Seals the Darkness - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1567,
+        name: "With Power Awakened - Hyrule Warriors: Age of Calamity",
+        tags: ["Event"],
+    },
+    {
+        id: 1568,
+        name: "Worlds Converge: Riju & Teba - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1569,
+        name: "Worlds Converge: Sidon & Yunobo - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1570,
+        name: "Zelda's Lullaby (Ancient Tune) - Hyrule Warriors: Age of Calamity",
+        tags: ["Event", "Character"],
     },
 ];

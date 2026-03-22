@@ -5591,4 +5591,755 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/mrz-474347263/staff-roll-zelda-echoes-of-wisdom-6?si=737e7902b37f4e97bb7f8ee37dc9dad3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         answer: 1384,
     },
+    // Link's Awakening (Remake)
+    // https://soundcloud.com/kevhann/sets/disc-1-switch-the-legend-of-zelda-links-awakening-ost-rare-4-disc-switchgb
+    // https://soundcloud.com/kevhann/sets/disc-2-switch-the-legend-of-zelda-links-awakening-ost-rare-4-disc-switchgb
+    {
+        url: "https://soundcloud.com/kevhann/name-entry",
+        answer: 1385,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/waking-up-at-tarins-house",
+        answer: 1386,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/owl",
+        answer: 1387,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/field-normal",
+        answer: 1388,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/mabe-village",
+        answer: 1389,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/mysterious-forest",
+        answer: 1390,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/guardian-acorn",
+        answer: 1391,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/shop-items-witch",
+        answer: 1392,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/fairy-fountain",
+        answer: 1393,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/trendy-game",
+        answer: 1394,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/fishing-game",
+        answer: 1395,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/fishing-game-hit",
+        answer: 1396,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/inside-a-house",
+        answer: 1397,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/ballad-of-the-wind-fish-marins",
+        answer: 1398,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/cave",
+        answer: 1399,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-1-tail-cave-1",
+        answer: 1400,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/passage",
+        answer: 1401,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/mini-boss-battle",
+        answer: 1402,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/boss-battle",
+        answer: 1403,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/boss-battle-victory-get-heart",
+        answer: 1404,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/rescue-bowwow-mission",
+        answer: 1405,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/mr-writes-house-dr",
+        answer: 1406,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/telephone-booth",
+        answer: 1407,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-2-bottle-grotto-2",
+        answer: 1408,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/mad-batters-lair",
+        answer: 1409,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/richards-villa",
+        answer: 1410,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/kikis-gratitude",
+        answer: 1411,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/dungeon-kanalet-castle",
+        answer: 1412,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/seashell-mansion",
+        answer: 1413,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-3-key-cavern-3",
+        answer: 1414,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/tarin-chased-by-bees",
+        answer: 1415,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/animal-village",
+        answer: 1416,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/christines-house",
+        answer: 1417,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/dream-shrine",
+        answer: 1418,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/field-with-marin-version",
+        answer: 1419,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/mysterious-forest-with-marin",
+        answer: 1420,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/ballad-of-the-wind-fish-move",
+        answer: 1421,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/ballad-of-the-wind-fish",
+        answer: 1422,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-4-anglers-tunnel-4",
+        answer: 1423,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/manbos-mambo",
+        answer: 1424,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/house-by-the-cove",
+        answer: 1425,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/fisherman-under-the-bridge",
+        answer: 1426,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-5-catfishs-maw-5",
+        answer: 1427,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/the-frogs-song-of-soul",
+        answer: 1428,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/southern-face-shrine",
+        answer: 1429,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-6-face-shrine-6",
+        answer: 1430,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/color-dungeon",
+        answer: 1431,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/cucco-house",
+        answer: 1432,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-7-eagles-tower-7",
+        answer: 1433,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/turtle-rock-battle",
+        answer: 1434,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/level-8-turtle-rock-8",
+        answer: 1435,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/rapids-ride",
+        answer: 1436,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/rapids-ride-time-attack",
+        answer: 1437,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/ballad-of-the-wind-fish-1",
+        answer: 1438,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/owl-wind-fishs-egg-version-ver",
+        answer: 1439,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/wind-fishs-egg",
+        answer: 1440,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/shadows-battle-omen",
+        answer: 1441,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/shadows-appear-battle",
+        answer: 1442,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/shadow-battle-final-form",
+        answer: 1443,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/shadow-battle-victory",
+        answer: 1444,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/ascent",
+        answer: 1445,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/koholint-island-disappears",
+        answer: 1446,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/endingstaff-roll",
+        answer: 1447,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/game-over",
+        answer: 1448,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/damp-s-house",
+        answer: 1449,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/chamber-dungeon-edit-mode",
+        answer: 1450,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/chamber-dungeon-beginner",
+        answer: 1451,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/chamber-dungeon-intermediate",
+        answer: 1452,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/chamber-dungeon-advanced",
+        answer: 1453,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/chamber-dungeon-shadow-link",
+        answer: 1454,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/chamber-dungeon-results",
+        answer: 1455,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/enter-name-hidden-bgm-totakeke",
+        answer: 1456,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/enter-name-hidden-bgm-marin",
+        answer: 1457,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/48-enter-name-hidden-bgm-zelda",
+        answer: 1458,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/title-with-intro-version-ver",
+        answer: 1459,
+    },
+    {
+        url: "https://soundcloud.com/kevhann/ballad-of-the-wind-fish-tv",
+        answer: 1460,
+    },
+    {
+        url: "https://soundcloud.com/user-335391701/the-legend-of-zelda-links-awakening2019-ost-sword-search?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1461,
+    },
+    // Hyrule Warriors
+    // https://soundcloud.com/axelxion-733657012/sets/hyrule-warriors-legends-ost
+    {
+        url: "https://soundcloud.com/farrenhyte/main-theme-hyrule-warriors-ost",
+        answer: 1462,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/house-hyrule-warriors-ost",
+        answer: 1463,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/hidden-skill-training-hyrule",
+        answer: 1464,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/hyrule-field-1-hyrule-warriors",
+        answer: 1465,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/fairy-s-spring-hyrule-warriors",
+        answer: 1466,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/dodongo-boss-battle-hyrule",
+        answer: 1467,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/zelda-s-lullaby-hyrule",
+        answer: 1468,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/solidus-cave-hyrule-warriors",
+        answer: 1469,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/mysterious-hyrule-warriors-ost",
+        answer: 1470,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/in-the-greenwood-hyrule",
+        answer: 1471,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/boss-battle-hyrule-warriors",
+        answer: 1472,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/guilty-feeling-hyrule-warriors",
+        answer: 1473,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/eclipse-of-the-sun-hyrule",
+        answer: 1474,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/hammer-of-stones-hyrule",
+        answer: 1475,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/sequence-of-drops-hyrule",
+        answer: 1476,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/twilight-field-hyrule-warriors",
+        answer: 1477,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/kakariko-village-hyrule",
+        answer: 1478,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/remnant-of-twilight-hyrule",
+        answer: 1479,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/skyloft-hyrule-warriors-ost",
+        answer: 1480,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/heart-of-the-end-hyrule",
+        answer: 1481,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/a-great-evil-hyrule-warriors",
+        answer: 1482,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/kumite-hyrule-warriors-ost",
+        answer: 1483,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/face-a-crisis-hyrule-warriors",
+        answer: 1484,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/have-a-talk-hyrule-warriors",
+        answer: 1485,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/under-siege-hyrule-warriors",
+        answer: 1486,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/bazaar-hyrule-warriors-ost",
+        answer: 1487,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/psychostorm-hyrule-warriors",
+        answer: 1488,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/silent-guardians-hyrule",
+        answer: 1489,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/sandstream-hyrule-warriors-ost",
+        answer: 1490,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/focal-line-hyrule-warriors-ost",
+        answer: 1491,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/eclipse-of-the-moon-hyrule",
+        answer: 1492,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/eclipse-of-the-moon-guitar",
+        answer: 1493,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/eclipse-of-the-world-hyrule",
+        answer: 1494,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/eclipse-of-the-world-guitar",
+        answer: 1495,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/denouement-hyrule-warriors-ost",
+        answer: 1496,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/hard-linked-hyrule-warriors",
+        answer: 1497,
+    },
+    {
+        url: "https://soundcloud.com/farrenhyte/main-theme-classic-hyrule",
+        answer: 1498,
+    },
+    {
+        url: "https://soundcloud.com/jalexth777/linkles-theme-hyrule-warriors-legends",
+        answer: 1499,
+    },
+    {
+        url: "https://soundcloud.com/jalexth777/title-dragon-roost-wind-waker-hyrule-warriors-legends",
+        answer: 1500,
+    },
+    {
+        url: "https://soundcloud.com/okdska/hyrule-warriors-legends-molgera",
+        answer: 1501,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/tal-tal-heights-16-bit-hyrule-warriors-6?si=0df2b8bf53ed459ebbc009da72b10b55&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1502,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/clock-town-16-bit-hyrule-warriors-2?si=f9f8a99442b74b05b8ba9657cb40d61f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1503,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/lorule-field-16-bit-hyrule-warriors-5?si=d4afb0e07d454f719b5a30ef1aa89a57&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1504,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/realm-overworld-16-bit-hyrule-warriors-3?si=5bf88db921f14f469450674191962ce2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1505,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/the-cursed-sea-16-bit-hyrule-warriors-7?si=bfc9dcaea8bd4344843cb8bb04852174&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1506,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/the-great-sea-16-bit-hyrule-warriors-1?si=eaee5a98db094585bc6764f964bf2f60&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1507,
+    },
+    {
+        url: "https://soundcloud.com/john-zelda/hyrule-field-day-16-bit-hyrule-warriors-4?si=3902b311762d4b4282fbbca762bbba22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1508,
+    },
+    // Hyrule Warriors: Age of Calamity
+    // https://soundcloud.com/user-777918113/sets/hyrule-warriors-age-of
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/opening",
+        answer: 1509,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/main-theme",
+        answer: 1510,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/overlooking-hyrule-prelude-to-calamity",
+        answer: 1511,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/war-chronicles",
+        answer: 1512,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/the-battle-of-hyrule-field",
+        answer: 1513,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/guardian-menace",
+        answer: 1514,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/hold-the-line",
+        answer: 1515,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/battle-of-liberation",
+        answer: 1516,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/powerful-foe",
+        answer: 1517,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/imminent-threat",
+        answer: 1518,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/warriors-of-hyrule",
+        answer: 1519,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/a-battles-conclusion",
+        answer: 1520,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/whimsical",
+        answer: 1521,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/royal-research-lab",
+        answer: 1522,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/an-uneasy-heart",
+        answer: 1523,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/overlooking-hyrule-prelude-to-calamity-map",
+        answer: 1524,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/gallery",
+        answer: 1525,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/the-calamitys-revival-enemy-outpost",
+        answer: 1526,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/the-champion-mipha",
+        answer: 1527,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/the-champion-daruk",
+        answer: 1528,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/the-champion-revali",
+        answer: 1529,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/the-champion-urbosa",
+        answer: 1530,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/revali-ace-archer-aviator",
+        answer: 1531,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/a-single-wish",
+        answer: 1532,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/astor-prophet-of-doom",
+        answer: 1533,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/astors-theme",
+        answer: 1534,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/a-quiet-moment",
+        answer: 1535,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/blades-of-the-yiga",
+        answer: 1536,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/crescendo",
+        answer: 1537,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/crescendo-phase-2",
+        answer: 1538,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/decisive-fight-against-calamity-ganon-phase-4",
+        answer: 1539,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/desperate-situation",
+        answer: 1540,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/determination",
+        answer: 1541,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/disquiet",
+        answer: 1542,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/divine-beast-vah-medoh-looms",
+        answer: 1543,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/divine-beast-vah-naboris-looms",
+        answer: 1544,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/divine-beast-vah-rudania-looms",
+        answer: 1545,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/divine-beast-vah-ruta-looms",
+        answer: 1546,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/growing-sorrow",
+        answer: 1547,
+    },
+    {
+        url: "https://soundcloud.com/user-591400883-403610568/harbinger-ganon-hatred-and-malice-incarnate",
+        answer: 1548,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/in-dire-need",
+        answer: 1549,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/intense-battle-against-the-4",
+        answer: 1550,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/intense-battle-against-the-2",
+        answer: 1551,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/intense-battle-against-the",
+        answer: 1552,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/master-kohga-top-banana-of-the",
+        answer: 1553,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/meditative-training",
+        answer: 1554,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/messenger-from-the-future",
+        answer: 1555,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/mortal-struggle-beneath-a",
+        answer: 1556,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/overlooking-hyrule-after-the",
+        answer: 1557,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/overlooking-hyrule-amid-the",
+        answer: 1558,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/push-forward",
+        answer: 1559,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/rescue-operation",
+        answer: 1560,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/romp-across-the-battlefield",
+        answer: 1561,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/saff-credits-alt-version",
+        answer: 1562,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/searching-the-lost-woods",
+        answer: 1563,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/sooga-right-hand-of-the",
+        answer: 1564,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/terrakos-theme",
+        answer: 1565,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/the-knight-who-seals-the",
+        answer: 1566,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/with-power-awakened",
+        answer: 1567,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/worlds-converge-riju-teba",
+        answer: 1568,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/worlds-converge-sidon-yunobo",
+        answer: 1569,
+    },
+    {
+        url: "https://soundcloud.com/user-777918113/zeldas-lullaby-ancient-tune",
+        answer: 1570,
+    },
 ];

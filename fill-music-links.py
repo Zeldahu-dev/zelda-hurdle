@@ -238,8 +238,10 @@ def game_name_from_playlist_title(title: str) -> str:
     return game
 
 
-def infer_tags(song_name: str, game_name: str, original_title: str) -> list:
-    text = f"{song_name} {game_name} {original_title}".lower()
+def infer_tags(song_name: str) -> list:
+    # Only analyze the actual song title; ignore any " - Game Name" suffix.
+    song_title_only = song_name.rsplit(" - ", 1)[0]
+    text = song_title_only.lower()
     tags = []
 
     def add(tag):
@@ -449,7 +451,7 @@ def main():
         dur_s = f"{track['duration'] // 1000}s" if track.get("duration") else "?s"
         song_name = song_name_from_url(url)
         full_name = f"{song_name} - {game_name}"
-        tags = infer_tags(song_name, game_name, title)
+        tags = infer_tags(song_name)
         print(f"  [{cur_id}] {title} ({dur_s})")
         print(f"       → {url}")
         print(f"       name: {full_name}")
