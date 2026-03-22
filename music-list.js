@@ -6955,7 +6955,7 @@ var musicNameList = [
     },
     {
         id: 1380,
-        name: "DampÃƒÂ© - Echoes of Wisdom",
+        name: "Dampé - Echoes of Wisdom",
         tags: ["Character"],
     },
     {
@@ -7308,7 +7308,7 @@ var musicNameList = [
     },
     {
         id: 1450,
-        name: "DampÃƒÂ©'s House - Link's Awakening (Remake)",
+        name: "Dampé's House - Link's Awakening (Remake)",
         tags: ["Area"],
     },
     {
