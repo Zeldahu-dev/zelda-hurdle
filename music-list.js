@@ -7915,4 +7915,528 @@ var musicNameList = [
         name: "Zelda's Lullaby (Ancient Tune) - Hyrule Warriors: Age of Calamity",
         tags: ["Event", "Character"],
     },
+    // Hyrule Warriors: Age of Imprisonment
+    // https://soundcloud.com/infiniteshadow23/sets/the-legend-of-zelda-age-of
+    {
+        id: 1571,
+        name: "Opening - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event", "Other"],
+    },
+    {
+        id: 1572,
+        name: "Land of Antiquity - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Area"],
+    },
+    {
+        id: 1573,
+        name: "Disaster's Approach - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1574,
+        name: "Sacred Mysteries - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1575,
+        name: "Main Theme - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Other"],
+    },
+    {
+        id: 1576,
+        name: "Repose - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1577,
+        name: "Memories of Peace - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1578,
+        name: "Joyful Days - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1579,
+        name: "On the March - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1580,
+        name: "Toward Destiny - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1581,
+        name: "The Final Confrontation for the Future - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1582,
+        name: "A Clash of Constructs - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1583,
+        name: "Journey's End - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1584,
+        name: "Staff Credits - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Other"],
+    },
+    {
+        id: 1585,
+        name: "Undaunted Will - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1586,
+        name: "On the Offensive - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1587,
+        name: "Reflecting on Battle - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1588,
+        name: "The Kingdom of Hyrule, Age of Legends (Title Screen) - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Other"],
+    },
+    {
+        id: 1589,
+        name: "The Kingdom of Hyrule, Age of Legends (Preparations) - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1590,
+        name: "Gallery - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1591,
+        name: "Training Grounds - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1592,
+        name: "The Unknown Abyss - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Area"],
+    },
+    {
+        id: 1593,
+        name: "Fierce Clash Frox - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1594,
+        name: "Fierce Clash Flux Construct - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1595,
+        name: "Encountering the Unknown - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1596,
+        name: "Dark Ambition - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1597,
+        name: "To the Rescue - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1598,
+        name: "The Traveling Korok - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Character"],
+    },
+    {
+        id: 1599,
+        name: "Wicked Designs - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1600,
+        name: "Looming Crisis - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1601,
+        name: "Bitter Sorrow - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1602,
+        name: "The Kingdom of Hyrule, Rise of the Demon King (Title Screen) - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Other"],
+    },
+    {
+        id: 1603,
+        name: "The Kingdom of Hyrule, Rise of the Demon King (Preparations) - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1604,
+        name: "Memories of Strife - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1605,
+        name: "The Soaring Construct - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1606,
+        name: "The Blood Moon Rises - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle", "Event"],
+    },
+    {
+        id: 1607,
+        name: "Fierce Clash Gleeok - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1608,
+        name: "Grimgera, Archfiend of Tempests - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1609,
+        name: "Battle for the Snowfield - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1610,
+        name: "Battle for the Wetlands - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1611,
+        name: "Grimtorok, Archfiend of Grime - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1612,
+        name: "Struggle for the Crater - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Area", "Battle"],
+    },
+    {
+        id: 1613,
+        name: "The Light of Hope - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1614,
+        name: "Battle for the Volcano - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1615,
+        name: "Hearts Connected / Zelda's Hope - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event", "Character"],
+    },
+    {
+        id: 1616,
+        name: "Battle for the Forest - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1617,
+        name: "Battle for the Desert - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1618,
+        name: "The Kingdom of Hyrule, Turning the Tides (Title Screen) - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Other"],
+    },
+    {
+        id: 1619,
+        name: "The Kingdom of Hyrule, Turning the Tides (Preparations) - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1620,
+        name: "Overpowered - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1621,
+        name: "Grimgohma, Archfiend of Lava - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1622,
+        name: "Into the Depths - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Area"],
+    },
+    {
+        id: 1623,
+        name: "Fierce Clash Phantom Ganon - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1624,
+        name: "Outmatched - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1625,
+        name: "Grimgibdo, Archfiend of Sand - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Battle"],
+    },
+    {
+        id: 1626,
+        name: "The Stormwind Ark - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event", "Area"],
+    },
+    {
+        id: 1627,
+        name: "Deadlocked - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    {
+        id: 1628,
+        name: "A King's Duty - Hyrule Warriors: Age of Imprisonment",
+        tags: ["Event"],
+    },
+    // Cadence of Hyrule
+    // https://soundcloud.com/luikas2/sets/cadence-of-hyrule-ost
+    {
+        id: 1629,
+        name: "Main Menu - Cadence of Hyrule",
+        tags: ["Other"],
+    },
+    {
+        id: 1630,
+        name: "1-1 / Kakariko Crypt (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1631,
+        name: "1-1 / Kakariko Crypt (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1632,
+        name: "Overworld (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1633,
+        name: "Overworld (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1634,
+        name: "Cave (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1635,
+        name: "Cave (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1636,
+        name: "Fortune Teller - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1637,
+        name: "Fairy's Fountain - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1638,
+        name: "Kakariko Village - Cadence of Hyrule",
+        tags: ["Town"],
+    },
+    {
+        id: 1639,
+        name: "Minigame (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1640,
+        name: "Minigame - Cadence of Hyrule",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1641,
+        name: "Windmill Hut / Song of Storms - Cadence of Hyrule",
+        tags: ["Area", "Event"],
+    },
+    {
+        id: 1642,
+        name: "Frozen Grotto (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1643,
+        name: "Frozen Grotto (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1644,
+        name: "Wizzroboe Boss Battle - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1645,
+        name: "Gerudo Valley (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1646,
+        name: "Gerudo Valley (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1647,
+        name: "Gerudo Ruins (Peaceful) - Cadence of Hyrule",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1648,
+        name: "Gerudo Ruins (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Dungeon"],
+    },
+    {
+        id: 1649,
+        name: "Bass Guitaromas Knights Boss Battle - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1650,
+        name: "Death Mountain (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1651,
+        name: "Death Mountain (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1652,
+        name: "Temple of Storms (Peaceful) - Cadence of Hyrule",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1653,
+        name: "Temple of Storms (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Dungeon"],
+    },
+    {
+        id: 1654,
+        name: "Gleeokenspiel Boss Battle - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1655,
+        name: "Lost Woods (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1656,
+        name: "Lost Woods (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1657,
+        name: "Lost Swamp (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1658,
+        name: "Lost Swamp (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1659,
+        name: "Gohmaracas Boss Battle - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1660,
+        name: "Hyrule Castle (Peaceful) - Cadence of Hyrule",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1661,
+        name: "Hyrule Castle (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Dungeon"],
+    },
+    {
+        id: 1662,
+        name: "Octavo Boss Battle Medley - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1663,
+        name: "Dark World (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1664,
+        name: "Dark World (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1665,
+        name: "Ganon Boss Battle - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1666,
+        name: "Octavo's Ode Boss Medley - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1667,
+        name: "Deku Village - Cadence of Hyrule",
+        tags: ["Town"],
+    },
+    {
+        id: 1668,
+        name: "Gerudo Coliseum (Peaceful) - Cadence of Hyrule",
+        tags: ["Area"],
+    },
+    {
+        id: 1669,
+        name: "Gerudo Coliseum (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Area"],
+    },
+    {
+        id: 1670,
+        name: "King Dobongo - Cadence of Hyrule",
+        tags: ["Event", "Battle"],
+    },
+    {
+        id: 1671,
+        name: "Temple of Brainstorms (Peaceful) - Cadence of Hyrule",
+        tags: ["Dungeon"],
+    },
+    {
+        id: 1672,
+        name: "Temple of Brainstorms (Combat) - Cadence of Hyrule",
+        tags: ["Battle", "Dungeon"],
+    },
+    {
+        id: 1673,
+        name: "Synthrova Boss Battle - Cadence of Hyrule",
+        tags: ["Battle"],
+    },
+    {
+        id: 1674,
+        name: "Game Over - Cadence of Hyrule",
+        tags: ["Area", "Event"],
+    },
 ];

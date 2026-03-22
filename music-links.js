@@ -6342,4 +6342,424 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/user-777918113/zeldas-lullaby-ancient-tune",
         answer: 1570,
     },
+    // Hyrule Warriors: Age of Imprisonment
+    // https://soundcloud.com/infiniteshadow23/sets/the-legend-of-zelda-age-of
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/the-legend-of-zelda-age-of-imprisonment-ost-opening",
+        answer: 1571,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/the-legend-of-zelda-age-of-imprisonment-ost-land-of-antiquity",
+        answer: 1572,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/the-legend-of-zelda-age-of-imprisonment-ost-disasters-approach",
+        answer: 1573,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/the-legend-of-zelda-age-of-imprisonment-ost-sacred-mysteries",
+        answer: 1574,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-hyrule-warriors-age-of-imprisonment-main-theme-1",
+        answer: 1575,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-repose-2",
+        answer: 1576,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-the-royal-memoirs-memories-of-peace-4",
+        answer: 1577,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-joyful-days-5",
+        answer: 1578,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-on-the-march",
+        answer: 1579,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-toward-destiny-2",
+        answer: 1580,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-the-final-confrontation-for-the-future-6",
+        answer: 1581,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-a-clash-of-constructs-8",
+        answer: 1582,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-journeys-end-2",
+        answer: 1583,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-staff-credits-3",
+        answer: 1584,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-undaunted-will-4",
+        answer: 1585,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-on-the-offensive-8",
+        answer: 1586,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-reflecting-on-battle-10",
+        answer: 1587,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-the-kingdom-of-hyrule-age-of-legends-title-screen-11",
+        answer: 1588,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-the-kingdom-of-hyrule-age-of-legends-preparations-13",
+        answer: 1589,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-gallery-15",
+        answer: 1590,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-training-grounds-1",
+        answer: 1591,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-the-unknown-abyss-2",
+        answer: 1592,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-fierce-clash-frox-4",
+        answer: 1593,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-fierce-clash-flux-construct-6",
+        answer: 1594,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-encountering-the-unknown-8",
+        answer: 1595,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-dark-ambition-9",
+        answer: 1596,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-to-the-rescue-10",
+        answer: 1597,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-the-traveling-korok-14",
+        answer: 1598,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow12578/hyrule-warriors-age-of-imprisonment-ost-wicked-designs-18",
+        answer: 1599,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-looming-crisis-1",
+        answer: 1600,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-bitter-sorrow-2",
+        answer: 1601,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-kingdom-of-hyrule-rise-of-the-demon-king-title-screen-3",
+        answer: 1602,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-kingdom-of-hyrule-rise-of-the-demon-king-preparations-5",
+        answer: 1603,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-royal-memoirs-memories-of-strife-7",
+        answer: 1604,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-soaring-construct-10",
+        answer: 1605,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-blood-moon-rises-11",
+        answer: 1606,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-fierce-clash-gleeok-12",
+        answer: 1607,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-grimgera-archfiend-of-tempests-14",
+        answer: 1608,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-battle-for-the-snowfield-16",
+        answer: 1609,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-battle-for-the-wetlands-19",
+        answer: 1610,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-grimtorok-archfiend-of-grime-1",
+        answer: 1611,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-struggle-for-the-crater-5",
+        answer: 1612,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-light-of-hope-6",
+        answer: 1613,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-battle-for-the-volcano-7",
+        answer: 1614,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-hearts-connected-12",
+        answer: 1615,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-battle-for-the-forest-13",
+        answer: 1616,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-battle-for-the-desert-15",
+        answer: 1617,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-kingdom-of-hyrule-turning-the-tides-title-screen-20",
+        answer: 1618,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-the-kingdom-of-hyrule-turning-the-tides-preparations-2",
+        answer: 1619,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-overpowered-4",
+        answer: 1620,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-grimgohma-archfiend-of-lava-6",
+        answer: 1621,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-into-the-depths-8",
+        answer: 1622,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow23455555/hyrule-warriors-age-of-imprisonment-ost-fierce-clash-phantom-ganon-9",
+        answer: 1623,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow234556/hyrule-warriors-age-of-imprisonment-ost-outmatched-1",
+        answer: 1624,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow234556/hyrule-warriors-age-of-imprisonment-ost-grimgibdo-archfiend-of-sand-3",
+        answer: 1625,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow234556/hyrule-warriors-age-of-imprisonment-ost-the-stormwind-ark-7",
+        answer: 1626,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow234556/hyrule-warriors-age-of-imprisonment-ost-deadlocked-9",
+        answer: 1627,
+    },
+    {
+        url: "https://soundcloud.com/infiniteshadow234556/203hyrule-warriors-age-of-imprisonment-ost-a-kings-duty-gallery-version-3",
+        answer: 1628,
+    },
+    // Cadence of Hyrule
+    // https://soundcloud.com/luikas2/sets/cadence-of-hyrule-ost
+    {
+        url: "https://soundcloud.com/luikas2/main-menu-cadence-of-hyrule",
+        answer: 1629,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/1-1-peaceful-cadence-of-hyrule",
+        answer: 1630,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/1-1-combat-cadence-of-hyrule",
+        answer: 1631,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/overworld-peaceful-cadence-of",
+        answer: 1632,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/overworld-combat-cadence-of",
+        answer: 1633,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/cave-peaceful-cadence-of",
+        answer: 1634,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/cave-combat-cadence-of-hyrule",
+        answer: 1635,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/fortune-teller-cadence-of",
+        answer: 1636,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/fairy-fountain-cadence-of",
+        answer: 1637,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/kakariko-village-cadence-of",
+        answer: 1638,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/minigame-peaceful-cadence-of",
+        answer: 1639,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/minigame-cadence-of-hyrule",
+        answer: 1640,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/windmill-hut-peaceful-cadence",
+        answer: 1641,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/frozen-grotto-peaceful-cadence",
+        answer: 1642,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/frozen-grotto-combat-cadence",
+        answer: 1643,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/wizzroboe-boss-combat-cadence",
+        answer: 1644,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gerudo-valley-peaceful-cadence",
+        answer: 1645,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gerudo-valley-combat-cadence",
+        answer: 1646,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gerudo-ruins-peaceful-cadence",
+        answer: 1647,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gerudo-ruins-combat-cadence-of",
+        answer: 1648,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/bass-guitaromas-knights-boss",
+        answer: 1649,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/death-mountain-peaceful",
+        answer: 1650,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/death-mountain-combat-cadence",
+        answer: 1651,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/temple-of-storms-peaceful",
+        answer: 1652,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/temple-of-storms-combat",
+        answer: 1653,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gleeokenspiel-boss-combat",
+        answer: 1654,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/lost-woods-peaceful-cadence-of",
+        answer: 1655,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/lost-woods-combat-cadence-of",
+        answer: 1656,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/lost-swamp-peaceful-cadence-of",
+        answer: 1657,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/lost-swamp-combat-cadence-of",
+        answer: 1658,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gohmaracas-boss-combat-cadence",
+        answer: 1659,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/hyrule-castle-peaceful-cadence",
+        answer: 1660,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/hyrule-castle-combat-cadence",
+        answer: 1661,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/octavo-boss-medley-cadence-of",
+        answer: 1662,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/dark-world-peaceful-cadence-of",
+        answer: 1663,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/dark-world-combat-cadence-of",
+        answer: 1664,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/ganon-cadence-of-hyrule",
+        answer: 1665,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/octavos-ode-boss-complete-medley-cadence-of-hyrule",
+        answer: 1666,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/deku-village-cadence-of-hyrule",
+        answer: 1667,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gerudo-coliseum-peaceful",
+        answer: 1668,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/gerudo-coliseum-combat-cadence",
+        answer: 1669,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/king-dobongo-cadence-of-hyrule",
+        answer: 1670,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/temple-of-brainstorms-peaceful",
+        answer: 1671,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/temple-of-brainstorms-combat",
+        answer: 1672,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/synthrova-boss-battle-complete",
+        answer: 1673,
+    },
+    {
+        url: "https://soundcloud.com/luikas2/game-over-cadence-of-hyrule",
+        answer: 1674,
+    },
 ];
