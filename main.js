@@ -6751,8 +6751,8 @@ var app = (function () {
         let t = e.detail.currentSong;
         let musicString = musicNameList.find((a) => a.id == l.correctAnswer);
         // console.log("current song", l);
-        n(2, (l.artist = musicString["name"].split(" - ")[1]), l),
-          n(2, (l.title = musicString["name"].split(" - ")[0]), l),
+        n(2, (l.artist = musicString["name"].split(" - ").slice(-1)[0]), l),
+          n(2, (l.title = musicString["name"].split(" - ").slice(0, -1).join(" - ")), l),
           n(2, (l.img = t.artwork_url), l),
           n(2, (l.duration = t.duration), l),
           n(2, (l.genre = t.genre), l),
