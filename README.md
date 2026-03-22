@@ -1,3 +1,9 @@
+# Zelda Infinite Heardle
+
+A clone of https://main.d37eg71qus0eca.amplifyapp.com/infinite/ but with more songs of more features, built as a fork of Etrain Odyssey Infinite Heardle.
+
+Original README of the fork :
+
 # etrian-infinite-heardle
 
 A clone of [Heardle](https://www.heardle.app/), and [K-Pop Heardle](https://heardle-kpop.glitch.me/) which can be played infinitely and with Etrian Odyssey's musics. Based on [Joywave Heardle](https://joywave-heardle.glitch.me/)

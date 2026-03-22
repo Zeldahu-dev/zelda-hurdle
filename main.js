@@ -21,6 +21,12 @@ var app = (function () {
     ["Super Smash Bros. Brawl", "Super Smash Bros. for 3DS & Wii U"],
     ["Super Smash Bros. Brawl", "Super Smash Bros. Ultimate"],
     ["Super Smash Bros. for 3DS & Wii U", "Super Smash Bros. Ultimate"],
+    ["Ripened Tingle's Balloon Trip of Love", "Freshly-Picked: Tingle's Rosy Rupeeland"],
+    ["Too Much Tingle Pack", "Ripened Tingle's Balloon Trip of Love"],
+    ["Too Much Tingle Pack", "Freshly-Picked: Tingle's Rosy Rupeeland"],
+    ["Tingle's Balloon Fight", "Ripened Tingle's Balloon Trip of Love"],
+    ["Tingle's Balloon Fight", "Freshly-Picked: Tingle's Rosy Rupeeland"],
+    ["Tingle's Balloon Fight", "Too Much Tingle Pack"],
   ];
 
   function isCloseGame(gameA, gameB) {

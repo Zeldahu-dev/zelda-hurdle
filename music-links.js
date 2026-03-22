@@ -7328,4 +7328,125 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/super-smash-bros-anthology-769829437/46-kasss-theme",
         answer: 1811,
     },
+    // Freshly-Picked: Tingle's Rosy Rupeeland
+    // https://soundcloud.com/search?q=Freshly-Picked%3A%20Tingle%27s%20Rosy%20Rupeeland
+    {
+        url: "https://soundcloud.com/medical-vgm/pinkles-theme-hq?si=a9009b2868e646bfbfb456bee025041c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1812,
+    },
+    {
+        url: "https://soundcloud.com/doktor-vgm/deku-temple?si=1cdf994be38f496bae4b2c96b51fdb41&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1813,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/tower-growing-freshly-picked-tingle?si=8f938992bb9e43b0baacf8a7b7417e65&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1814,
+    },
+    {
+        url: "https://soundcloud.com/user-181981622/pirate-ship-freshly-picked-tingles-rosy-rupeeland?si=ad60cd6c71e04071910eefe70fee5839&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1815,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/tingles-house-freshly-picked-tingles-rosy-rupeeland?si=997311b419ef44d5b0f48dd004f1e14d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1816,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/uncle-rupee-remastered-medley-freshly-picked-tingles-rosy-rupeeland?si=093d7f5d6cda4d8d97e278073dda1e7e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1817,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/port-town-remaster-freshly-picked-tingles-rosy-rupeeland?si=aaa0471dd5fd42e596ea6e974ceb8119&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1818,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/menu-hq-freshly-picked?si=f425cf8935774bea91cbd3ce837c531c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1819,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/great-fairy-hq-freshly-picked-tingles-rosy-rupeeland?si=e52bb1ecf5f94b11a7482dfa915cdb44&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1820,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/freshly-picked-tingles-rosy-rupeeland?si=b8b8816c353a4c5e84b0e5096263fdef&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1821,
+    },
+    // Ripened Tingle's Balloon Trip of Love
+    // https://soundcloud.com/search?q=Ripened%20Tingle%27s%20Balloon%20Trip%20of%20Love
+    {
+        url: "https://soundcloud.com/medical-vgm/tingles-balloon-trip-of-love-20-cornfield-memories?si=a95ea4756a2649fda4289b0b4064053e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1822,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/088-title?si=3ea18cd88c094880ad55630a0135ec3d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1823,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/city?si=247bdaf00c3943afbf8c8682b29a942b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1824,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/anxious-feeling-2-a-place-full-of-mistakes-hq-ripened-tingles-balloon-trip-of-love?si=5176941374d54df58af91773721b8580&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1825,
+    },
+    {
+        url: "https://soundcloud.com/mariomario412/tingles-balloon-trip-of-love-love-2-buy-love?si=cefad8848160452ca4e0ee058955068a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1826,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/tingles-balloon-trip-of-love-108-white-time?si=9620eb958972479aaab665a7d15afd19&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1827,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/concealed-mission-hq-ripened-tingles-balloon-trip-of-love?si=af5676450c9243f79cfc6e9dbad7c083&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1828,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/private-polka-hq-ripened-tingles-balloon-trip-of-love?si=358e46ac76f344e7bba4b2e9e7abd559&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1829,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/crazy-hitman-hq-ripened-tingles-balloon-trip-of-love?si=eda53002bd484771836a34e54f5bf97c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1830,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/dunkelmusik-tingles-ripened-balloon-trip-of-love?si=c3aea13da0a84e12a2b87cd32853a678&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1831,
+    },
+    // Too Much Tingle Pack
+    // https://soundcloud.com/search?q=Too%20Much%20Tingle%20Pack
+    {
+        url: "https://soundcloud.com/medical-vgm/main-menu-2-hq-too-much-tingle-pack?si=ebdcfd7e66824dcc8780d8c02aec6f56&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1832,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/flipping-coin-too-much-tingle-pack?si=94c194d6be2341b2bca488eb62188aa8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1833,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/disco-tingle-too-much-tingle-pack?si=93bcea92150f42348164cc3f2d34aefe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1834,
+    },
+    // Tingle's Balloon Fight
+    // https://soundcloud.com/search?q=Tingle%27s%20Balloon%20Fight%20DS
+    {
+        url: "https://soundcloud.com/medical-vgm/balloon-trip-hq-tingles-balloon-fight?si=ee38c200d8fa44029d96b8663abedd17&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1835,
+    },
+    {
+        url: "https://soundcloud.com/christopher-larry-633794308/grand_dads_bonus_level?si=0e1fe9d2855143debb10deef7759ce86&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1836,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/night?si=53b6c407590c47be9cf79fc8a2d01dc9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1837,
+    },
+    {
+        url: "https://soundcloud.com/medical-vgm/title-screen-h?si=b0976a4755b84476a53e1e8a4cf2d873&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1838,
+    },
+    // Mario Kart 8
+    {
+        url: "https://soundcloud.com/ryan-hughes-419361153/hyrule-circuit-mario-kart-8-ost?si=d645464c248a442fab6a8f589f041523&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: 1839,
+    },
 ];

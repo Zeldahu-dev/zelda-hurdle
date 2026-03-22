@@ -9142,4 +9142,153 @@ var musicNameList = [
         name: "Kass's Theme - Super Smash Bros. Ultimate",
         tags: ["Character"],
     },
+    // Freshly-Picked: Tingle's Rosy Rupeeland
+    // https://soundcloud.com/search?q=Freshly-Picked%3A%20Tingle%27s%20Rosy%20Rupeeland
+    {
+        id: 1812,
+        name: "Pinkle - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Character"],
+    },
+    {
+        id: 1813,
+        name: "Deku Tree - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Area"],
+    },
+    {
+        id: 1814,
+        name: "Tower Growing - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Area"],
+    },
+    {
+        id: 1815,
+        name: "Pirate Ship - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Area"],
+    },
+    {
+        id: 1816,
+        name: "Tingle's House - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Area", "Character"],
+    },
+    {
+        id: 1817,
+        name: "Uncle Rupee - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Character"],
+    },
+    {
+        id: 1818,
+        name: "Port Town - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Town"],
+    },
+    {
+        id: 1819,
+        name: "Menu - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Other"],
+    },
+    {
+        id: 1820,
+        name: "Great Fairy - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Event"],
+    },
+    {
+        id: 1821,
+        name: "Lady Bodyguard Battle - Freshly-Picked: Tingle's Rosy Rupeeland",
+        tags: ["Battle"],
+    },
+    // Ripened Tingle's Balloon Trip of Love
+    // https://soundcloud.com/search?q=Ripened%20Tingle%27s%20Balloon%20Trip%20of%20Love
+    {
+        id: 1822,
+        name: "Cornfield Memories - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    {
+        id: 1823,
+        name: "Title Theme - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Other"],
+    },
+    {
+        id: 1824,
+        name: "City - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Town"],
+    },
+    {
+        id: 1825,
+        name: "A Place Full of Mistakes - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    {
+        id: 1826,
+        name: "Buy Love - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    {
+        id: 1827,
+        name: "White Time - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    {
+        id: 1828,
+        name: "Concealed Mission - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    {
+        id: 1829,
+        name: "Private Polka - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    {
+        id: 1830,
+        name: "Crazy Hitman - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    {
+        id: 1831,
+        name: "Dunkelmusik - Ripened Tingle's Balloon Trip of Love",
+        tags: ["Event"],
+    },
+    // Too Much Tingle Pack
+    // https://soundcloud.com/search?q=Too%20Much%20Tingle%20Pack
+    {
+        id: 1832,
+        name: "Main Menu - Too Much Tingle Pack",
+        tags: ["Other"],
+    },
+    {
+        id: 1833,
+        name: "Flipping Coin - Too Much Tingle Pack",
+        tags: ["Event"],
+    },
+    {
+        id: 1834,
+        name: "Disco Tingle - Too Much Tingle Pack",
+        tags: ["Event"],
+    },
+    // Tingle's Balloon Fight
+    // https://soundcloud.com/search?q=Tingle%27s%20Balloon%20Fight%20DS
+    {
+        id: 1835,
+        name: "Balloon Trip - Tingle's Balloon Fight",
+        tags: ["Event"],
+    },
+    {
+        id: 1836,
+        name: "Bonus Level - Tingle's Balloon Fight",
+        tags: ["Event"],
+    },
+    {
+        id: 1837,
+        name: "Night - Tingle's Balloon Fight",
+        tags: ["Event"],
+    },
+    {
+        id: 1838,
+        name: "Title Theme - Tingle's Balloon Fight",
+        tags: ["Other"],
+    },
+    // Mario Kart 8
+    {
+        id: 1839,
+        name: "Hyrule Circuit - Mario Kart 8",
+        tags: ["Area"],
+    },
 ];
