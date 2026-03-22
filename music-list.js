@@ -5319,7 +5319,7 @@ var musicNameList = [
     },
     {
         id: 1054,
-        name: "Lucky Ball: Fi - Breath of the Wild",
+        name: "Lucky Ball: Fi - Tri Force Heroes",
         tags: ["Event"],
     },
     // Breath of the Wild
@@ -6408,7 +6408,7 @@ var musicNameList = [
     },
     {
         id: 1271,
-        name: "Queen Gibdo Battle First - Tears of the Kingdom",
+        name: "Queen Gibdo Battle (Outside) - Tears of the Kingdom",
         tags: ["Battle"],
     },
     {

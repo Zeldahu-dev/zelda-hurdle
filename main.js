@@ -2,16 +2,7 @@ var app = (function () {
   var artist = "Zelda";
 
   const closeGames = [
-    ["The Legend of Zelda", "The Adventure of Link"],
-    ["Link's Awakening", "Oracle of Ages/Seasons"],
-    ["Majora's Mask", "Ocarina of Time"],
-    ["The Minish Cap", "Four Swords"],
-    ["Phantom Hourglass", "Spirit Tracks"],
-    ["A Link Between Worlds", "Tri Force Heroes"],
-    ["Breath of the Wild", "Tears of the Kingdom"],
-    ["Hyrule Warriors: Age of Calamity", "Hyrule Warriors: Age of Imprisonment"],
-    ["Link's Awakening (Remake)", "Echoes of Wisdom"],
-    ["Hyrule Warriors", "Hyrule Warriors Legends"],
+    ["Link's Awakening (Remake)", "Link's Awakening"],
     ["The Faces of Evil", "The Wand of Gamelon"],
     ["Zelda's Adventure", "The Wand of Gamelon"],
     ["The Faces of Evil", "Zelda's Adventure"],
@@ -46,6 +37,11 @@ var app = (function () {
   let removeTags = [];
   if (localStorage.getItem(removeTagsLocationStorage)) {
     removeTags = JSON.parse(localStorage.getItem(removeTagsLocationStorage));
+  }
+  const easyModeLocationStorage = url + "-easyMode"
+  let easyMode = false;
+  if (localStorage.getItem(easyModeLocationStorage)) {
+    easyMode = JSON.parse(localStorage.getItem(easyModeLocationStorage));
   }
 
   // allTags, musicNameList are defined in music-list.js and musicListWithLinks is defined in music-links.js
@@ -149,6 +145,11 @@ var app = (function () {
     removeTags = filteredTags;
     localStorage.setItem(removeTagsLocationStorage, JSON.stringify(filteredTags)),
       window.location.reload();
+  }
+
+  function saveEasyMode(isEnabled) {
+    easyMode = isEnabled;
+    localStorage.setItem(easyModeLocationStorage, JSON.stringify(isEnabled));
   }
 
   function t(e) {
@@ -1482,7 +1483,7 @@ var app = (function () {
         const span = document.createElement("span");
         const word = token.toLowerCase().replace(/\W/g, "");
         const startsWithUppercase = /^[^A-Za-z]*[A-Z]/.test(token);
-        if (word && startsWithUppercase && refWords.has(word)) {
+        if (easyMode && word && startsWithUppercase && refWords.has(word)) {
           span.style.color = "#d9d075";
         }
         span.textContent = token;
@@ -4449,6 +4450,27 @@ var app = (function () {
       "Games you check will be selected. Don't forget to click Save after making your selection.";
     let warning = w("div");
     warning.innerHTML = "Warning: saving will reset your streak.";
+    let selectedEasyMode = easyMode;
+    let easyModeContainer = w("div");
+    let easyModeInput = w("input");
+    let easyModeLabel = w("label");
+    (easyModeInput.id = "easy-mode"),
+      (easyModeInput.name = "easy-mode"),
+      (easyModeInput.checked = selectedEasyMode),
+      (easyModeInput.type = "checkbox"),
+      (easyModeLabel.innerHTML = "Easy mode (color matching title words)"),
+      M(easyModeContainer, "style", "display:flex;gap:8px;align-items:center;margin:10px 0;"),
+      M(easyModeLabel, "for", "easy-mode"),
+      p(easyModeContainer, easyModeInput),
+      p(easyModeContainer, easyModeLabel),
+      easyModeInput.addEventListener("click", function () {
+        selectedEasyMode = easyModeInput.checked;
+      }),
+      easyModeInput.addEventListener("keypress", function (e) {
+        if (e.key === "Enter") {
+          easyModeInput.click();
+        }
+      });
     let filteredGames = [...removeGames];
     let filteredTags = [...removeTags];
     let gridGames = gridFilterDiv(filteredGames, games);
@@ -4463,6 +4485,7 @@ var app = (function () {
     );
     M(save, "aria-label", "Save filters");
     save.addEventListener("click", function () {
+      saveEasyMode(selectedEasyMode);
       saveFilteredGames(filteredGames);
       saveFilteredTags(filteredTags);
     });
@@ -4583,6 +4606,7 @@ var app = (function () {
         g(e, n, t),
           p(n, explainationGames),
           p(n, warning),
+          p(n, easyModeContainer),
           p(n, ccGames),
           p(n, gridGames),
           p(n, explainationTags),
