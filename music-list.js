@@ -6588,8 +6588,8 @@ var musicNameList = [
     },
     {
         id: 1307,
-        name: "Demon King Ganondorf Battle - Tears of the Kingdom",
-        tags: ["Battle", "Character"],
+        name: "Demon King Ganondorf Battle - Second Phase - Tears of the Kingdom",
+        tags: ["Battle"],
     },
     {
         id: 1308,
