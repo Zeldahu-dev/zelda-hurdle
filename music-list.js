@@ -117,7 +117,7 @@ var musicNameList = [
     },
     {
         id: 22,
-        name: "14 3 Billion Years - Outer Wilds",
+        name: "14.3 Billion Years - Outer Wilds",
         tags: ["Event"],
     },
     {
@@ -148,6 +148,123 @@ var musicNameList = [
     {
         id: 28,
         name: "A Terrible Fate - Outer Wilds",
+        tags: ["Event"],
+    },
+    // Outer Wilds: Echoes of the Eye
+    // https://soundcloud.com/andrewprahlow/sets/outer-wilds-echoes-of-the-eye
+    {
+        id: 29,
+        name: "Into Shadow - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 30,
+        name: "The River - Outer Wilds: Echoes of the Eye",
+        tags: ["Area"],
+    },
+    {
+        id: 31,
+        name: "Rivers End - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 32,
+        name: "The First Seekers - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 33,
+        name: "The Premonition - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 34,
+        name: "Strange Flames - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 35,
+        name: "A Dream of Home - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 36,
+        name: "Eternal Halls - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 37,
+        name: "Elegy for the Rings - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 38,
+        name: "The Forbidden Archives - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 39,
+        name: "Test Chamber Three - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 40,
+        name: "Sealed Away - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 41,
+        name: "Fear and Ashes - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 42,
+        name: "The Lost Waltz - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 43,
+        name: "Dark Passage - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 44,
+        name: "Into the Vault - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 45,
+        name: "Secret Ways - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 46,
+        name: "The Sound of Water - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 47,
+        name: "Echoes of the Eye - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 48,
+        name: "Departure - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 49,
+        name: "Travelers Encore - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 50,
+        name: "End of the Wilds - Outer Wilds: Echoes of the Eye",
+        tags: ["Event"],
+    },
+    {
+        id: 51,
+        name: "Postlude - Outer Wilds: Echoes of the Eye",
         tags: ["Event"],
     },
 ];

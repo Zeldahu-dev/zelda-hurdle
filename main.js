@@ -2,31 +2,7 @@ var app = (function () {
   var artist = "Zeldahu games";
 
   const closeGames = [
-    ["Link's Awakening (Remake)", "Link's Awakening"],
-    ["The Faces of Evil", "The Wand of Gamelon"],
-    ["Zelda's Adventure", "The Wand of Gamelon"],
-    ["The Faces of Evil", "Zelda's Adventure"],
-    ["The Wind Waker", "The Wind Waker HD"],
-    ["Four Swords Adventures", "Four Swords Adventures (Navi Trackers)"],
-    ["My Nintendo Picross: Twilight Princess", "Twilight Princess"],
-    ["Link's Crossbow Training", "Twilight Princess"],
-    ["BS Zelda: Ancient Stone Tablets", "BS The Legend of Zelda"],
-    ["Super Smash Bros.", "Super Smash Bros. Melee"],
-    ["Super Smash Bros.", "Super Smash Bros. Brawl"],
-    ["Super Smash Bros.", "Super Smash Bros. for 3DS & Wii U"],
-    ["Super Smash Bros.", "Super Smash Bros. Ultimate"],
-    ["Super Smash Bros. Melee", "Super Smash Bros. Brawl"],
-    ["Super Smash Bros. Melee", "Super Smash Bros. for 3DS & Wii U"],
-    ["Super Smash Bros. Melee", "Super Smash Bros. Ultimate"],
-    ["Super Smash Bros. Brawl", "Super Smash Bros. for 3DS & Wii U"],
-    ["Super Smash Bros. Brawl", "Super Smash Bros. Ultimate"],
-    ["Super Smash Bros. for 3DS & Wii U", "Super Smash Bros. Ultimate"],
-    ["Ripened Tingle's Balloon Trip of Love", "Freshly-Picked: Tingle's Rosy Rupeeland"],
-    ["Too Much Tingle Pack", "Ripened Tingle's Balloon Trip of Love"],
-    ["Too Much Tingle Pack", "Freshly-Picked: Tingle's Rosy Rupeeland"],
-    ["Tingle's Balloon Fight", "Ripened Tingle's Balloon Trip of Love"],
-    ["Tingle's Balloon Fight", "Freshly-Picked: Tingle's Rosy Rupeeland"],
-    ["Tingle's Balloon Fight", "Too Much Tingle Pack"],
+    ["Outer Wilds", "Outer Wilds: Echoes of the Eye"],
   ];
 
   function isCloseGame(gameA, gameB) {

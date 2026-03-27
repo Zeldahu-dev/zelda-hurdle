@@ -119,4 +119,98 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/andrewprahlow/a-terrible-fate",
         answer: 28,
     },
+    // Outer Wilds: Echoes of the Eye
+    // https://soundcloud.com/andrewprahlow/sets/outer-wilds-echoes-of-the-eye
+    {
+        url: "https://soundcloud.com/andrewprahlow/into-shadow",
+        answer: 29,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/the-river",
+        answer: 30,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/rivers-end",
+        answer: 31,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/the-first-seekers",
+        answer: 32,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/the-premonition",
+        answer: 33,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/strange-flames",
+        answer: 34,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/a-dream-of-home",
+        answer: 35,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/eternal-halls",
+        answer: 36,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/elegy-for-the-rings",
+        answer: 37,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/the-forbidden-archives",
+        answer: 38,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/test-chamber-three",
+        answer: 39,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/sealed-away",
+        answer: 40,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/fear-and-ashes",
+        answer: 41,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/the-lost-waltz",
+        answer: 42,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/dark-passage",
+        answer: 43,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/into-the-vault",
+        answer: 44,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/secret-ways",
+        answer: 45,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/the-sound-of-water",
+        answer: 46,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/echoes-of-the-eye",
+        answer: 47,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/departure",
+        answer: 48,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/travelers-encore",
+        answer: 49,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/end-of-the-wilds",
+        answer: 50,
+    },
+    {
+        url: "https://soundcloud.com/andrewprahlow/postlude",
+        answer: 51,
+    },
 ];
