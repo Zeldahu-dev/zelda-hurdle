@@ -213,4 +213,178 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/andrewprahlow/postlude",
         answer: 51,
     },
+    // Ultrakill: Infinite Hyperdeath (act 1 )
+    // https://soundcloud.com/sexballs/sets/ultrakill-infinite-hyperdeath-act-1-ost
+    {
+        url: "https://soundcloud.com/sexballs/01-the-fire-is-gone",
+        answer: 52,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/02-into-the-fire",
+        answer: 53,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/03-unstoppable-force",
+        answer: 54,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/04-cerberus",
+        answer: 55,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/05-a-thousand-greetings",
+        answer: 56,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/06-a-shattered-illusion",
+        answer: 57,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/07-a-complete-and-utter",
+        answer: 58,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/08-sanctuary-in-the-garden-of",
+        answer: 59,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/09-castle-vein",
+        answer: 60,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/10-debussy-clair-de-lune",
+        answer: 61,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/11-versus",
+        answer: 62,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/12-cold-winds",
+        answer: 63,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/13-requiem",
+        answer: 64,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/14-panic-betrayer",
+        answer: 65,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/15-in-the-presence-of-a-king",
+        answer: 66,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/16-guts",
+        answer: 67,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/17-glory",
+        answer: 68,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/18-bach-bwv-639-i-call-to-you",
+        answer: 69,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/19-divine-intervention",
+        answer: 70,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/20-disgrace-humiliation",
+        answer: 71,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/21-take-care",
+        answer: 72,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/22-meganeko-the-cyber-grind",
+        answer: 73,
+    },
+    // Ultrakill: Chaos​/​order
+    // https://soundcloud.com/sexballs/sets/ultrakill-chaosorder
+    {
+        url: "https://soundcloud.com/sexballs/01-the-spinal-staircase",
+        answer: 74,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/02-chaos",
+        answer: 75,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/03-order",
+        answer: 76,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/04-sunshine-mirage",
+        answer: 77,
+    },
+    // Ultrakill: Imperfect Hatred (act 2 )
+    // https://soundcloud.com/sexballs/sets/ultrakill-imperfect-hatred-act-2-ost
+    {
+        url: "https://soundcloud.com/sexballs/01-insert-disc-2",
+        answer: 78,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/02-dune-eternal",
+        answer: 79,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/03-sands-of-tide",
+        answer: 80,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/04-dancer-in-the-darkness",
+        answer: 81,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/05-duel-versus-reprise",
+        answer: 82,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/06-deep-blue",
+        answer: 83,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/07-he-is-the-light-in-my",
+        answer: 84,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/08-death-odyssey",
+        answer: 85,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/09-death-odyssey-aftermath",
+        answer: 86,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/10-the-abyss-and-the-serpent",
+        answer: 87,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/11-chord-of-the-crooked-saints",
+        answer: 88,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/12-altars-of-apostasy-incl",
+        answer: 89,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/13-fallen-angel-an-adaptation",
+        answer: 90,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/14-the-death-of-gods-will-incl",
+        answer: 91,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/15-silence-introspection",
+        answer: 92,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/16-beethoven-7th-symphony-2nd",
+        answer: 93,
+    },
 ];

@@ -267,4 +267,216 @@ var musicNameList = [
         name: "Postlude - Outer Wilds: Echoes of the Eye",
         tags: ["Event"],
     },
+    // Ultrakill
+    // https://soundcloud.com/sexballs/sets/ultrakill-infinite-hyperdeath-act-1-ost
+    {
+        id: 52,
+        name: "The Fire Is Gone - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 53,
+        name: "Into the Fire - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 54,
+        name: "Unstoppable Force - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 55,
+        name: "Cerberus - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 56,
+        name: "A Thousand Greetings - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 57,
+        name: "A Shattered Illusion - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 58,
+        name: "A Complete and Utter Destruction Of The Senses - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 59,
+        name: "Sanctuary in the Garden Of The Mind- Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 60,
+        name: "Castle Vein - Ultrakill",
+        tags: ["Area"],
+    },
+    {
+        id: 61,
+        name: "Debussy, Clair De Lune - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 62,
+        name: "Versus - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 63,
+        name: "Cold Winds - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 64,
+        name: "Requiem - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 65,
+        name: "Panic Betrayer - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 66,
+        name: "In the Presence of a King - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 67,
+        name: "Guts - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 68,
+        name: "Glory - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 69,
+        name: "Bach, Bwv 639, I Call to You Lord Jesus Christ - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 70,
+        name: "Divine Intervention - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 71,
+        name: "Disgrace, Humiliation - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 72,
+        name: "Take Care - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 73,
+        name: "Meganeko, The Cyber Grind - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 74,
+        name: "The Spinal Staircase - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 75,
+        name: "Chaos - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 76,
+        name: "Order - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 77,
+        name: "Sunshine Mirage - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 78,
+        name: "Insert Disc 2 - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 79,
+        name: "Dune Eternal - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 80,
+        name: "Sands of Tide - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 81,
+        name: "Dancer in the Darkness - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 82,
+        name: "Duel (Versus Reprise) - Ultrakill",
+        tags: ["Battle"],
+    },
+    {
+        id: 83,
+        name: "Deep Blue - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 84,
+        name: "He Is the Light in My Darkness - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 85,
+        name: "Death Odyssey - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 86,
+        name: "Death Odyssey Aftermath - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 87,
+        name: "The Abyss and the Serpent - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 88,
+        name: "Chord of the Crooked Saints - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 89,
+        name: "Altars of Apostasy - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 90,
+        name: "Fallen Angel - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 91,
+        name: "The Death of Gods Will - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 92,
+        name: "Silence. Introspection. - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 93,
+        name: "Beethoven, 7th Symphony 2nd Movement 'Allegreto' - Ultrakill",
+        tags: ["Event"],
+    },
 ];
