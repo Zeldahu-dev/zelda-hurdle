@@ -306,7 +306,7 @@ var musicNameList = [
     },
     {
         id: 59,
-        name: "Sanctuary in the Garden Of The Mind- Ultrakill",
+        name: "Sanctuary in the Garden Of The Mind - Ultrakill",
         tags: ["Event"],
     },
     {
