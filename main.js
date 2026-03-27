@@ -1,5 +1,5 @@
 var app = (function () {
-  var artist = "Zelda";
+  var artist = "Zeldahu games";
 
   const closeGames = [
     ["Link's Awakening (Remake)", "Link's Awakening"],
