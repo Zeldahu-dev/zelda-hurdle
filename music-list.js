@@ -479,4 +479,154 @@ var musicNameList = [
         name: "Beethoven, 7th Symphony 2nd Movement 'Allegreto' - Ultrakill",
         tags: ["Event"],
     },
+    {
+        id: 94,
+        name: "Theme of Cancer - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 95,
+        name: "The Song That Plays In The Level Colloquially Known As 4S - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 96,
+        name: "Lakeside Songbook - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 97,
+        name: "(Keygen Church) Tenebre Rosso Sangue - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 98,
+        name: "Pandemonium - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 99,
+        name: "War - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 100,
+        name: "(Keygen Church) Ultrachurch - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 101,
+        name: "(Health) Hateful - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 102,
+        name: "The World Looks White - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 103,
+        name: "The World Looks Red - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 104,
+        name: "Bull Of Hell - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 105,
+        name: "Do Robots Dream Of Eternal Sleep? - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 106,
+        name: "Hear! The Siren Song Call Of Death - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 107,
+        name: "Suffering Leaves Suffering Leaves - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 108,
+        name: "Danse Macabre - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 109,
+        name: "War Without Reason - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 110,
+        name: "After Hours - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 111,
+        name: "A Heart of Cold - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 112,
+        name: "Dead Heat Pulse - Ultrakill",
+        tags: ["Battle"],
+    },
+    {
+        id: 113,
+        name: "An Absence - Ultrakill",
+        tags: ["Other"],
+    },
+    {
+        id: 114,
+        name: "A Part Falling - Ultrakill",
+        tags: ["Battle"],
+    },
+    {
+        id: 115,
+        name: "In Absentia Logos - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 116,
+        name: "Spiral Out (Keep Going) - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 117,
+        name: "Never Odd or Even - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 118,
+        name: "No Devil Lived On - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 119,
+        name: "Mirror Rim - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 120,
+        name: "The Break (Crimson Glass deComposition) - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 121,
+        name: "The Shattering Circle, or: A Charade Of... - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 122,
+        name: "Event Horizon (Reach for The Stars And Burn! Burn!) - Ultrakill",
+        tags: ["Event"],
+    },
+    {
+        id: 123,
+        name: "The Fall - Ultrakill",
+        tags: ["Event"],
+    },
 ];

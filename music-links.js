@@ -387,4 +387,124 @@ var musicListWithLinks = [
         url: "https://soundcloud.com/sexballs/16-beethoven-7th-symphony-2nd",
         answer: 93,
     },
+    {
+        url: "https://soundcloud.com/the-lonely-lump/themeofcancer",
+        answer: 94,
+    },
+    {
+        url: "https://soundcloud.com/sexballs/5-the-song-that-plays-in-the",
+        answer: 95,
+    },
+    {
+        url: "https://soundcloud.com/the-lonely-lump/ultrakill-ost-lakeside",
+        answer: 96,
+    },
+    {
+        url: "https://soundcloud.com/tiltedkys/keygen-church-tenebre-rosso-sangue",
+        answer: 97,
+    },
+    {
+        url: "https://soundcloud.com/the-lonely-lump/pandemonium",
+        answer: 98,
+    },
+    {
+        url: "https://soundcloud.com/the-lonely-lump/ultrakill-ost-war-sisyphus-prime-theme",
+        answer: 99,
+    },
+    {
+        url: "https://soundcloud.com/korebyn-lara/keygen-church-ultrachurch",
+        answer: 100,
+    },
+    {
+        url: "https://soundcloud.com/healthnoise/hateful",
+        answer: 101,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-the-world",
+        answer: 102,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-the-world-1",
+        answer: 103,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-bull-of-hell",
+        answer: 104,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-do-robots",
+        answer: 105,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-hear-the",
+        answer: 106,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-suffering",
+        answer: 107,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-danse",
+        answer: 108,
+    },
+    {
+        url: "https://soundcloud.com/mael-bouchereau/heaven-pierce-her-war-without",
+        answer: 109,
+    },
+    {
+        url: "https://soundcloud.com/colibri-b0re/heaven-pierce-her-after-hours-ultrakill-7-s-theme",
+        answer: 110,
+    },
+    {
+        url: "https://soundcloud.com/user-584913448/a-heart-of-cold-ultrakill-0-e",
+        answer: 111,
+    },
+    {
+        url: "https://soundcloud.com/the-lonely-lump/ultrakill-ost-0-e-combat",
+        answer: 112,
+    },
+    {
+        url: "https://soundcloud.com/rafaelbaileydevita/an-absence-ultrakill-1-e-theme",
+        answer: 113,
+    },
+    {
+        url: "https://soundcloud.com/the-lonely-lump/ultrakill-ost-1-e-combat",
+        answer: 114,
+    },
+    {
+        url: "https://soundcloud.com/rafaelbaileydevita/in-absentia-logos-ultrakill-8",
+        answer: 115,
+    },
+    {
+        url: "https://soundcloud.com/kieran-baldwin-543234789/spiral-out-keep-going",
+        answer: 116,
+    },
+    {
+        url: "https://soundcloud.com/duckoliumuploads5/ultrakill-ost-never-odd-or-even-day-5",
+        answer: 117,
+    },
+    {
+        url: "https://soundcloud.com/user-362886855/no-devil-lived-on-ultrakill-1",
+        answer: 118,
+    },
+    {
+        url: "https://soundcloud.com/user-362886855/mirror-rim-ultrakill-fraud",
+        answer: 119,
+    },
+    {
+        url: "https://soundcloud.com/user-362886855/the-break-crimson-glass",
+        answer: 120,
+    },
+    {
+        url: "https://soundcloud.com/user-362886855/power-ultrakill-fraud",
+        answer: 121,
+    },
+    {
+        url: "https://soundcloud.com/user-362886855/event-horizon-reach-for-the",
+        answer: 122,
+    },
+    {
+        url: "https://soundcloud.com/user-362886855/the-fall-ultrakill-fraud",
+        answer: 123,
+    },
 ];
